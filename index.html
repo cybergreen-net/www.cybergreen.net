@@ -13,8 +13,27 @@ js:
       </p>
     </div>
   </section>
+<br>
 <a name="about"></a>  
   <div class="wrapper" style="text-align:center;">
+    <table style="width:100%">
+      <tr>
+        <th>Title</th>
+        <th>Owner</th>
+        <th>Homepage</th>
+        <th>Data Homepage </th>
+        <th>Data URLs</th>
+      </tr>
+    {% for source in site.data.sources %}
+      <tr>
+        <th>{{source.Title}}</th>
+        <th>{{source.Owner}}</th>
+        <th><a href={{source.Homepage}}>{{source.Homepage}}</a></th>
+        <th>{{source.Data_homepage}}</th>
+        <th>{{source.Data_URLs}}</th>
+      </tr>
+    {% endfor %}
+    </table>
   </div>
 </div>
 <footer>
