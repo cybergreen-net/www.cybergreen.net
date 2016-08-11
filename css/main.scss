@@ -1378,7 +1378,6 @@ html.mm-background .mm-page,
         left:50%;
         bottom:0;
         margin-left:-658px;
-        @include retina-image('../img/home-banner', auto 215px, jpg);
         background-repeat:no-repeat;
         background-position:center bottom;
         height:215px;
