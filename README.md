@@ -26,3 +26,5 @@ jekyll serve --watch
 ```
 
 You should then be able to View the locally hosted site in your browser at the address `localhost:4000`. As you make changes to the repo, Jekyll will automatically regenerate the site accordingly.
+
+The website uses [Github pages](https://pages.github.com). Once your changes have been pushed to the gh-pages branch, they will go live at [inventory.cybergreen.net](inventory.cybergreen.net).
