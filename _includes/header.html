@@ -2,8 +2,15 @@
 {% assign url_last = url_parts |last  %}
 
 <header class="site-header">
-  <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a>
-  <a class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+  <!-- <a href="#menu" class="show-menu"><span class="text">Open the menu</span></a> -->
+  <a style="float: right;
+    display: block;
+    margin-top: 15px;
+    margin-right: 13px;
+    color: #333;
+    text-transform: uppercase;" href="{{ site.baseurl }}/add">add a source</a>
+  <a style="margin-left:13px;" class="site-title" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+
 </header>
 
 <nav id="menu">
@@ -11,28 +18,5 @@
     <li>
       <a href="{{ site.baseurl }}/">Home</a>
     </li>
-
-    <li>
-      <a href="{{ site.baseurl }}/pages/">Pages</a>
-      <ul>
-        <li {% if url_last == 'pages' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/pages/">Page One</a>
-        </li>
-        <li {% if url_last == 'page-two' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/pages/page-two/">Page Two</a>
-        </li>
-        <li {% if url_last == 'page-three' %}class="Selected"{% endif %}>
-          <a href="{{ site.baseurl }}/pages/page-three/">Page Three</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li {% if url_parts contains 'posts' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/posts/">Posts</a>
-    </li>
-    
-    <li {% if url_last ==  'credits' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/credits/">Credits</a>
-    </li>
-
+  </ul>
 </nav>

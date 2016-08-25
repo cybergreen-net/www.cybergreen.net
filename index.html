@@ -1,6 +1,6 @@
 ---
 layout: default
-js: 
+js:
  - vendor/jquery.adaptive-backgrounds.min
  - home
 ---
@@ -14,31 +14,28 @@ js:
     </div>
   </section>
 <br>
-<a name="about"></a>  
-  <div class="wrapper" style="text-align:center;">
-    <table style="width:100%">
-      <tr>
-        <th>Title</th>
-        <th>Owner</th>
-        <th>Homepage</th>
-        <th>Data Homepage </th>
-        <th>Data URLs</th>
-      </tr>
+  <div class="wrapper" style="text-align:center; ">
     {% for source in site.data.sources %}
-      <tr>
-        <th>{{source.Title}}</th>
-        <th>{{source.Owner}}</th>
-        <th><a href={{source.Homepage}}>{{source.Homepage}}</a></th>
-        <th>{{source.Data_homepage}}</th>
-        <th>{{source.Data_URLs}}</th>
-      </tr>
+    <div class="record" style="float:none; width:80%; margin:auto;  ">
+      <h2>
+        <a href="{{source.Homepage}}">
+          {{source.Title}}
+        </a>
+      </h2>
+      <div class="author" style="color: grey; font-size: 18px; font-style: italic;">
+      {{source.Owner}}
+      </div>
+      <div class="description">
+        {{source.Description}}
+        <br/>
+        <br/>
+        <a href="{{source.Homepage}}">Project website »</a>
+      </div>
+    </div>
     {% endfor %}
-    </table>
-  </div>
-  <div class="wrapper" style="text-align:center;">
-    <p> Would you like to <a href="{{ site.baseurl }}/add">add a source</a>?</p>
   </div>
 </div>
 <footer>
-  <h3>An <a href="http://atomatic.net">ATOMATIC</a> project</h3>
+  <h3 style="margin-left:13px; margin-bottom: 13px;">
+    An <a href="http://atomatic.net">ATOMATIC</a> project</h3>
 </footer>
