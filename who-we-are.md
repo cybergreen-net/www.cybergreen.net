@@ -2,30 +2,30 @@
 layout: page
 title: Who We Are
 board:
-  - image: https://www.cybergreen.net/wp-content/uploads/2016/04/paul-twomey-300x300.jpg
+  - image: paul-twomey.jpg
     name: Dr. Paul Twomey
     title: Board Chair
     description: Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm.
-  - image: https://www.cybergreen.net/wp-content/uploads/2016/04/richard-mark-300x300.jpg
+  - image: richard-mark.jpg
     name: Dr. Richard Mark Soley
     title: Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium
     description: Dr. Richard Mark Soley is Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium. Richard also serves on numerous industrial, technical and academic conference program committees, and speaks all over the world on issues relevant to standards, the adoption of new technology and creating successful companies. He is an active angel investor, and was involved in the creation of both the Eclipse Foundation and Open Health Tools. Dr. Soley holds Bachelor's, Master's and Doctoral degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
-  - image: https://www.cybergreen.net/wp-content/uploads/2016/04/yurie-ito-300x300.png
+  - image: yurie-ito.png
     name: Yurie Ito
     title: Founder and Executive Director of The CyberGreen Institute
     description: Yurie Ito is a Founder and Executive Director of The CyberGreen Institute, a global non-profit organization focused on improving the cyber ecosystem’s health by providing reliable metrics, measurement, and mitigation best practices to national CERTs, network operators, and policy makers. She is also a Director of Global Coordination Division for the Japan Computer Emergency Response Team Coordination Center (JPCERT/CC).She has previously served 12 years as Technical Director and Global Coordination Director for the organization, and also served at ICANN as a Director of Global Security Programs from 2009-2011. She has been leading a number of international collaborative efforts, including as Chair of the Asia Pacific Computer Emergency Response Team (APCERT), an active member of the Forum of Incident Response and Security Teams (FIRST), and as Board Member of FIRST for 6 years from 2004-2010.She is a nonresident Senior Fellow at the Atlantic Council, associated with the Cyber Statecraft Initiative. Her Master's thesis at the Fletcher School of Law and Diplomacy, Tufts University, was on Managing Global Cyber Health and Security through Risk Reduction.
 
 
 adviser:
-  - image: https://www.cybergreen.net/wp-content/uploads/2016/04/daniel-geer-300x300.jpg
+  - image: daniel-geer.jpg
     name: Dr. Daniel E. Geer, Jr.
     title: Security Researcher, CyberGreen Metrics Special Adviser
     description: Dan Geer is a security researcher with a quantitative bent. His group at MIT produced Kerberos, and a number of startups later he is still at it — today as Chief Information Security Officer at In-Q-Tel. He writes a lot at every length, and sometimes it gets read. He’s an electrical engineer, a statistician, and someone who thinks truth is best achieved by adversarial procedures.
-  - image: https://www.cybergreen.net/wp-content/uploads/2016/04/paul-vixie.png
+  - image: paul-vixie.png
     name: Dr. Paul Vixie
     title: Chairman and CEO, Farsight Security, CyberGreen Ecosystem Special Adviser
     description: Dr. Paul VIXIE was inducted as an Innovator into the Internet Hall of Fame in 2014 after earning his Ph.D. in Computer Science from KEIO University in 2010. He is a prolific author of open source Internet software including BIND, and of many Internet standards documents concerning DNS and DNSSEC. He was the founder of the first anti-spam company (MAPS, 1996), the first non-profit Internet infrastructure software company (ISC, 1994), the first neutral and commercial Internet exchange (PAIX, 1991), and of Farsight Security (2012), where he now serves as Chairman and Chief Executive Officer.
-  - image: https://www.cybergreen.net/wp-content/uploads/2016/04/fatheroftheinternet.png
+  - image: fatheroftheinternet.png
     name: Dr. Jun Murai
     title: Father of the Internet in Japan, CyberGreen Advocacy Special Adviser
     description: Dr. Jun Murai is known as the ‘father of the Internet in Japan,’ and, outside of Japan, has also been called the 'Internet samurai.’ In 1984, he developed the Japan University UNIX Network (JUNET), the first-ever inter-university network in that nation.In 1988, he founded the Widely Integrated Distributed Environment Project, a Japanese Internet research consortium, for which he continues to serve as a board member. He is a professor and dean of the Faculty of Environment and Information Studies at Keio University, from which he earned his PhD in computer science in 1987. He served as President of the Japan Network Information Center (JPNIC) and as Vice President of the Japanese Internet Association. He served on the Internet Society’s Board of Trustees from 1997 to 2000. In 1998, he was appointed as one of nine initial directors of the Internet Corporation for Assigned Names and Numbers and served until June 2003. He won the 2005 Internet Society's Jonathan B. Postel Service Award in recognition of his vision and pioneering work that helped spread the Internet across the Asia Pacific region. He was honored with the 2011 Institute of Electrical and Electronics Engineers Internet Award.
@@ -64,7 +64,7 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 {% for member in page.board %}
   <div style="margin-bottom: 50px">
-    <img style="width:200px" src="{{member.image}}" />
+    <img style="width:200px" src="{{site.media}}{{member.image}}" />
     <h4>{{ member.name}}</h4>
     <p style="font-size:15px"> <em>{{ member.title }}</em> </p>
 
@@ -76,7 +76,7 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 {% for member in page.adviser %}
   <div style="margin-bottom: 50px">
-  <img style="width:200px" src="{{member.image}}" />
+  <img style="width:200px" src="{{site.media}}{{member.image}}" />
   <h4>{{ member.name}},</h4>
   <p><em>{{ member.title }}</em></p>
 
