@@ -94,6 +94,25 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 {% endfor %}
 </ul>
 
+# Partners
+
+### Our partners are the most important part of creating a more secure and resilient cyber ecosystem
+
+## Data Contributors
+
+CyberGreen provides metrics to measure cyber health over time based on data from proven sources. Some of our partners have been helping clean up the Internet for over ten years. We appreciate their long-time contribution to the healthier Internet ecosystem and the collaboration with CyberGreen metrics.
+
+## Sponsors
+
+CyberGreen relies upon our sponsors for our continued operation, and we appreciate the contributions and support from our sponsors.
+
+CyberGreen seeks general sponsorships, as well as partners for specific programs and projects. We need your contributions to empower our global efforts to improve overall cyber health, and reduce current and emerging risks to the cyber ecosystem. Our impact, through improved metrics and capacity building, will increase exponentially with additional contributions and partnerships. We seek to set up a sustainable organization with long-term funding and partners.
+
+<img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcert_logo.gif" alt="jpcert_logo" width="335" height="90" />
+
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo-300x229.png" alt="UK-FCO-Logo" width="197" height="151" />
+
+
 <!--
 Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm. Much of Paul’s work focuses on cybersecurity for Fortune 1000 companies and public sector agencies.  Paul served from 2003 to 2009 as President and CEO of ICANN, the international non-profit organization that coordinates many of the key functions of the global Internet. He is a Board member of the Atlantic Council of the United States; the founding Chair of the World Economic Forum’s Global Agenda Council on the Future of the Internet; a Commissioner of the Global Information Infrastructure Commission; and was a member of the Advisory Board of the United Nations’ Digital He@lth Initiative.
 -->
