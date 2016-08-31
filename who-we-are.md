@@ -5,7 +5,7 @@ board:
   - image: paul-twomey.jpg
     name: Dr. Paul Twomey
     title: Board Chair
-    description: Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm.
+    description: Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm. Much of Paul’s work focuses on cybersecurity for Fortune 1000 companies and public sector agencies. He served from 2003 to 2009 as President and CEO of ICANN, the international non-profit organization that coordinates many of the key functions of the global Internet. He is a Board member of the Atlantic Council of the United States; the founding Chair of the World Economic Forum’s Global Agenda Council on the Future of the Internet; a Commissioner of the Global Information Infrastructure Commission; and was a member of the Advisory Board of the United Nations’ Digital He@lth Initiative.
   - image: richard-mark.jpg
     name: Dr. Richard Mark Soley
     title: Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium
@@ -51,13 +51,18 @@ experts:
     title: Co-Founder, CSIRT Gadgets Foundation
 ---
 
+
 ## Our mission is to help create a more resilient and healthier Internet Ecosystem
+{:.no_toc}
 
 *The CyberGreen Initiative* is a global non-profit and collaborative organization conducting activities focused on helping to improve the health of the global Cyber Ecosystem.
 
 CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to Cyber Security Incident Response Teams (CSIRTs), network operators, and policy makers.
 
 These efforts will facilitate operational cleanup of systems, and will ensure that policy development and capacity building have the insight to focus on reducing systemic risk conditions.
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 ## Board of Directors
 
@@ -96,7 +101,8 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 # Partners
 
-### Our partners are the most important part of creating a more secure and resilient cyber ecosystem
+Our partners are the most important part of creating a more secure and resilient cyber ecosystem
+
 
 ## Data Contributors
 
@@ -110,7 +116,7 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 
 <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcert_logo.gif" alt="jpcert_logo" width="335" height="90" />
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo-300x229.png" alt="UK-FCO-Logo" width="197" height="151" />
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
 
 
 <!--
