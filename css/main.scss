@@ -156,10 +156,11 @@ pre,
 
 
     h1 {
-      font-family: $serif;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 2em;
       font-weight: 700;
       margin-bottom: 0.5em;
+      color:#00D49A;
 
       @include media($medium-screen) {
         font-size: 2.6em;
@@ -225,11 +226,12 @@ pre,
     }
 
     h2 {
-      font-family: $serif;
+      font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;;
       font-size: 1.4em;
       line-height: 1.3em;
       margin-bottom: .4em;
       font-weight:700;
+      color:#00BAB5;
     }
 
     h3 {
@@ -242,6 +244,7 @@ pre,
     h4 {
       font-size: 1.2em;
       margin-bottom: .4em;
+      color:#00BAB5;
     }
 
     h5 {
@@ -1116,7 +1119,9 @@ body:not( .filters ) {
 html,
 html.mm-background .mm-page,
 .site-footer {
-  background-color:$medium-gray;
+  margin-top: 25px;
+  border-top: 1px solid #4F4F4F;
+  background-color: #fff;
 }
 
 
@@ -2055,7 +2060,7 @@ header.navigation {
     border-right: $grid-item-border;
     cursor: pointer;
     float: left;
-    height: 55em;
+    height: 37em;
     outline: none;
     overflow: hidden;
     padding: 2em;
@@ -2098,7 +2103,7 @@ header.navigation {
       line-height: 2em;
 
       @include media($medium-screen) {
-        max-width: 70%;
+        max-width: 90%;
       }
     }
 
@@ -2130,6 +2135,7 @@ header.navigation {
     width: 4px;
   }
 }
+
 
 #owl-demo .item img{
     display: block;

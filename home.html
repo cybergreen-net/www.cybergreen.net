@@ -5,24 +5,20 @@ js:
  - home
 ---
 <div class="home">
-  <section class="banner" data-adaptive-background='1' data-ab-css-background='1'>
-    <div class="wrapper">
-      <h1>CYBERGREEN</h1>
-      <p> A global community to measure and improve cyber health
-      </p>
+<img style="width:2000px"src="{{site.media}}test-theater.jpg"/>
     </div>
-  </section>
   <!--<div class="item"><img src="{{site.media}}cyber-green-theater.jpg" alt="Cyber Gree Theater" ></div> -->
 
   <div class="wrapper" style="text-align:center; line-height:35px ">
+    <h1 style="color:#00BAB5; font-size:40px"> What we do </h1>
     <p style="margin:20px"> We help CSIRTs focus their remediation efforts on the most important risks; to help understand where improvements can be made and how, together, we can achieve a more sustainable, secure, and resilient cyber ecosystem.</p>
 
-    <h2>Infographic: Improving Global Cyber Health</h2>
-    <img style="width:300px"src="{{site.media}}infographic-3.jpg"/>
+    <h1 style="color:#00BAB5; font-size:20px">Infographic: Improving Global Cyber Health</h1>
+    <img style="width:300px"src="{{site.media}}infographic-3.jpg"; href="{{site.media}}CG-infographic-2016-web.pdf"/>
     <p>Get your copy of CyberGreen’s infographic on how metrics make a difference!</p>
-      <h3> <a href="{{site.media}}CG-infographic-2016-web.pdf" target="_blank">[Download]</a> </h3>
+      <h3> <a href="{{site.media}}CG-infographic-2016-web.pdf" target="_blank">[Dowload]</a> </h3>
 
-    <h2 style="margin:20px">Recent posts</h2>
+    <h2 style="margin:20px; color:#00BAB5; font-size:40px">Recent posts</h2>
     <ul>
       {% for post in site.posts limit:5 %}
         <li>
@@ -32,22 +28,15 @@ js:
     </ul>
   </div>
 </div>
-    <div class="grid-items-lines">
-      <a href="javascript:void(0)" class="grid-item">
-        <h1>Dr. Jun Murai</h1>
-        <h2>Dean/Professor, Faculty of Environment and Information Studies, Keio University</h2>
-        <p>"The role of the Internet is to empower everybody on this planet to keep the global economy stable and growing, and to be responsible for this planet. This only can be achieved by a process to construct a healthy ecosystem of cyberspace. The mission of CyberGreen is to achieve a healthy ecosystem, and to get us working together for our common goals."</p>
-      </a>
-      <a href="javascript:void(0)" class="grid-item">
-        <h1>Dr. Dan Geer</h1>
-        <h2> Security Researcher</h2>
-        <p>"Getting 'the big picture' is nearly always a cliché, and of times some sort of self-congratulatory advertisement. Nevertheless, CyberGreen is a fresh attempt to get the big picture for the public health of the Internet. This means looking globally and identifying the hot spots needing first-priority remediation. Easier said than done, as it turns out, but that only makes it more important to try. Because there is no centralized entity to compel the Internet to do anything well, the public health of the Internet is thus left to a coalition of the willing—willing to provide repeatable quantification, and willing to accept a feedback loop that does not drift into that dreaded self-congratulatory advertisement. Join us, or come up with a better idea."</p>
-      </a>
-      <a href="javascript:void(0)" class="grid-item">
-        <h1>Dr. Richard Mark Soley</h1>
-        <h2>Executive Director of the Industrial Internet Consortium</h2>
-        <p>"The linkages that are empowered by the Internet are ever more embedded in our daily lives as the Internet of Things grows. We need CyberGreen to measure how this growth impacts the health of the cyber ecosystem, and to ensure that we can measure and manage it."</p>
-      </a>
-      <div class="right-cover"></div>
-      <div class="bottom-cover"></div>
-    </div>
+
+
+<!-- <<div>
+    <a>
+      <img style="width:200px; margin-right:30px" "align:right" src="{{site.media}}gfce.png"/>
+      <img style="width:300px; margin-right:30px" "align:center" src="{{site.media}}jpcert_logo.gif"/>
+      <img style="width:300px; margin-right:30px" "align:center" src="{{site.media}}ocert_logo_small.png"/>
+      <img style="width:200px; margin-right:30px" "align:left" src="{{site.media}}Transparentlogo.png"/>
+      <img style="width:200px; margin-right:30px" "align:left" src="{{site.media}}UK-FCO-Logo.png"/>
+
+    </a>
+</div> -->

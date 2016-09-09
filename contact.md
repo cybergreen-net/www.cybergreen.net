@@ -3,6 +3,13 @@ layout: page
 title: Contact
 ---
 
-<h2 style="margin-left: 0px; margin-right: 0px;">Email</h2>
-General Inquiries and Partnerships
-<a href="mailto:contact@cybergreen.net">c</a><a href="mailto:contact@cybergreen.net">ontact@cybergreen.net</a>
+<form action="https://formspree.io/contact@cybergreen.net"
+      method="POST">
+      <h4>Name</h4>
+    <input type="text" name="name" />    
+    <h4>Email</h4>
+    <input type="email" name="_replyto" />
+    <h4>Description</h4>
+    <textarea  name="description"> </textarea>
+    <input type="submit" value="Send">
+</form>
