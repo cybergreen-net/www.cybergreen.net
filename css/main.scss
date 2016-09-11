@@ -45,8 +45,8 @@ p {
 }
 
 a {
-  color: $base-link-color;
-  text-decoration: none;
+  color: #0FB3FF;
+  text-decoration: underline;
 }
 
 .headerlink {
@@ -1119,7 +1119,7 @@ body:not( .filters ) {
 html,
 html.mm-background .mm-page,
 .site-footer {
-  margin-top: 25px;
+  margin-top: 2px;
   border-top: 1px solid #4F4F4F;
   background-color: #fff;
 }
