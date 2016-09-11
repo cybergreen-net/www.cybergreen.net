@@ -5,17 +5,15 @@ title: Data Inventory
 
 
 {% for source in site.data.sources %}
-<div class="record">
-  <h2>
-    <a href="{{source.Homepage}}">
+<div style="margin-bottom:40px;" class="record">
+  <h2 style="margin-bottom:5px">
       {{source.Title}}
-    </a>
   </h2>
-  <div class="author" style="color: grey; font-size: 18px; font-style: italic;">
+  <div class="author" style="color: grey; font-size: 18px; font-style: italic; margin-top:4px">
   {{source.Owner}}
   </div>
   <div>
-  Format: {{source.Format}}
+    Format:{{source.Format}}
   </div>
   <div>
     Taxonomy: {{source.Taxonomy}}
@@ -29,8 +27,6 @@ title: Data Inventory
   </div>
   <div class="description">
     {{source.Description}}
-    <br/>
-    <br/>
     <a href="{{source.Homepage}}">Project website »</a>
   </div>
 </div>
