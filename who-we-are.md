@@ -2,25 +2,21 @@
 layout: page
 title: Who We Are
 board:
-  - image: paul-twomey.jpg
+  - image: BBpaul-twomey.jpg
     name: Dr. Paul Twomey
     title: Board Chair
     description: Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm. Much of Paul’s work focuses on cybersecurity for Fortune 1000 companies and public sector agencies. He served from 2003 to 2009 as President and CEO of ICANN, the international non-profit organization that coordinates many of the key functions of the global Internet. He is a Board member of the Atlantic Council of the United States; the founding Chair of the World Economic Forum’s Global Agenda Council on the Future of the Internet; a Commissioner of the Global Information Infrastructure Commission; and was a member of the Advisory Board of the United Nations’ Digital He@lth Initiative.
-  - image: richard-mark.jpg
+  - image: BBrichard-mark.jpg
     name: Dr. Richard Mark Soley
     title: Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium
     description: Dr. Richard Mark Soley is Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium. Richard also serves on numerous industrial, technical and academic conference program committees, and speaks all over the world on issues relevant to standards, the adoption of new technology and creating successful companies. He is an active angel investor, and was involved in the creation of both the Eclipse Foundation and Open Health Tools. Dr. Soley holds Bachelor's, Master's and Doctoral degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
-  - image: yurie-ito.png
+  - image: BByurie-ito copy.png
     name: Yurie Ito
     title: Founder and Executive Director of The CyberGreen Institute
     description: Yurie Ito is a Founder and Executive Director of The CyberGreen Institute, a global non-profit organization focused on improving the cyber ecosystem’s health by providing reliable metrics, measurement, and mitigation best practices to national CERTs, network operators, and policy makers. She is also a Director of Global Coordination Division for the Japan Computer Emergency Response Team Coordination Center (JPCERT/CC).She has previously served 12 years as Technical Director and Global Coordination Director for the organization, and also served at ICANN as a Director of Global Security Programs from 2009-2011. She has been leading a number of international collaborative efforts, including as Chair of the Asia Pacific Computer Emergency Response Team (APCERT), an active member of the Forum of Incident Response and Security Teams (FIRST), and as Board Member of FIRST for 6 years from 2004-2010.She is a nonresident Senior Fellow at the Atlantic Council, associated with the Cyber Statecraft Initiative. Her Master's thesis at the Fletcher School of Law and Diplomacy, Tufts University, was on Managing Global Cyber Health and Security through Risk Reduction.
 
 
 adviser:
-  - image: daniel-geer.jpg
-    name: Dr. Daniel E. Geer, Jr.
-    title: Security Researcher, CyberGreen Metrics Special Adviser
-    description: Dan Geer is a security researcher with a quantitative bent. His group at MIT produced Kerberos, and a number of startups later he is still at it — today as Chief Information Security Officer at In-Q-Tel. He writes a lot at every length, and sometimes it gets read. He’s an electrical engineer, a statistician, and someone who thinks truth is best achieved by adversarial procedures.
   - image: paul-vixie.png
     name: Dr. Paul Vixie
     title: Chairman and CEO, Farsight Security, CyberGreen Ecosystem Special Adviser
@@ -29,6 +25,10 @@ adviser:
     name: Dr. Jun Murai
     title: Father of the Internet in Japan, CyberGreen Advocacy Special Adviser
     description: Dr. Jun Murai is known as the ‘father of the Internet in Japan,’ and, outside of Japan, has also been called the 'Internet samurai.’ In 1984, he developed the Japan University UNIX Network (JUNET), the first-ever inter-university network in that nation.In 1988, he founded the Widely Integrated Distributed Environment Project, a Japanese Internet research consortium, for which he continues to serve as a board member. He is a professor and dean of the Faculty of Environment and Information Studies at Keio University, from which he earned his PhD in computer science in 1987. He served as President of the Japan Network Information Center (JPNIC) and as Vice President of the Japanese Internet Association. He served on the Internet Society’s Board of Trustees from 1997 to 2000. In 1998, he was appointed as one of nine initial directors of the Internet Corporation for Assigned Names and Numbers and served until June 2003. He won the 2005 Internet Society's Jonathan B. Postel Service Award in recognition of his vision and pioneering work that helped spread the Internet across the Asia Pacific region. He was honored with the 2011 Institute of Electrical and Electronics Engineers Internet Award.
+  - image: BBdaniel-geer.jpg
+    name: Dr. Daniel E. Geer, Jr.
+    title: Security Researcher, CyberGreen Metrics Special Adviser
+    description: Dan Geer is a security researcher with a quantitative bent. His group at MIT produced Kerberos, and a number of startups later he is still at it — today as Chief Information Security Officer at In-Q-Tel. He writes a lot at every length, and sometimes it gets read. He’s an electrical engineer, a statistician, and someone who thinks truth is best achieved by adversarial procedures.
 
 experts:
   - name: Prof. Manel Medina
@@ -61,15 +61,13 @@ CyberGreen will achieve this by providing reliable metrics, measurements, and mi
 
 These efforts will facilitate operational cleanup of systems, and will ensure that policy development and capacity building have the insight to focus on reducing systemic risk conditions.
 
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
 
-## Board of Directors
+# Board of Directors
 
 
 {% for member in page.board %}
   <div style="margin-bottom: 50px">
-    <img style="width:200px" src="{{site.media}}{{member.image}}" />
+    <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
     <h4>{{ member.name}}</h4>
     <p style="font-size:15px"> <em>{{ member.title }}</em> </p>
 
@@ -77,11 +75,11 @@ These efforts will facilitate operational cleanup of systems, and will ensur
   </div>
 {% endfor %}
 
-## Advisers
+# Special Advisers
 
 {% for member in page.adviser %}
   <div style="margin-bottom: 50px">
-  <img style="width:200px" src="{{site.media}}{{member.image}}" />
+  <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
   <h4>{{ member.name}},</h4>
   <p><em>{{ member.title }}</em></p>
 
@@ -91,13 +89,10 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 ## Metrics and Data Advisory Experts
 
-<ul>
 {% for member in page.experts %}
-  <li style="margin-bottom:15px">
-    <h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
-  </li>
+<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
 {% endfor %}
-</ul>
+
 
 # Partners
 
