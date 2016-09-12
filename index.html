@@ -4,50 +4,92 @@ js:
  - vendor/jquery.adaptive-backgrounds.min
  - home
 ---
-
 <div class="home">
-  <section class="banner" data-adaptive-background='1' data-ab-css-background='1'>
-    <div class="wrapper">
-      <h1>{{ site.title }}</h1>
-      <p>{{ site.description }}
-      </p>
-    </div>
-  </section>
-<br>
-  <div class="wrapper" style="text-align:center; ">
-    {% for source in site.data.sources %}
-    <div class="record" style="float:none; width:80%; margin:auto;  ">
-      <h2>
-        <a href="{{source.Homepage}}">
-          {{source.Title}}
-        </a>
-      </h2>
-      <div class="author" style="color: grey; font-size: 18px; font-style: italic;">
-      {{source.Owner}}
+  <img style="width:2000px"src="{{site.media}}test-theater.jpg"/>
+</div>
+
+  <ul class="bullets">
+    <li class="bullet">
+      <div class="bullet-icon bullet-icon-1">
+        <img src="{{site.media}}icon01.png" alt="">
       </div>
-      <div>
-      Format: {{source.Format}}
+      <div class="bullet-content">
+        <h2>What we do</h2>
+        <p>We help CSIRTs focus their remediation efforts on the most important risks; to help understand where improvements can be made and how, together, we can achieve a more sustainable, secure, and resilient cyber ecosystem.</p>
+        </div>
+    </li>
+    <li class="bullet">
+      <div class="bullet-icon bullet-icon-2">
+        <img src="{{site.media}}icon17.png"  alt="">
       </div>
-      <div>
-        Taxonomy: {{source.Taxonomy}}
+      <div class="bullet-content">
+        <h2 href="{{site.media}}/data-inventory/">Stats and Data</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, minus, blanditiis, voluptatibus nulla quia ipsam sequi quos iusto aliquam iste magnam accusamus molestias quo illum.</p>
       </div>
-      <div>
-        Public: {{source.Public}}
+    </li>
+    <li class="bullet">
+      <div class="bullet-icon bullet-icon-3">
+        <img src="{{site.media}}icon15.png" alt="">
       </div>
-      <div>
-        Relevance: {{source.Relevance}}
+      <div class="bullet-content">
+        <h2>Get involved</h2>
+        <p>Lorem ipsum sit amet consectetur adipisicing elit. Doloremque, minus, blanditiis, voluptatibus nulla quia ipsam sequi quos iusto aliquam iste magnam accusamus molestias quo illum impedit. Odit officia autem.</p>
       </div>
-      <div class="description">
-        {{source.Description}}
-        <br/>
-        <br/>
-        <a href="{{source.Homepage}}">Project website »</a>
-      </div>
-    </div>
-    {% endfor %}
+    </li>
+  </ul>
+
+  <div class="side-image">
+  <div class="images-wrapper"></div>
+    <div class="side-image-content">
+      <h4>Improving Global Cyber Health</h4>
+      <h1>Get your copy of CyberGreen’s infographic on how metrics make a difference!</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam assumenda nihil suscipit obcaecati sit, cum quod corporis adipisci ipsam, fugiat, quae error. Eaque commodi, dicta quidem explicabo mollitia inventore quibusdam.
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam assumenda nihil suscipit obcaecati sit, cum quod corporis adipisci ipsam, fugiat, quae error. Eaque commodi, dicta quidem explicabo mollitia inventore quibusdam.</p>
+      <h3> <a href="{{site.media}}CG-infographic-2016-web.pdf" style="font-size:20px;" target="_blank">[Dowload]</a> </h3>
   </div>
 </div>
-<footer>
-  <h3 style="margin-left:13px; margin-bottom: 13px;">
-    An <a href="http://atomatic.net">ATOMATIC</a> project</h3>
-</footer>
+
+
+<div class="hero">
+  <div class="hero-content">
+    <img src="{{site.media}}BByurie-ito copy.png" alt="Logo Image" class="hero-logo">
+    <h1 style="color:#00BAB5;">Yurie Ito Founder and Executive Director of The CyberGreen Institute </h1>
+    <p>Yurie Ito is a Founder and Executive Director of The CyberGreen Institute, a global non-profit organization focused on improving the cyber ecosystem’s health by providing reliable metrics, measurement, and mitigation best practices to national CERTs, network operators, and policy makers... </p>
+    <a href="who-we-are" title="read full post" style="font-weight:bold;">Read More </a>
+  </div>
+</div>
+
+<div class="wrapper">
+  <h2 style="color:#00D49A; font-size:40px">News</h2>
+  <ul style="list-style-type:none; padding-left:0px;">
+  {% for post in site.posts limit:4 %}
+    <li style="margin-bottom:40px">
+      <div class="details">
+        <h2 style="color:#00BAB5; font-size:20px">{{ post.title }}</h2>
+        <div class="meta">
+           <span class="date">{{ post.date | date_to_long_string }}</span>
+           <span class="author">{{ post.author }}</span>
+        </div>
+      </div>
+      <div class="excerpt">
+        {{ post.content | markdownify | strip_html | truncatewords: 25  }}
+        <a href="{{ post.url }}" title="read full post">read more </a>
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+<div class="wrapper" style="margin-bottom:50px; margin-top:50px">
+    <h2 style="margin:20px; color:#00D49A;; font-size:40px">Contact</h2>
+    <form action="https://formspree.io/contact@cybergreen.net"
+          method="POST">
+          <h4>Name</h4>
+        <input type="text" name="name" />
+        <h4>Email</h4>
+        <input type="email" name="_replyto" />
+        <h4>Description</h4>
+        <textarea  name="description"> </textarea>
+        <input type="submit" value="Send">
+    </form>
+</div>
