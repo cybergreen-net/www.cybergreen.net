@@ -801,7 +801,7 @@ body:not( .filters ) {
 //////////////////////////////////////////////////////////////////////////////////
 
 .page-content > :first-child {
-  min-height:460px;
+  min-height:400px;
 }
 
 
@@ -2141,4 +2141,171 @@ header.navigation {
     display: block;
     width: 100%;
     height: auto;
+}
+
+.bullets {
+  $base-line-height: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $icon-bullet-size: 3.5em;
+
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em;
+  margin-bottom: $base-line-height;
+  overflow: auto;
+  padding: 0;
+
+  .bullet {
+    flex-basis: 20em;
+    flex-grow: 1;
+  }
+
+  .bullet-icon {
+    background: #00BAB5;
+    border-radius: 50%;
+    float: left;
+    height: $icon-bullet-size;
+    padding: $icon-bullet-size / 4;
+    width: $icon-bullet-size;
+  }
+
+  .bullet-icon-1 {
+    background: #00BAB5;
+  }
+
+  .bullet-icon-2 {
+    background:#00D49A;
+  }
+
+  .bullet-icon-3 {
+    background:#00FFF9;
+  }
+
+  .bullet-content {
+    margin-bottom: 2em;
+    margin-left: $icon-bullet-size * 1.4;
+  }
+
+  h2 {
+    border-bottom: 1px solid transparentize($base-font-color, 0.8);
+    display: inline-block;
+    font-size: $icon-bullet-size / 2.5;
+    margin: 0 0 ($icon-bullet-size / 6) 0;
+    padding-top: $icon-bullet-size / 7;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  p {
+    color: $base-font-color;
+    line-height: $base-line-height;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.hero {
+  $large-screen: 50em !default;
+  align-items: center;
+  background: url("{{site.media}}cyber05.jpg");
+  background-position: right;
+  background-size: none;
+  display: flex;
+  justify-content: center;
+  min-height: 25em;
+  padding: 2em;
+
+  @include media($large-screen) {
+    background-position: left;
+    background-size: cover;
+    justify-content: flex-end;
+  }
+
+  .hero-content {
+    max-width: 30em;
+    text-align: center;
+
+    @include media($large-screen) {
+      text-align: left;
+    }
+  }
+
+  .hero-logo {
+    margin: auto;
+  }
+}
+
+.side-image {
+  $base-line-height: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $large-screen: 53.75em !default;
+  $base-font-color: $dark-gray !default;
+  $side-image-background-top: #B5EBEB;
+  $side-image-background-bottom: #5DAC5D;
+  $side-image-content-background: #F9F9F9;
+  $side-image-border: 1px solid darken(transparentize($side-image-background-bottom, 0.8), 30%);
+
+  background: $side-image-content-background;
+
+  @include media($large-screen) {
+    @include row(table);
+  }
+
+  .images-wrapper {
+    background: url("{{site.media}}cyber06.png"),
+                no-repeat $side-image-background-top scroll;
+    background-color:$side-image-content-background;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: $side-image-border;
+    display: block;
+    min-height: 20em;
+    padding: 3em;
+
+    @include media($large-screen) {
+      @include span-columns(4);
+      background-position: center;
+      background-size:contain;
+    }
+  }
+
+  .side-image-content {
+    @include span-columns(12);
+    padding: 1em 1em 4em 1em;
+
+    @include media($large-screen) {
+      @include span-columns(8);
+      padding: 4em 4em 8em 4em;
+    }
+
+    h1 {
+      margin-bottom: 0.9em;
+      color: #00D49A;
+    }
+
+    h4 {
+      background: #00BAB5;
+      color: white;
+      display: inline-block;
+      font-size: 1.5em;
+      margin-bottom: 1.3em;
+      padding: 3px 8px;
+      text-transform: uppercase;
+    }
+
+    p {
+      color: $base-font-color;
+      line-height: $base-line-height;
+      margin-bottom: 3em;
+    }
+  }
+
+  @include reset-display();
 }
