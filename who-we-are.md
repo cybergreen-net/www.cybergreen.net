@@ -49,6 +49,25 @@ experts:
     title: Director, The Shadowserver Foundation
   - name: Gabriel Iovino
     title: Co-Founder, CSIRT Gadgets Foundation
+v2:
+  - name: Dan Geer
+    title: (CyberGreen)
+  - name: Scott Guthery
+    title: (Boston Athenæum)
+  - name: Manel Medina
+    title: (UPC)
+  - name: Aaron Kaplan
+    title: (CyberGreen, CERT.AT, FIRST)
+  - name: Joe St Sauver
+    title: (Farsight Security)
+  - name: Kayne Naughton
+    title: (Cosive)
+  - name: Chris Horsley
+    title: (Cosive)
+  - name: Eireann Leverett
+    title: (U. of Cambridge, Centre for Risk Studies)
+  - name: David Watson
+    title: (ShadowServer Foundation)
 ---
 
 
@@ -75,6 +94,12 @@ These efforts will facilitate operational cleanup of systems, and will ensur
   </div>
 {% endfor %}
 
+# Operations
+<h4>Executive director: Yurie Ito</h4>
+<h4>Technical director: Aaron Kaplan</h4>
+<h4>Project manager: Arastoo Taslim</h4>
+
+
 # Special Advisers
 
 {% for member in page.adviser %}
@@ -87,7 +112,17 @@ These efforts will facilitate operational cleanup of systems, and will ensur
   </div>
 {% endfor %}
 
-## Metrics and Data Advisory Experts
+
+# v.2 Metrics Working Group
+{% for member in page.v2 %}
+<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
+{% endfor %}
+
+
+# v.1 Metrics Working Group
+CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
+
+# Metrics and Data Advisory Experts
 
 {% for member in page.experts %}
 <h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
