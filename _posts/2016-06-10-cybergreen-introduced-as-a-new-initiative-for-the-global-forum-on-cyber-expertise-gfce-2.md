@@ -2,6 +2,7 @@
 layout: post
 title:  CyberGreen Introduced as a New Initiative for the Global Forum on Cyber Expertise (GFCE)
 date:   2016-06-23
+image: gfce.png
 ---
 CyberGreen was hailed, by the Global Forum on Cyber Expertise, as a new initiative in promoting and strengthening cybersecurity. The announcement was made at its annual conference in Washington D.C. on June 1, 2016.
 
