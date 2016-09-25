@@ -2,6 +2,7 @@
 layout: post
 title:  CyberGreen Cited in GCIG "One Internet" Report as an Initiative to Expand Information Sharing and Best Practices
 date:   2016-06-23
+image: gciv.png
 ---
 
 The Global Commission on Internet Governance (GCIG) has released a report titled "One Internet" with the aim of providing advice to a variety of stakeholders - from policy makers to the private sector - on ways to maintain a healthy Internet.
