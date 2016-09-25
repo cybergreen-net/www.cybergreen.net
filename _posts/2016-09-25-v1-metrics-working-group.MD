@@ -5,8 +5,8 @@ date:   2016-09-25
 ---
 
 experts:
-  - name: Prof. Manel Medina
-    title: Full Professor and Director of MsC Cybersecurity at the Politecnic University of Catalunya (UPC)
+  - <h4>Prof. Manel Medina</h4>
+    <em>Full Professor and Director of MsC Cybersecurity at the Politecnic University of Catalunya (UPC)</em>
   - name: Aaron Kaplan
     title: Unix User and Programmer
   - name: Barry Greene
