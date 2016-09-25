@@ -29,6 +29,6 @@ experts:
 
 # v.1 Metrics and Data Advisory Experts
 
-{% for member in page.experts %}
+{% for member in post.experts %}
 <h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
 {% endfor %}
