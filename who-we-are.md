@@ -114,13 +114,15 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 
 # v.2 Metrics Working Group
+
+CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
+
 {% for member in page.v2 %}
 <h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
 {% endfor %}
 
 
 # v.1 Metrics Working Group
-CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
 
 # Metrics and Data Advisory Experts
 
