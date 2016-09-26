@@ -94,6 +94,7 @@ These efforts will facilitate operational cleanup of systems, and will ensur
   </div>
 {% endfor %}
 
+
 # Operations
 <h4>Executive director: Yurie Ito</h4>
 <h4>Technical director: Aaron Kaplan</h4>
@@ -150,7 +151,7 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" width="197" height="151" />
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
 
 
 
