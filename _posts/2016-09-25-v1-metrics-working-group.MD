@@ -10,7 +10,7 @@ Experts:<br><br>
     <b>Aaron Kaplan</b><br>
     <i>Unix User and Programmer</i><br><br>
     <b>Barry Greene</b><br>
-    <i>title: 25-Year Veteran of Internet Security</i><br><br>
+    <i>25-Year Veteran of Internet Security</i><br><br>
     <b>Joe St Sauver, PhD</b><br>
     <i>Scientist with Farsight Security, Inc. Prior to Farsight, St Sauver was with the University of Oregon (UO)</i><br><br>
     <b>Pat Cain</b><br>
