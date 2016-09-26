@@ -5,24 +5,24 @@ date:   2016-09-25
 ---
 
 experts:
-  - <h4>Prof. Manel Medina</h4>
-    <em>Full Professor and Director of MsC Cybersecurity at the Politecnic University of Catalunya (UPC)</em>
-  - name: Aaron Kaplan
-    title: Unix User and Programmer
-  - name: Barry Greene
-    title: 25-Year Veteran of Internet Security
-  - name: Joe St Sauver, PhD
-    title: Scientist with Farsight Security, Inc. Prior to Farsight, St Sauver was with the University of Oregon (UO)
-  - name: Pat Cain
-    title: Resident Research Fellow of the Anti-Phishing Working Group (APWG)
-  - name: Prof Hiroaki Kikuchi
-    title: Professor, Meiji University, Board Director, JPCERT/CC
-  - name: Wes Young
-    title: Security Professional
-  - name: David Watson
-    title: Director, The Shadowserver Foundation
-  - name: Gabriel Iovino
-    title: Co-Founder, CSIRT Gadgets Foundation
+  - <b>Prof. Manel Medina</b>
+    <i>Full Professor and Director of MsC Cybersecurity at the Politecnic University of Catalunya (UPC)</i>
+  - <b>Aaron Kaplan</b>
+    <i>Unix User and Programmer</i>
+  - <b>Barry Greene</b>
+    <i>title: 25-Year Veteran of Internet Security</i>
+  - <b>Joe St Sauver, PhD</b>
+    <i>Scientist with Farsight Security, Inc. Prior to Farsight, St Sauver was with the University of Oregon (UO)</i>
+  - <b>Pat Cain</b>
+    <i>Resident Research Fellow of the Anti-Phishing Working Group (APWG)</i>
+  - <b>Prof Hiroaki Kikuchi</b>
+    <i>Professor, Meiji University, Board Director, JPCERT/CC</i>
+  - <b>Wes Young</b>
+    <i>Security Professional</i>
+  - <b>David Watson</b>
+    <i>Director, The Shadowserver Foundation</i>
+  - <b>Gabriel Iovino</b>
+    <i>Co-Founder, CSIRT Gadgets Foundation</i>
 ---  
 
 # v.1 Metrics Working Group
