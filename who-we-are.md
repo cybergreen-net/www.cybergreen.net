@@ -150,6 +150,9 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
 
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" width="197" height="151" />
+
+
 
 <!--
 Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm. Much of Paul’s work focuses on cybersecurity for Fortune 1000 companies and public sector agencies.  Paul served from 2003 to 2009 as President and CEO of ICANN, the international non-profit organization that coordinates many of the key functions of the global Internet. He is a Board member of the Atlantic Council of the United States; the founding Chair of the World Economic Forum’s Global Agenda Council on the Future of the Internet; a Commissioner of the Global Information Infrastructure Commission; and was a member of the Advisory Board of the United Nations’ Digital He@lth Initiative.
