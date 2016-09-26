@@ -2,6 +2,7 @@
 layout: post
 title: Why I said "Yes" to CyberGreen
 date: 2015-11-09
+image: 3f08035
 ---
 <img src="{{site.media}}3f08035.jpg" alt=""/>
 
