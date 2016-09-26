@@ -94,12 +94,10 @@ These efforts will facilitate operational cleanup of systems, and will ensur
   </div>
 {% endfor %}
 
-
 # Operations
 <h4>Executive director: Yurie Ito</h4>
 <h4>Technical director: Aaron Kaplan</h4>
 <h4>Project manager: Arastoo Taslim</h4>
-
 
 # Special Advisers
 
