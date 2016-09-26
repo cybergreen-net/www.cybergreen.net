@@ -5,7 +5,7 @@ js:
  - home
 ---
 <div class="home">
-  <img style="width:2000px"src="{{site.media}}test-theater.jpg"/>
+  <img style="width:2000px"src="{{site.media}}layout1-round3-theater-option12-v2-1.jpg"/>
 </div>
 
   <ul class="bullets">
@@ -62,9 +62,12 @@ js:
   <h2 style="color:#00D49A; font-size:40px; margin-top:40px; margin-bottom:20px;">News</h2>
   <ul style="list-style-type:none; padding-left:0px;">
   {% for post in site.posts limit:4 %}
-    <li style="margin-bottom:40px">
+    <li style="margin-bottom:40px; clear:both">
       <div class="details">
         <h2 style="color:#00BAB5; font-size:20px">{{ post.title }}</h2>
+        {% if post.image %}
+        <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{post.image}}" />
+        {% endif %}
         <div class="meta">
            <span class="date">{{ post.date | date_to_long_string }}</span>
            <span class="author">{{ post.author }}</span>
