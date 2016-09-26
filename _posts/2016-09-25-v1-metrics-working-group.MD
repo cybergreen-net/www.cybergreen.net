@@ -4,31 +4,23 @@ title:  v.1 Metrics Working Group
 date:   2016-09-25
 ---
 
-experts:
-  - <b>Prof. Manel Medina</b><br>
+Experts:<br><br>
+    <b>Prof. Manel Medina</b><br>
     <i>Full Professor and Director of MsC Cybersecurity at the Politecnic University of Catalunya (UPC)</i><br><br>
-  - <b>Aaron Kaplan</b><br>
+    <b>Aaron Kaplan</b><br>
     <i>Unix User and Programmer</i><br><br>
-  - <b>Barry Greene</b><br>
+    <b>Barry Greene</b><br>
     <i>title: 25-Year Veteran of Internet Security</i><br><br>
-  - <b>Joe St Sauver, PhD</b><br>
+    <b>Joe St Sauver, PhD</b><br>
     <i>Scientist with Farsight Security, Inc. Prior to Farsight, St Sauver was with the University of Oregon (UO)</i><br><br>
-  - <b>Pat Cain</b><br>
+    <b>Pat Cain</b><br>
     <i>Resident Research Fellow of the Anti-Phishing Working Group (APWG)</i><br><br>
-  - <b>Prof Hiroaki Kikuchi</b><br>
+    <b>Prof Hiroaki Kikuchi</b><br>
     <i>Professor, Meiji University, Board Director, JPCERT/CC</i><br><br>
-  - <b>Wes Young</b><br>
+    <b>Wes Young</b><br>
     <i>Security Professional</i><br><br>
-  - <b>David Watson</b><br>
+    <b>David Watson</b><br>
     <i>Director, The Shadowserver Foundation</i><br><br>
-  - <b>Gabriel Iovino</b><br>
+    <b>Gabriel Iovino</b><br>
     <i>Co-Founder, CSIRT Gadgets Foundation</i><br><br>
----  
 
-# v.1 Metrics Working Group
-
-# v.1 Metrics and Data Advisory Experts
-
-{% for member in post.experts %}
-<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
-{% endfor %}
