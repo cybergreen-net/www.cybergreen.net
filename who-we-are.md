@@ -95,6 +95,7 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 {% endfor %}
 
 # Operations
+  <div style="margin-bottom: 50px">
 <h4>Executive director: Yurie Ito</h4>
 <h4>Technical director: Aaron Kaplan</h4>
 <h4>Project manager: Arastoo Taslim</h4>
@@ -115,7 +116,10 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 # v.2 Metrics Working Group
 {% for member in page.v2 %}
-<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
+<div style="margin-bottom: 50px">
+<img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
+<h4>{{ member.name}}</h4>  
+<em>{{ member.title }}</em>
 {% endfor %}
 
 
