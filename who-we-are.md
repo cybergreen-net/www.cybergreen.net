@@ -13,7 +13,7 @@ board:
   - image: BByurie-ito copy.png
     name: Yurie Ito
     title: Founder and Executive Director of The CyberGreen Institute
-    description: Yurie Ito is a Founder and Executive Director of The CyberGreen Institute, a global non-profit organization focused on improving the cyber ecosystem’s health by providing reliable metrics, measurement, and mitigation best practices to national CERTs, network operators, and policy makers. She is also a Director of Global Coordination Division for the Japan Computer Emergency Response Team Coordination Center (JPCERT/CC).She has previously served 12 years as Technical Director and Global Coordination Director for the organization, and also served at ICANN as a Director of Global Security Programs from 2009-2011. She has been leading a number of international collaborative efforts, including as Chair of the Asia Pacific Computer Emergency Response Team (APCERT), an active member of the Forum of Incident Response and Security Teams (FIRST), and as Board Member of FIRST for 6 years from 2004-2010.She is a nonresident Senior Fellow at the Atlantic Council, associated with the Cyber Statecraft Initiative. Her Master's thesis at the Fletcher School of Law and Diplomacy, Tufts University, was on Managing Global Cyber Health and Security through Risk Reduction.
+    description: Yurie Ito is a Founder and Executive Director of The CyberGreen Institute, a global non-profit organization focused on improving the cyber ecosystem’s health by providing reliable metrics, measurement, and mitigation best practices to national CERTs, network operators, and policy makers. She is also a Director of Global Coordination Division for the Japan Computer Emergency Response Team Coordination Center (JPCERT/CC).She has previously served 12 years as Technical Director and Global Coordination Director for the organization, and also served at ICANN as a Director of Global Security Programs from 2009-2011. She has been leading a number of international collaborative efforts, including as Chair of the Asia Pacific Computer Emergency Response Team (APCERT), an active member of the Forum of Incident Response and Security Teams (FIRST), and as Board Member of FIRST for 6 years from 2004-2010.She is a nonresident Senior Fellow at the Atlantic Council, associated with the Cyber Statecraft Initiative. Her Master's thesis at the Fletcher School of Law and Diplomacy, Tufts University, was on Managing Global Cyber Health and Security through Risk Reduction.
 
 
 adviser:
@@ -78,7 +78,7 @@ v2:
 
 CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to Cyber Security Incident Response Teams (CSIRTs), network operators, and policy makers.
 
-These efforts will facilitate operational cleanup of systems, and will ensure that policy development and capacity building have the insight to focus on reducing systemic risk conditions.
+These efforts will facilitate operational cleanup of systems, and will ensure that policy development and capacity building have the insight to focus on reducing systemic risk conditions.
 
 
 # Board of Directors
@@ -141,13 +141,13 @@ Our partners are the most important part of creating a more secure and resilient
 
 ## Data Contributors
 
-CyberGreen provides metrics to measure cyber health over time based on data from proven sources. Some of our partners have been helping clean up the Internet for over ten years. We appreciate their long-time contribution to the healthier Internet ecosystem and the collaboration with CyberGreen metrics.
+CyberGreen provides metrics to measure cyber health over time based on data from proven sources. Some of our partners have been helping clean up the Internet for over ten years. We appreciate their long-time contribution to the healthier Internet ecosystem and the collaboration with CyberGreen metrics.
 
 ## Sponsors
 
-CyberGreen relies upon our sponsors for our continued operation, and we appreciate the contributions and support from our sponsors.
+CyberGreen relies upon our sponsors for our continued operation, and we appreciate the contributions and support from our sponsors.
 
-CyberGreen seeks general sponsorships, as well as partners for specific programs and projects. We need your contributions to empower our global efforts to improve overall cyber health, and reduce current and emerging risks to the cyber ecosystem. Our impact, through improved metrics and capacity building, will increase exponentially with additional contributions and partnerships. We seek to set up a sustainable organization with long-term funding and partners.
+CyberGreen seeks general sponsorships, as well as partners for specific programs and projects. We need your contributions to empower our global efforts to improve overall cyber health, and reduce current and emerging risks to the cyber ecosystem. Our impact, through improved metrics and capacity building, will increase exponentially with additional contributions and partnerships. We seek to set up a sustainable organization with long-term funding and partners.
 
 <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcert_logo.gif" alt="jpcert_logo" width="335" height="90" />
 
