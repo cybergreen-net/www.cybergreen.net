@@ -26,12 +26,16 @@ supporters:
   -
     name: UK-FCO-Logo.png
     footer_logo: /img/medialibrary/UK-FCO-Logo.png
-    url: aaaa
+    url: https://www.gov.uk/government/organisations/foreign-commonwealth-office
   -
     name: jpcert_logo.gif
     footer_logo: /img/medialibrary/jpcert_logo.gif
-    url: aaaa
-
+    url: https://www.jpcert.or.jp/english/
+  -
+    name: csa-logo.jpg
+    footer_logo: /img/medialibrary/csa-logo.jpg
+    url: https://www.csa.gov.sg
+  -
 defaults:
   -
     scope:

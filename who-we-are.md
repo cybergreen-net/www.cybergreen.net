@@ -100,7 +100,6 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 <h4>Technical director: Aaron Kaplan</h4>
 <h4>Project manager: Arastoo Taslim</h4>
 
-
 # Special Advisers
 
 {% for member in page.adviser %}
@@ -115,6 +114,9 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 
 # v.2 Metrics Working Group
+
+CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
+
 {% for member in page.v2 %}
 <div style="margin-bottom: 50px">
 <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
@@ -124,7 +126,6 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 
 
 # v.1 Metrics Working Group
-CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
 
 # Metrics and Data Advisory Experts
 
@@ -151,6 +152,9 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcert_logo.gif" alt="jpcert_logo" width="335" height="90" />
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
+
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
+
 
 
 <!--
