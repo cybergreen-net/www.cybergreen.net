@@ -95,10 +95,12 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 {% endfor %}
 
 # Operations
-  <div style="margin-bottom: 50px">
-<h4>Executive director: Yurie Ito</h4>
-<h4>Technical director: Aaron Kaplan</h4>
-<h4>Project manager: Arastoo Taslim</h4>
+
+#### Executive director: Yurie Ito
+
+#### Technical director: Aaron Kaplan
+
+#### Project manager: Arastoo Taslim
 
 # Special Advisers
 
@@ -107,7 +109,6 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
   <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
   <h4>{{ member.name}},</h4>
   <p><em>{{ member.title }}</em></p>
-
     {{member.description}}
   </div>
 {% endfor %}
@@ -118,10 +119,10 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
 
 {% for member in page.v2 %}
-<div style="margin-bottom: 50px">
+{% if member.image %}
 <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
-<h4>{{ member.name}}</h4>  
-<em>{{ member.title }}</em>
+{% endif %}
+<h4>{{ member.name}}</h4><em>{{ member.title }}</em>
 {% endfor %}
 
 
@@ -154,9 +155,3 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
-
-
-
-<!--
-Dr. Paul Twomey is a co-founder of STASH, the secure digital vault company, and also CEO of Argo Pacific, a high-level international Internet and cybersecurity advisory and incubator firm. Much of Paul’s work focuses on cybersecurity for Fortune 1000 companies and public sector agencies.  Paul served from 2003 to 2009 as President and CEO of ICANN, the international non-profit organization that coordinates many of the key functions of the global Internet. He is a Board member of the Atlantic Council of the United States; the founding Chair of the World Economic Forum’s Global Agenda Council on the Future of the Internet; a Commissioner of the Global Information Infrastructure Commission; and was a member of the Advisory Board of the United Nations’ Digital He@lth Initiative.
--->
