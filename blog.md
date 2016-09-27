@@ -9,7 +9,7 @@ title:  Blog
       <div class="details">
         <h2>{{ post.title }}</h2>
         {% if post.image %}
-        <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{post.image}}" />
+        <img style="width:150px; margin-right:20px; margin-top:20px; margin-bottom:35px; float:left" src="{{site.media}}{{post.image}}" />
         {% endif %}
         <div class="meta">
            <span class="date">{{ post.date | date_to_long_string }}</span>
