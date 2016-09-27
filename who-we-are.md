@@ -95,6 +95,7 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 {% endfor %}
 
 # Operations
+  <div style="margin-bottom: 50px">
 <h4>Executive director: Yurie Ito</h4>
 <h4>Technical director: Aaron Kaplan</h4>
 <h4>Project manager: Arastoo Taslim</h4>
@@ -117,7 +118,10 @@ These efforts will facilitate operational cleanup of systems, and will ensur
 CyberGreen’s community of expert statisticians have been working diligently to develop robust metrics and validate the quality of risk data. Their work is critical for generating the CyberGreen Index and advancing the quality and maturity of its measurement methods.
 
 {% for member in page.v2 %}
-<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
+<div style="margin-bottom: 50px">
+<img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
+<h4>{{ member.name}}</h4>  
+<em>{{ member.title }}</em>
 {% endfor %}
 
 
