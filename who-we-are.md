@@ -127,7 +127,7 @@ CyberGreen’s community of expert statisticians have been working diligently to
 {% endfor %}
 
 
-[# v.1 Metrics Working Group] (inventory.cybergreen.net/_posts/2016-09-25-v1-metrics-working-group.MD)
+[# v.1 Metrics Working Group] (/_posts/2016-09-25-v1-metrics-working-group.MD)
 
 # Metrics and Data Advisory Experts
 
