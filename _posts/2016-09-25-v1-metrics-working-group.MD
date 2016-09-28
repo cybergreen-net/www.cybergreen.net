@@ -2,7 +2,6 @@
 layout: post
 title:  v.1 Metrics Working Group
 date:   2016-09-25
-published: 
 ---
 
 Experts:<br><br>
