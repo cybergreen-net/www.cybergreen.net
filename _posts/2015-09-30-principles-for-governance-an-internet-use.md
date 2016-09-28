@@ -2,7 +2,7 @@
 layout: post
 title: Principles for Governance and Internet use
 date: 2015-09-30
-image: cgibr.png
+image: brconf.png
 ---
 ![]({{site.media}}img.png)
 
