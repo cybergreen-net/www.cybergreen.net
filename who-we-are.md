@@ -102,6 +102,9 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 
 #### Project manager: Arastoo Taslim
 
+<div style="margin-bottom: 50px">
+</div>
+
 # Special Advisers
 
 {% for member in page.adviser %}
