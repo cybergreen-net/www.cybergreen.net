@@ -18,7 +18,7 @@ title:  Blog
       </div>
       <div class="excerpt">
         {{ post.content | markdownify | strip_html | truncatewords: 45 }}
-        <a href="{{ post.url }}" title="read full post">read more </a>
+        <a href="{{ post.url }}" title="read full post">Read more &raquo;</a>
       </div>    
     </li>
   {% endfor %}
