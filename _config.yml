@@ -1,0 +1,48 @@
+# Site settings
+title: CyberGreen data inventory
+short_title: Data inventory
+description: |
+    CyberGreen data inventory
+baseurl: ""
+url:  # the base hostname & protocol for your site
+github_username:  cybergreen-net
+github_repo:  inventory.cybergreen.net
+paypal:
+media: /img/medialibrary/
+
+google_analytics: UA-80458846-1
+
+markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+permalink: pretty
+
+supporters:
+  -
+    name: open-knowledge-small-landscape-colour.png
+    footer_logo: /img/medialibrary/open-knowledge-small-landscape-colour.png
+    url: https://okfn.org/
+  -
+    name: ATOMATIC-LOGO.jpg
+    footer_logo: /img/medialibrary/ATOMATIC-LOGO.jpg
+    url: http://atomatic.net/
+  -
+
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: page
+      section: pages
+  -
+    scope:
+      path: "posts"
+    values:
+      layout: post
+      section: posts
