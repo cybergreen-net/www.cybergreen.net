@@ -134,6 +134,8 @@ CyberGreen’s community of expert statisticians have been working diligently to
 
 [v1]: http://inventory.cybergreen.net/2016/09/25/v1-metrics-working-group/
 
+<div style="margin-bottom: 50px">
+</div>
 
 # Partners
 
