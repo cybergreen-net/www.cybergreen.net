@@ -103,6 +103,9 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 
 #### Project manager: Arastoo Taslim
 
+<div style="margin-bottom: 50px">
+</div>
+
 # Special Advisers
 
 {% for member in page.adviser %}
@@ -127,7 +130,7 @@ CyberGreen’s community of expert statisticians have been working diligently to
 {% endfor %}
 
 
-## [v.1 Metrics Working Group] [v1]
+## [v.1 Metrics Working Group][v1]
 
 [v1]: http://inventory.cybergreen.net/2016/09/25/v1-metrics-working-group/
 

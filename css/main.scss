@@ -2213,7 +2213,7 @@ header.navigation {
 .hero {
   $large-screen: 50em !default;
   align-items: center;
-  background: url("{{site.media}}bgrdf new01.jpg");
+  background: url("{{site.media}}cyber06.jpg");
   background-position: right;
   background-size: none;
   display: flex;
@@ -2264,7 +2264,7 @@ header.navigation {
     background-color:$side-image-content-background;
     background-repeat: no-repeat;
     background-size: cover;
-    border-bottom: $side-image-border;
+    border-bottom: none;
     display: block;
     min-height: 20em;
     padding: 3em;
