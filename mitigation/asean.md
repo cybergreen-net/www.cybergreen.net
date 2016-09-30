@@ -10,6 +10,9 @@ CyberGreen measures presence of risk conditions that are posing risks to the glo
   <img src="{{site.media}}mitigation-map.png"/>
 </div>
 
+<div style="margin-bottom: 50px">
+</div>
+
 ## ASEAN States Health Review
 
 *  <a href="http://stats.cybergreen.net/place/brunei/">Brunei Darussalam</a>
@@ -23,6 +26,8 @@ CyberGreen measures presence of risk conditions that are posing risks to the glo
 *  <a href="http://stats.cybergreen.net/place/thailand">Thailand</a>
 *  <a href="http://stats.cybergreen.net/place/vietnam/">Viet Nam</a>
 
+<div style="margin-bottom: 50px">
+</div>
 
 ## Mitigation Campaign
 
