@@ -132,7 +132,7 @@ CyberGreen’s community of expert statisticians have been working diligently to
 
 ## [v.1 Metrics Working Group][v1]
 
-[v1]: http://inventory.cybergreen.net/2016/09/25/v1-metrics-working-group/
+[v1]: http://inventory.cybergreen.net/2015/06/01/v1-metrics-working-group/
 
 <div style="margin-bottom: 50px">
 </div>
