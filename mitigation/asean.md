@@ -5,11 +5,12 @@ title: ASEAN
 ## Welcome to ASEAN Regional Mitigation Resource Portal
 CyberGreen measures presence of risk conditions that are posing risks to the global Internet, and generate each ecosystem health state index of country level and AS (Anonymous Systems) level based on the measurement.
 
-## ASEAN Regional Health state view
+## ASEAN Regional Health State View
 <div>
   <img src="{{site.media}}mitigation-map.png"/>
 </div>
-## ASEAN States health review
+
+## ASEAN States Health Review
 
 *  <a href="http://stats.cybergreen.net/place/brunei/">Brunei Darussalam</a>
 *  <a href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a>
@@ -33,4 +34,4 @@ See some early case studies from the region:
 
 ## <a href="/mitigation/singapore-campaign/">Singapore National level mitigation campaign case study</a>
 
-## <a href="/mitigation/campaign-steps/">Mitigation campaign Steps</a>
+## <a href="/mitigation/campaign-steps/">Mitigation Campaign Steps</a>
