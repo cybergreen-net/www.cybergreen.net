@@ -31,9 +31,7 @@ CyberGreen measures presence of risk conditions that are posing risks to the glo
 
 ## Mitigation Campaign
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
-
-<img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="335" height="90" />
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="335" height="90" />
 
 See some early case studies from the region:
 
