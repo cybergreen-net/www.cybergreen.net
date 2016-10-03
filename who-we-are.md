@@ -111,7 +111,7 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 
 {% for member in page.adviser %}
   <div style="margin-bottom: 50px">
-  <img style="width:100px; margin-right:20px" src="{{site.media}}{{member.image}}" />
+  <img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
   <h4>{{ member.name}},</h4>
   <p><em>{{ member.title }}</em></p>
     {{member.description}}
@@ -125,7 +125,7 @@ CyberGreen’s community of expert statisticians have been working diligently to
 
 {% for member in page.v2 %}
 {% if member.image %}
-<img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
+<img style="width:100px; margin-right:20px" src="{{site.media}}{{member.image}}" />
 {% endif %}
 <h4>{{ member.name}}</h4><em>{{ member.title }}</em>
 {% endfor %}
