@@ -3,7 +3,9 @@ layout: page
 title: ASEAN
 ---
 ## Welcome to ASEAN Regional Mitigation Resource Portal
-CyberGreen measures presence of risk conditions that are posing risks to the global Internet, and generate each ecosystem health state index of country level and AS (Anonymous Systems) level based on the measurement.
+CyberGreen measures the presence of risk conditions to the Internet, and generates ecosystem health state indices by country and AS (Anonymous Systems).
+
+In light of its commitment to a healthier Cyber Ecosystem, CyberGreen will collaborate with Singapore as its focal point for the ASEAN region. By localizing and enhancing capacity building materials for ASEAN states, leveraging global data sources, and developing best practices and training approaches, CyberGreen and CSA will work together to achieve a healthier Cyber Ecosystem in the region and affect change globally. 
 
 ## ASEAN Regional Health State View
 <div>
