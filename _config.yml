@@ -35,7 +35,7 @@ supporters:
     name: csa-logo.jpg
     footer_logo: /img/medialibrary/csa-logo.jpg
     url: https://www.csa.gov.sg
-  -
+
 defaults:
   -
     scope:
