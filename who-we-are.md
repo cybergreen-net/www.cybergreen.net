@@ -53,7 +53,6 @@ experts:
 v2:
   - name: Dan Geer
     title: (CyberGreen)
-    image: daniel-geer.jpg
   - name: Scott Guthery
     title: (Boston Athenæum)
   - name: Manel Medina
