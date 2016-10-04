@@ -47,5 +47,5 @@ See some early case studies from the region:
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for several risk conditions that are present in the Cyber Ecosystem.
 
-<a href="{{site.media}}CyberGreen-OpenSSDP-Email-96ppi-AT.pptx" download="open SSDP">
+## <a href="/img/medialibrary/CyberGreen-OpenSSDP-Email-96ppi-AT.pptx" download="open SSDP">
 
