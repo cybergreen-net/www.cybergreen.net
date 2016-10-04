@@ -50,4 +50,4 @@ Download CyberGreen's mitigation best current practices for several risk conditi
 <figure>
 <a download="open ssdp" href="/img/medialibrary/CyberGreen-OpenSSDP-Email-96ppi-AT.pptx" title="open ssdp">
     <img alt="open ssdp" src="{{site.media}}document-green.png" width="100" height="100"></a>
-    <figcaption><center>Open SSDP</center></figcaption></figure>
+    <figcaption>Open SSDP</figcaption></figure>
