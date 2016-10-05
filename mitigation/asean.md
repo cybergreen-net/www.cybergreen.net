@@ -94,18 +94,28 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
+<center>
+   <a download="/img/medialibrary/Open SSDP.pptx"> Open SSDP
+       <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50">
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <a download="/img/medialibrary/Open SSDP.pptx"> Open NTP
+       <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50">
+   </a>
+</center>
+
+
 <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a> <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a> <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a> <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open NTP  <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open DNS  <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Spam </a>
 
 
 <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
     <figcaption>Open SSDP</figcaption></figure>
-
 <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
