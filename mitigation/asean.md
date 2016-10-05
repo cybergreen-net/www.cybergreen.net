@@ -137,8 +137,3 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 </div>  
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="200" height="90" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
-
-
-| Open SSDP | Open NTP | Open DNS | Spam | 
-| ------------- | ------------- | ------------- | ------------- |
-| <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> |
