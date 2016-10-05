@@ -38,7 +38,7 @@ The country-level view provides the count of vulnerable devices for the four ris
 
 <div>
   <img src="{{site.media}}sing-country-level.png"/>
-  <imgcaption> Snapshot of Singapore country-level view </imgcaption>
+  <center><imgcaption> *Snapshot of Singapore country-level view* </imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -66,6 +66,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 <div>
   <img src="{{site.media}}sing-as-level.png"/>
+  <center><imgcaption> *Snapshot of Singapore AS view* </imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -93,22 +94,22 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
-<figure>
+| <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open SSDP</figcaption></figure>
+    <figcaption>Open SSDP</figcaption></figure> |
 <figure> 
 <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
     <img alt="Open NTP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open NTP</figcaption></figure>
+    <figcaption>Open NTP</figcaption></figure> |
 <figure> 
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
     <img alt="Open DNS" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open DNS</figcaption></figure>
+    <figcaption>Open DNS</figcaption></figure> |
 <figure>
 <a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam">
     <img alt="Spam" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Spam</figcaption></figure>
+    <figcaption>Spam</figcaption></figure> |
 
 <div style="margin-bottom: 50px">
 </div>   
