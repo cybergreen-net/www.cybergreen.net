@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mitigation campaign Steps
+title: Mitigation Campaign Steps
 ---
 
 #### 1. National CERT or equivalent organization reaches out to constituent ISPs to engage them to participate in a focused mitigation campaign.
@@ -9,6 +9,9 @@ title: Mitigation campaign Steps
 1. Target Risk Conditions 
 2. Mitigation methods 
 3. Campaign time period
+
+<div style="margin-bottom: 25px">
+</div>
 
 ##### Example 1: Mitigating Open SSDP risk
 1. Reconfigure the misconfigured devices.
@@ -36,7 +39,7 @@ title: Mitigation campaign Steps
 <div style="margin-bottom: 50px">
 </div>
 
-#### 5. ISPs start mitigation over risk conditions
+#### 5. ISPs start mitigation over risk conditions.
 * Mitigation training material will be provided by CyberGreen
 * Ensuring that ISPs are ready to take action will be the national CERT or coordinator's role
 
