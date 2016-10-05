@@ -74,7 +74,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 ## What We Measure
 
-CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of malicious activity and risk conditions. These methods provide analytical insight about patterns, priorities, and trends for action by the CERT/CSIRT community and others. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Spam.
+CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of malicious activity and risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Spam.
 
 ### Risks
 
@@ -86,7 +86,10 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 + <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
-## Mitigation Campaign Steps</a>
+<div style="margin-bottom: 50px">
+</div>
+
+## Mitigation Campaign Steps
 Once CyberGreen has identified the presence of those risk conditions within a country, it requires coordination with national CSIRTs or other equivalent organizations to begin the process of mitigation. <a href="/mitigation/campaign-steps/">Read more &raquo;</a> 
 
 <div style="margin-bottom: 50px">
