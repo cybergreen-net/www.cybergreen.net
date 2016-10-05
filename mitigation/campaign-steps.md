@@ -5,6 +5,9 @@ title: Mitigation Campaign Steps
 
 ### 1. National CERT or equivalent organization reaches out to constituent ISPs to engage them to participate in a focused mitigation campaign.
 
+<div style="margin-bottom: 50px">
+</div>
+
 ### 2. Brief ISPs and agree on:
 * Target Risk Conditions 
 * Mitigation methods 
@@ -14,7 +17,6 @@ title: Mitigation Campaign Steps
 </div>
 
 <p> 
-
 <h4> Example 1: Mitigating Open SSDP risk </h4>
 1. Reconfigure the misconfigured devices.
 2. Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
@@ -22,7 +24,6 @@ title: Mitigation Campaign Steps
 <h4> Example 2: Mitigating Open NTP risk </h4>
 1. Reconfigure the misconfigured devices.
 2. Block NTP monlist requests (block larger port on 123/udp).  It allows normal NTP traffic to proceed while blocking monlist replies.
-
 </p>
 
 <div style="margin-bottom: 50px">
