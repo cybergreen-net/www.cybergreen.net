@@ -92,14 +92,6 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
-<tr>
-<td><a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP"></a></td>
-<td><a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a></td>
-<td><a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS"></a></td>
-<td><a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam"></a></td>
-</tr>
-
-
 <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
