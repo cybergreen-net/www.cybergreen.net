@@ -16,13 +16,13 @@ title: Mitigation Campaign Steps
 <div style="margin-bottom: 25px">
 </div>
 
-<h4> Example 1: Mitigating Open SSDP risk </h4>
-1. Reconfigure the misconfigured devices.
-2. Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
+>>>><h4> Example 1: Mitigating Open SSDP risk </h4>
+>>>>1. Reconfigure the misconfigured devices.
+>>>>2. Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
 
-<h4> Example 2: Mitigating Open NTP risk </h4>
-1. Reconfigure the misconfigured devices.
-2. Block NTP monlist requests (block larger port on 123/udp).  It allows normal NTP traffic to proceed while blocking monlist replies.
+>>>><h4> Example 2: Mitigating Open NTP risk </h4>
+>>>>1. Reconfigure the misconfigured devices.
+>>>>2. Block NTP monlist requests (block larger port on 123/udp).  It allows normal NTP traffic to proceed while blocking monlist replies.
 
 <div style="margin-bottom: 50px">
 </div>
