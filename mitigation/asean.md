@@ -38,6 +38,7 @@ The country-level view provides the count of vulnerable devices for the four ris
 
 <div>
   <img src="{{site.media}}sing-country-level.png"/>
+  <imgcaption> Snapshot of Singapore country-level view </imgcaption>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -70,7 +71,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 <div style="margin-bottom: 50px">
 </div>
 
-## CyberGreen Metrics (Mitigation Campaign)
+## What We Measure
 
 CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of malicious activity and risk conditions. These methods provide analytical insight about patterns, priorities, and trends for action by the CERT/CSIRT community and others. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Spam.
 
