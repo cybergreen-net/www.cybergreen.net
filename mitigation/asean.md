@@ -18,7 +18,7 @@ Using its measurement of risk conditions posed to the global Internet, CyberGree
 2. Country-Level View
 3. Anonymous System (AS) View
 
-<div style="margin-bottom: 50px">
+<div style="margin-bottom: 25px">
 </div>
 
 ## ASEAN Regional View
@@ -117,14 +117,13 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 ## Contact
 
 <div class="wrapper" style="margin-bottom:50px; margin-top:50px">
-    <h2 style="color:#00D49A;; font-size:40px; margin-bottom:20px;">Contact</h2>
     <form action="https://formspree.io/contact@cybergreen.net"
           method="POST">
-          <h4>Name</h4>
+          <h5>Name</h5>
         <input type="text" name="name" />
-        <h4>Email</h4>
+        <h5>Email</h5>
         <input type="email" name="_replyto" />
-        <h4>Description</h4>
+        <h5>Description</h5>
         <textarea  name="description"> </textarea>
         <input type="submit" value="Send">
     </form>
