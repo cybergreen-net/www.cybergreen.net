@@ -26,7 +26,7 @@ Using its measurement of risk conditions posed to the global Internet, CyberGree
 The ASEAN regional view provides a snapshot of remediation achievements and progress collectively.
 
 <div>
-  <img src="{{site.media}}mitigation-map.png"/>
+  <img src="{{site.media}}asean-level.png"/>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -76,13 +76,13 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 ### Risks
 
-+ <b>Open DNS</b>: The Domain Name System (DNS) is pervasive. Collectively, we use it billions of times a day, often without even knowing that it exists. For enterprises, it's their digital identity as well as a critical component of their security architecture. In short: DNS is pervasive and there are many DNS servers on the Internet. Since DNS runs on the UDP protocol, it can be used for amplification attacks.
++ <b>Open DNS</b>: The Domain Name System (DNS) is pervasive. Collectively, we use it billions of times a day, often without even knowing that it exists. For enterprises, it's their digital identity as well as a critical component of their security architecture. In short: DNS is pervasive and there are many DNS servers on the Internet. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
 
-+ <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time (accurate precision time is critical for authentication related purposes, accurate event logging, and a host of other things). Most computers stay synchronized using Network Time Protocol (NTP). Oversimplifying greatly, NTP sets the local time by checking the time as reported by multiple trusted high-precision network-accessible clocks. Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does (particularly problems with spoofed traffic, traffic amplification, and unnecessarily promiscuous access to servers).
++ <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time (accurate precision time is critical for authentication related purposes, accurate event logging, and a host of other things). Most computers stay synchronized using Network Time Protocol (NTP). Oversimplifying greatly, NTP sets the local time by checking the time as reported by multiple trusted high-precision network-accessible clocks. Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does (particularly problems with spoofed traffic, traffic amplification, and unnecessarily promiscuous access to servers). <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
 
-+ <b>Open SSDP</b>: the Simple Service Discovery Protocol is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems, WLAN modems. Since SSDP runs over UDP, again, it can be used for UDP reflection attacks.
++ <b>Open SSDP</b>: the Simple Service Discovery Protocol is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems, WLAN modems. Since SSDP runs over UDP, again, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
-+ <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. It has become a major problem for all Internet users. 
++ <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. It has become a major problem for all Internet users. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
 ### <a href="/mitigation/campaign-steps/">Mitigation Campaign Steps</a>
 
@@ -107,4 +107,4 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 
 
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="250" height="90" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="200" height="90" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
