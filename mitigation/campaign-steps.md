@@ -5,14 +5,14 @@ title: Mitigation campaign Steps
 
 ## National CSIRT preparation
 
-### 1. National CERT or equivalent organization reaches out to constituent ISPs to engage them to participate in a focused mitigation campaign.
+##### 1. National CERT or equivalent organization reaches out to constituent ISPs to engage them to participate in a focused mitigation campaign.
 
-•	Brief ISPs and agree on:
-⋅⋅* Target Risk Conditions  
-⋅⋅* Mitigation methods 
-⋅⋅* Campaign time period
+• Brief ISPs and agree on:
+. . .* Target Risk Conditions  
+. . .* Mitigation methods 
+. . .* Campaign time period
 
-<i><u>Example 1: Mitigating Open SSDP risk</u></i>
+#### Example 1: Mitigating Open SSDP risk
 1. Reconfigure the misconfigured devices.
 2. Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
 
@@ -26,8 +26,8 @@ title: Mitigation campaign Steps
 
 ### 4. Data source begins sending daily risk data to each data receiving point.
 
-### 5. ISPs start mitigation over risk condition
-..•	Mitigation training material will be provided by CyberGreen
-..•	Making sure ISPs are ready to take action will be the national CERT or coordinator's role
+### 5. ISPs start mitigation over risk conditions
+. . .* Mitigation training material will be provided by CyberGreen
+. . .* Making sure ISPs are ready to take action will be the national CERT or coordinator's role
 
 ### 6.	CyberGreen measures the time series trend-line and provides impact analysis.
