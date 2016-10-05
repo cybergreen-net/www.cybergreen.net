@@ -86,7 +86,8 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 + <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
-### <a href="/mitigation/campaign-steps/">Mitigation Campaign Steps</a>
+## Mitigation Campaign Steps</a>
+Once CyberGreen has identified the presence of those risk conditions within a country, it requires coordination with national CSIRTs or other equivalent organizations to begin the process of mitigation. <a href="/mitigation/campaign-steps/">Read more &raquo;</a> 
 
 <div style="margin-bottom: 50px">
 </div>
