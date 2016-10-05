@@ -8,7 +8,7 @@ CyberGreen measures the presence of risk conditions to the Internet, and generat
 
 This Cyber Mitigation Resource Portal is co-developed by CyberGreen and the Cyber Security Agency (CSA) of Singapore. It aims to provide ASEAN Member States with a regional view on the cyber health state and the necessary resources needed to enhance our remediation efforts collectively. In light of its commitment to a healthier Cyber Ecosystem, CyberGreen will collaborate with Singapore as its focal point for the ASEAN region.
 
-## What is CyberGren?
+## What is CyberGreen?
 
 CyberGreen is a global non-profit and collaborative organization conducting activities focused on helping to improve the health of the global Cyber Ecosystem. CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to Cyber Security Incident Response Teams (CSIRTs), network operators, and policy makers.
 
@@ -95,11 +95,11 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open SSDP</figcaption></figure><figure> <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
+    <figcaption>Open SSDP</figcaption> <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
     <img alt="Open NTP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open NTP</figcaption></figure><figure> <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
+    <figcaption>Open NTP</figcaption> <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
     <img alt="Open DNS" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open DNS</figcaption></figure><figure> <a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam">
+    <figcaption>Open DNS</figcaption> <a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam">
     <img alt="Spam" src="{{site.media}}document-green.png" width="50" height="50"></a>
     <figcaption>Spam</figcaption></figure>
 
