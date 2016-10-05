@@ -5,19 +5,19 @@ title: Mitigation campaign Steps
 
 ## National CSIRT preparation
 
-1. National CERT or any equivalent organization to reach out to the constituent ISPs and engage them to participate in a focused mitigation campaign.
+1. National CERT or equivalent organization reaches out to constituent ISPs to engage them to participate in a focused mitigation campaign.
 
-•	Brief and get agreement on:
-..1 Target risk conditions  
-..2 Mitigation methods 
-..3 Campaign time period
+•	Brief ISPs and agree on:
+. .1. Target risk conditions  
+. .2. Mitigation methods 
+. .3. Campaign time period
 
 <i>Example 1: Mitigating Open SSDP risk</i>
--	Reconfigure the misconfigured devices.
--	Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
+- Reconfigure the misconfigured devices.
+- Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
 
 <i>Example 2: Mitigating Open NTP risk</i>
--	Reconfigure the misconfigured devices.
+- Reconfigure the misconfigured devices.
 -	Block NTP monlist requests (block larger port on 123/udp).  It allows normal NTP traffic to proceed while blocking monlist replies.
 
 2. Once ISPs are on board, establish data receiving points at ISPs.
