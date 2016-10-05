@@ -38,13 +38,15 @@ The country-level view provides the count of vulnerable devices for the four ris
 
 <div>
   <img src="{{site.media}}sing-country-level.png"/>
-  <center><imgcaption> *Snapshot of Singapore country-level view* </imgcaption></center>
+  <center><imgcaption><i> Snapshot of Singapore country-level view </i></imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
 </div>
 
 The country-level views for each ASEAN state can be accessed here:
+
+<img src="http://flags.fmcdn.net/data/flags/normal/bn.png/" width="50" height="50"><imgcaption>Brunei Darussalam</imgcaption><img src="http://flags.fmcdn.net/data/flags/normal/kh.png/" width="50" height="50"><imgcaption>Cambodia</imgcaption>
 
 *  <a href="http://stats.cybergreen.net/place/brunei/">Brunei Darussalam</a>
 *  <a href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a>
@@ -66,7 +68,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 <div>
   <img src="{{site.media}}sing-as-level.png"/>
-  <center><imgcaption> *Snapshot of Singapore AS view* </imgcaption></center>
+  <center><imgcaption><i> Snapshot of Singapore AS view </i></imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -78,13 +80,13 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 ### Risks
 
-+ <b>Open DNS</b>: The Domain Name System (DNS) is pervasive. Collectively, we use it billions of times a day, often without even knowing that it exists. For enterprises, it's their digital identity as well as a critical component of their security architecture. In short: DNS is pervasive and there are many DNS servers on the Internet. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
++ <b>Open DNS</b>: The Domain Name System (DNS) is pervasive. For enterprises, it is their digital identity as well as a critical component of their security architecture. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
 
-+ <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time (accurate precision time is critical for authentication related purposes, accurate event logging, and a host of other things). Most computers stay synchronized using Network Time Protocol (NTP). Oversimplifying greatly, NTP sets the local time by checking the time as reported by multiple trusted high-precision network-accessible clocks. Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does (particularly problems with spoofed traffic, traffic amplification, and unnecessarily promiscuous access to servers). <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
++ <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time. Most computers stay synchronized using Network Time Protocol (NTP). Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does. <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
 
-+ <b>Open SSDP</b>: the Simple Service Discovery Protocol is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems, WLAN modems. Since SSDP runs over UDP, again, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
++ <b>Open SSDP</b>: The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
-+ <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. It has become a major problem for all Internet users. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
++ <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
 ### <a href="/mitigation/campaign-steps/">Mitigation Campaign Steps</a>
 
@@ -94,22 +96,22 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
-| <figure>
+<figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open SSDP</figcaption></figure> |
+    <figcaption>Open SSDP</figcaption></figure>
 <figure> 
 <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
     <img alt="Open NTP" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open NTP</figcaption></figure> |
+    <figcaption>Open NTP</figcaption></figure>
 <figure> 
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
     <img alt="Open DNS" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Open DNS</figcaption></figure> |
+    <figcaption>Open DNS</figcaption></figure>
 <figure>
 <a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam">
     <img alt="Spam" src="{{site.media}}document-green.png" width="50" height="50"></a>
-    <figcaption>Spam</figcaption></figure> |
+    <figcaption>Spam</figcaption></figure>
 
 <div style="margin-bottom: 50px">
 </div>   
