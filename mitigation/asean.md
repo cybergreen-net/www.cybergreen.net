@@ -46,8 +46,6 @@ The country-level view provides the count of vulnerable devices for the four ris
 
 The country-level views for each ASEAN state can be accessed here:
 
-<img src="http://flags.fmcdn.net/data/flags/normal/bn.png" width="50" height="50"><imgcaption>Brunei Darussalam</imgcaption><img src="http://flags.fmcdn.net/data/flags/normal/kh.png" width="50" height="50"><imgcaption>Cambodia</imgcaption>
-
 *  <a href="http://stats.cybergreen.net/place/brunei/">Brunei Darussalam</a>
 *  <a href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a>
 *  <a href="http://stats.cybergreen.net/place/indonesia/">Indonesia</a>
@@ -95,6 +93,18 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
+
+<img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a> <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a> <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a> <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+<a download="/img/medialibrary/Open SSDP.pptx">Open SSDP</a>
+
+
+<figure>
+<a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
+    <img alt="Open SSDP" src="{{site.media}}document-green.png" width="50" height="50"></a>
+    <figcaption>Open SSDP</figcaption></figure>
 
 <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
