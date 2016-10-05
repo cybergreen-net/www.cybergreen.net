@@ -140,5 +140,5 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 
 
 | Open SSDP | Open NTP | Open DNS | Spam | 
-| ------------- | ------------- |
-| <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a>  | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> |
+| ------------- | ------------- | ------------- | ------------- |
+| <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> | <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP"></a> |
