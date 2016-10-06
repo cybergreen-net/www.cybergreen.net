@@ -3,13 +3,6 @@ layout: page
 title: Mitigation Campaign Steps
 ---
 
-<style type="text/css">
-<!--
-.tab { margin-left: 40px; }
--->
-</style>
-
-
 ### 1. National CERT or equivalent organization reaches out to constituent stakeholders to engage them to participate in a focused mitigation campaign.
 
 Depending on the target risk conditions to mitigate, stakeholders could be ISPs, product vendors, ISACs...
@@ -25,12 +18,11 @@ Depending on the target risk conditions to mitigate, stakeholders could be ISPs,
 <div style="margin-bottom: 25px">
 </div>
 
-<p class="tab">
-<h4> Example 1: Mitigating Open SSDP risk </h4>
-1. Target risk conditions: Reconfigure the misconfigured devices.
-2. Mitigation methods: Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and &nbsp;&nbsp;&nbsp; echo that don’t have any real use >>other than DDOS anymore.
-3. Compaign time period: 6 months to 1 year.
-</p>
+<h4> Example: Mitigating Open SSDP risk </h4>
+  1. Target risk conditions: Reconfigure the misconfigured devices.
+  2. Mitigation methods: Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use >>other than DDOS anymore.
+  3. Campaign time period: 6 months to 1 year.
+
 
 <div style="margin-bottom: 50px">
 </div>
