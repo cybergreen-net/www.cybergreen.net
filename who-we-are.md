@@ -152,7 +152,7 @@ CyberGreen relies upon our sponsors for our continued operation, and we apprecia
 
 CyberGreen seeks general sponsorships, as well as partners for specific programs and projects. We need your contributions to empower our global efforts to improve overall cyber health, and reduce current and emerging risks to the cyber ecosystem. Our impact, through improved metrics and capacity building, will increase exponentially with additional contributions and partnerships. We seek to set up a sustainable organization with long-term funding and partners.
 
-<img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcert_logo.gif" alt="jpcert_logo" width="335" height="90" />
+<img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcertcc_logo.png" alt="jpcertcc_logo" width="335" height="90" />
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
 
