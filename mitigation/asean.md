@@ -100,19 +100,19 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 
 <figure>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
-    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: right; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
+    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
     <figcaption>Open SSDP</figcaption></figure>
 <figure> 
 <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
-    <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: right; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
+    <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
     <figcaption>Open NTP</figcaption></figure>
 <figure> 
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
-    <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: right; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
+    <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
     <figcaption>Open DNS</figcaption></figure>
 <figure>
 <a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam">
-    <img alt="Spam" src="{{site.media}}document-green.png" style="float: right; margin: 0px 0px 15px 15px;" width="50" height="50"></a>
+    <img alt="Spam" src="{{site.media}}document-green.png" style="float: right; left: 0px 0px 15px 15px;" width="50" height="50"></a>
     <figcaption>Spam</figcaption></figure>
 
 <div style="margin-bottom: 50px">
