@@ -84,7 +84,7 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 + <b>Open SSDP</b>: The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
-+ <b>Open SNTP</b> [Text needed here]
++ <b>Open SNMP</b> [Text needed here]
 
 + <b>Spam</b>: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
@@ -102,7 +102,7 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 
 <p>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
-    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
+    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a><imagecaption> Open SSDP </imagecaption>
 <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
     <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a> 
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
