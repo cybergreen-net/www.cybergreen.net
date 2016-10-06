@@ -76,11 +76,11 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Open SNTP. CyberGreen will add Spam to its list of risk indicators in the coming months.
 
-### Risks
+### Risk Indicators
 
 + <b>Open DNS</b>: The Domain Name System (DNS) is pervasive. For enterprises, it is their digital identity as well as a critical component of their security architecture. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/medialibrary/openntprisk.png" width="225" height="225" /> • <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time. Most computers stay synchronized using Network Time Protocol (NTP). Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does. <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
+<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/medialibrary/openntprisk.png" width="260" height="225" /> • <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time. Most computers stay synchronized using Network Time Protocol (NTP). Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does. <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
 
 + <b>Open SSDP</b>: The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
