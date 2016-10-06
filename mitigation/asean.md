@@ -47,7 +47,8 @@ The country-level view provides the count of vulnerable devices for the four ris
 The country-level views for each ASEAN state can be accessed here:
 
 <div class="content">
-<table cellspacing="0" cellpadding="10px" border-spacing="10px" margin-right="15" margin-left="15">
+<table style="border-spacing: 10px;">
+<table cellspacing="0" cellpadding="10px">
     <tbody>
         <tr>
             <td width="100" height="100">
