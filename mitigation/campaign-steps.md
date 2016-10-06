@@ -21,8 +21,8 @@ Depending on the target risk conditions to mitigate, remediators could be ISPs, 
 <h4> Example: </h4>
   1. Target risk conditions: Open SSDP 
   2. Mitigation methods: 
-    +  Reconfigure the misconigured devices
-    +  Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
+<ul><li> Reconfigure the misconigured devices
+    <li>  Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.</ul>
   3. Campaign time period: 6 months to 1 year.
 
 
