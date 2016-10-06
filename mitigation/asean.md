@@ -160,15 +160,15 @@ Download CyberGreen's mitigation best current practices for four risk conditions
     <tbody>
         <tr>
             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" width="75" height="75" alt="Open SSDP"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}openssdpicon.png" width="75" height="75" alt="Open SSDP"><br>
             <center><a download="Open SSDP" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="Open SSDP">Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" width="75" height="75" alt="Open NTP"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="75" height="75" alt="Open NTP"><br>
             <center><a download="Open NTP" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="Open NTP">Open NTP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" width="75" height="75" alt="Open DNS"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="Open DNS"><br>
             <center><a download="Open DNS" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="Open DNS">Open DNS</a></center></div>
             </td>
         </tr>
@@ -197,4 +197,4 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <div style="margin-bottom: 200px">
 </div>  
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="250" height="100" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="230" height="100" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
