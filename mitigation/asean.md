@@ -176,16 +176,6 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 </table>
 </div>
 
-<p>
-<a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
-    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
-<a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
-    <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a> 
-<a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
-    <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
-<br style="clear:both;">
-</p>
-
 <div style="margin-bottom: 50px">
 </div>   
 
@@ -207,4 +197,4 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <div style="margin-bottom: 200px">
 </div>  
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="200" height="90" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="250" height="100" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
