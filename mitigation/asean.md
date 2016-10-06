@@ -47,11 +47,11 @@ The country-level view provides the count of vulnerable devices for the four ris
 The country-level views for each ASEAN state can be accessed here:
 
 <div class="content">
-<table cellspacing="0" cellpadding="0" border="0">
+<table cellspacing="5" cellpadding="5" border="0">
     <tbody>
         <tr>
             <td width="188" height="150">
-            <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/bn.png" alt=""><br>
+            <div class="flag_back"><img border="1" src="http://flags.fmcdn.net/data/flags/normal/bn.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/brunei/">Brunei</a></div>
             </td>
             <td width="188" height="150">
@@ -96,7 +96,9 @@ The country-level views for each ASEAN state can be accessed here:
             </td>
         </tr>
     </tbody>
-</table><br>
+</table>
+</div>
+<br>
 
 *  <a href="http://stats.cybergreen.net/place/brunei/">Brunei Darussalam</a>
 *  <a href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a>
