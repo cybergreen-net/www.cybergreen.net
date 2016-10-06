@@ -98,6 +98,7 @@ Once CyberGreen has identified the presence of those risk conditions within a co
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
+<p>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
     <center><imgcaption> Open SSDP </imgcaption></center>
@@ -108,6 +109,7 @@ Download CyberGreen's mitigation best current practices for four risk conditions
     <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
     <center><imgcaption> Open DNS </imgcaption></center>
 <br style="clear:both" />
+</p>
 
 <div style="margin-bottom: 50px">
 </div>   
