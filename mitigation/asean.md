@@ -101,17 +101,6 @@ The country-level views for each ASEAN state can be accessed here:
 
 <br>
 
-*  <a href="http://stats.cybergreen.net/place/brunei/">Brunei Darussalam</a>
-*  <a href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a>
-*  <a href="http://stats.cybergreen.net/place/indonesia/">Indonesia</a>
-*  <a href="http://stats.cybergreen.net/place/laos/">Laos PDR</a>
-*  <a href="http://stats.cybergreen.net/place/malaysia">Malaysia</a>
-*  <a href="http://stats.cybergreen.net/place/myanmar">Myanmar</a>
-*  <a href="http://stats.cybergreen.net/place/philippines">Philippines</a>
-*  <a href="http://stats.cybergreen.net/place/singapore ">Singapore </a>
-*  <a href="http://stats.cybergreen.net/place/thailand">Thailand</a>
-*  <a href="http://stats.cybergreen.net/place/vietnam/">Viet Nam</a>
-
 <div style="margin-bottom: 50px">
 </div>
 
@@ -180,6 +169,8 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 </div>   
 
 ## Contact
+
+For more information on how you can get involved with risk mitigation, or any other general inquiries, please contact us using the form below.
 
 <div class="wrapper" style="margin-bottom:50px; margin-top:50px">
     <form action="https://formspree.io/contact@cybergreen.net"
