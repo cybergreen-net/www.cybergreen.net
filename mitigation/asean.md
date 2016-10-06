@@ -6,11 +6,11 @@ title: ASEAN
 
 CyberGreen measures the presence of risk conditions to the Internet, and generates a Cyber Ecosystem health state index by country and AS (Anonymous System).
 
-This Cyber Mitigation Resource Portal is co-developed by CyberGreen and the Cyber Security Agency (CSA) of Singapore. It aims to provide ASEAN Member States with a regional view on the cyber health state and the necessary resources needed to enhance our remediation efforts collectively. In light of its commitment to a healthier Cyber Ecosystem, CyberGreen will collaborate with Singapore as its focal point for the ASEAN region.
+This Cyber Mitigation Resource Portal has been developed by CyberGreen with support and sponsorship from the Cyber Security Agency (CSA) of Singapore. It aims to provide ASEAN Member States with a regional view on the cyber health state and the necessary resources needed to enhance our remediation efforts collectively. In light of its commitment to a healthier Cyber Ecosystem, CyberGreen will collaborate with Singapore as its focal point for the ASEAN region.
 
 ## What is CyberGreen?
 
-CyberGreen is a global non-profit and collaborative organization conducting activities focused on helping to improve the health of the global Cyber Ecosystem. CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to Cyber Security Incident Response Teams (CSIRTs), network operators, and policy makers.
+CyberGreen is a global initiative focused on helping to improve the health of the global Cyber Ecosystem. CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to a variety of stakeholders.
 
 Using its measurement of risk conditions posed to the global Internet, CyberGreen formulates an index that can be presented in three views: 
 
@@ -38,7 +38,7 @@ The country-level view provides the count of vulnerable devices for the four ris
 
 <div>
   <img src="{{site.media}}sing-country-level.png"/>
-  <center><imgcaption><i> Snapshot of Singapore country-level view </i></imgcaption></center>
+  <center><imgcaption><i> Example: Singapore country-level view </i></imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -62,11 +62,11 @@ The country-level views for each ASEAN state can be accessed here:
 
 ## Anonymous System (AS) View
 
-The anonymous system (AS) view provides the count of vulnerable devices for the four risk indicators by country's AS.
+The anonymous system (AS) view provides the count of vulnerable devices for the four risk indicators by country's AS. Through this view, stakeholders are able to see the trendline which shows the level of improvement over time for a given AS. This gives policymakers the visibility they need to make informed decisions.
 
 <div>
   <img src="{{site.media}}sing-as-level.png"/>
-  <center><imgcaption><i> Snapshot of Singapore AS view </i></imgcaption></center>
+  <center><imgcaption><i> Example: Singapore AS view </i></imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -74,7 +74,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 ## What We Measure
 
-CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of malicious activity and risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Spam.
+CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Open SNTP. CyberGreen will add Spam to its list of risk indicators in the coming months.
 
 ### Risks
 
@@ -84,7 +84,9 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 + <b>Open SSDP</b>: The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
-+ <b>Spam</b>: Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
++ <b>Open SNTP</b> [Text needed here]
+
++ <b>Spam</b>: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
 <div style="margin-bottom: 50px">
 </div>
