@@ -50,49 +50,49 @@ The country-level views for each ASEAN state can be accessed here:
 <table cellspacing="10px" cellpadding="10px" style="border-spacing: 10px">
     <tbody>
         <tr>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/bn.png" alt=""><br>
             <center><a target="_blank" href="http://stats.cybergreen.net/place/brunei/">Brunei</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/kh.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/id.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/indonesia/">Indonesia</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/indonesia/">Indonesia</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/la.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/laos/">Laos PDR</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/laos/">Laos PDR</a></center></div>
             </td>
         </tr>
         <tr>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/my.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/malaysia/">Malaysia</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/malaysia/">Malaysia</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/mm.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/myanmar/">Myanmar</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/myanmar/">Myanmar</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/ph.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/philippines/">Philippines</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/philippines/">Philippines</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/sg.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/Singapore/">Singapore</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/Singapore/">Singapore</a></center></div>
             </td>
         </tr>
          <tr>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/th.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/thailand/">Thailand</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/thailand/">Thailand</a></center></div>
             </td>
-            <td width="100" height="100" border="1px">
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/vn.png" alt=""><br>
-            <a target="_blank" href="http://stats.cybergreen.net/place/vietnam/">Viet Nam</a></div>
+            <center><a target="_blank" href="http://stats.cybergreen.net/place/vietnam/">Viet Nam</a></center></div>
             </td>
         </tr>
     </tbody>
