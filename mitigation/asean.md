@@ -99,13 +99,14 @@ Once CyberGreen has identified the presence of those risk conditions within a co
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
-    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 0px 15px 15px;" caption="Open SSDP" width="50" height="50"></a>
+    <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
+    <center><imgcaption> Open SSDP </imgcaption></center>
 <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
-    <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 0px 15px 15px;" caption="Open SSDP" width="50" height="50"></a> 
+    <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a> 
+    <center><imgcaption> Open NTP </imgcaption></center>
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
-    <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 0px 15px 15px; caption="Open SSDP" width="50" height="50"></a> 
-<a download="Spam" href="/img/medialibrary/Open SSDP.pptx" title="Spam">
-    <img alt="Spam" src="{{site.media}}document-green.png" style="float: right; left: 0px 0px 15px 15px;" width="50" height="50"></a>
+    <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
+    <center><imgcaption> Open DNS </imgcaption></center>
 
 <div style="margin-bottom: 50px">
 </div>   
