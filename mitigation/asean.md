@@ -159,15 +159,15 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <table cellspacing="10px" cellpadding="10px" style="border-spacing: 10px">
     <tbody>
         <tr>
-            <td style="padding-right: 10px" width="75" height="75" border="1px">
+            <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" width="75" height="75" alt="Open SSDP"><br>
             <center><a download="Open SSDP" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="Open SSDP">Open SSDP</a></center></div>
             </td>
-             <td style="padding-right: 10px" width="75" height="75" border="1px">
+             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" width="75" height="75" alt="Open NTP"><br>
             <center><a download="Open NTP" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="Open NTP">Open NTP</a></center></div>
             </td>
-             <td style="padding-right: 10px" width="75" height="75" border="1px">
+             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" width="75" height="75" alt="Open DNS"><br>
             <center><a download="Open DNS" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="Open DNS">Open DNS</a></center></div>
             </td>
