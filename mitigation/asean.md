@@ -197,4 +197,4 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <div style="margin-bottom: 200px">
 </div>  
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="230" height="100" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
+<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="220" height="100" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
