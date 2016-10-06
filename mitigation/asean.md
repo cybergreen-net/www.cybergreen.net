@@ -107,6 +107,7 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
     <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
     <center><imgcaption> Open DNS </imgcaption></center>
+<br style="clear:both" />
 
 <div style="margin-bottom: 50px">
 </div>   
