@@ -180,7 +180,7 @@ For more information on how you can get involved with risk mitigation, or any ot
         <h5>Email</h5>
         <input type="email" name="_replyto" />
         <h5>Description</h5>
-        <textarea  name="description"> </textarea>
+        <textarea  name="Message"> </textarea>
         <input type="submit" value="Send">
     </form>
 </div>
