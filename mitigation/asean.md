@@ -160,7 +160,7 @@ Download CyberGreen's mitigation best current practices for four risk conditions
     <tbody>
         <tr>
             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}openssdpicon.png" width="75" height="75" alt="Open SSDP"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="Open SSDP"><br>
             <center><a download="Open SSDP" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="Open SSDP">Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
