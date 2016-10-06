@@ -155,6 +155,27 @@ Once CyberGreen has identified the presence of those risk conditions within a co
 ## Capacity Building Materials
 Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
+<div class="content">
+<table cellspacing="10px" cellpadding="10px" style="border-spacing: 10px">
+    <tbody>
+        <tr>
+            <td style="padding-right: 10px" width="100" height="100" border="1px">
+            <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" alt="Open SSDP"><br>
+            <center><a download="Open SSDP" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="Open SSDP">Open SSDP</a></center></div>
+            </td>
+             <td style="padding-right: 10px" width="100" height="100" border="1px">
+            <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" alt="Open NTP"><br>
+            <center><a download="Open NTP" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="Open NTP">Open NTP</a></center></div>
+            </td>
+             <td style="padding-right: 10px" width="100" height="100" border="1px">
+            <div class="flag_back"><img border="0" src="{{site.media}}document-green.png" alt="Open DNS"><br>
+            <center><a download="Open DNS" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="Open DNS">Open DNS</a></center></div>
+            </td>
+        </tr>
+     </tbody>
+</table>
+</div>
+
 <p>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
