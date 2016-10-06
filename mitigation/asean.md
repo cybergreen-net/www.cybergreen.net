@@ -50,47 +50,47 @@ The country-level views for each ASEAN state can be accessed here:
 <table cellspacing="0" cellpadding="10px" style="border-spacing: 10px" border="1px">
     <tbody>
         <tr>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/bn.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/brunei/">Brunei</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/kh.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/id.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/indonesia/">Indonesia</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/la.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/laos/">Laos PDR</a></div>
             </td>
         </tr>
         <tr>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/my.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/malaysia/">Malaysia</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/mm.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/myanmar/">Myanmar</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/ph.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/philippines/">Philippines</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/sg.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/Singapore/">Singapore</a></div>
             </td>
         </tr>
          <tr>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/th.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/thailand/">Thailand</a></div>
             </td>
-            <td width="100" height="100">
+            <td width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/vn.png" alt=""><br>
             <a target="_blank" href="http://stats.cybergreen.net/place/vietnam/">Viet Nam</a></div>
             </td>
