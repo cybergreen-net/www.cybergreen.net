@@ -101,14 +101,11 @@ Download CyberGreen's mitigation best current practices for four risk conditions
 <p>
 <a download="Open SSDP" href="/img/medialibrary/Open SSDP.pptx" title="Open SSDP">
     <img alt="Open SSDP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
-    <center><imgcaption> Open SSDP </imgcaption></center>
 <a download="Open NTP" href="/img/medialibrary/Open SSDP.pptx" title="Open NTP">
     <img alt="Open NTP" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a> 
-    <center><imgcaption> Open NTP </imgcaption></center>
 <a download="Open DNS" href="/img/medialibrary/Open SSDP.pptx" title="Open DNS">
     <img alt="Open DNS" src="{{site.media}}document-green.png" style="float: left; margin: 0px 40px 40px 0px;" width="75" height="75"></a>
-    <center><imgcaption> Open DNS </imgcaption></center>
-<br style="clear:both" />
+<br style="clear:both;">
 </p>
 
 <div style="margin-bottom: 50px">
