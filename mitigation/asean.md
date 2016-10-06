@@ -97,6 +97,7 @@ The country-level views for each ASEAN state can be accessed here:
         </tr>
     </tbody>
 </table>
+</div>
 
 <br>
 
