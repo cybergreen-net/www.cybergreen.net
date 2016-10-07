@@ -149,15 +149,15 @@ Download CyberGreen's mitigation best current practices for four risk conditions
     <tbody>
         <tr>
             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="Open SSDP"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="100" height="75" alt="Open SSDP"><br>
             <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation">Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="75" height="75" alt="CyberGreen Open NTP Mitigation"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="100" height="75" alt="CyberGreen Open NTP Mitigation"><br>
             <center><a download="CyberGreen Open NTP Mitigation" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="CyberGreen OpenNTP Mitigation">Open NTP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="100" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
             <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation">Open DNS</a></center></div>
             </td>
         </tr>
