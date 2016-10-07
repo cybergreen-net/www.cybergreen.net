@@ -52,47 +52,47 @@ The country-level views for each ASEAN state can be accessed here:
         <tr>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/bn.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/brunei/">Brunei</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/brunei/">Brunei</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/kh.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/cambodia/">Cambodia</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/cambodia/">Cambodia</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/id.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/indonesia/">Indonesia</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/indonesia/">Indonesia</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/la.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/laos/">Laos PDR</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/laos/">Laos PDR</a></center></div>
             </td>
         </tr>
         <tr>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/my.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/malaysia/">Malaysia</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/malaysia/">Malaysia</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/mm.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/myanmar/">Myanmar</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/myanmar/">Myanmar</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/ph.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/philippines/">Philippines</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/philippines/">Philippines</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/sg.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/Singapore/">Singapore</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/singapore/">Singapore</a></center></div>
             </td>
         </tr>
          <tr>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/th.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/thailand/">Thailand</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/thailand/">Thailand</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
             <div class="flag_back"><img border="0" src="http://flags.fmcdn.net/data/flags/normal/vn.png" alt=""><br>
-            <center><a target="_blank" href="http://stats.cybergreen.net/place/vietnam/">Viet Nam</a></center></div>
+            <center><a target="_blank" href="http://cybergreen-stats.herokuapp.com/country/vietnam/">Viet Nam</a></center></div>
             </td>
         </tr>
     </tbody>
