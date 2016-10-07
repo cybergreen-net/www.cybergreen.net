@@ -26,7 +26,7 @@ Using its measurement of risk conditions posed to the global Internet, CyberGree
 The ASEAN regional view provides a snapshot of remediation achievements and progress collectively.
 
 <div>
-<a href="http://stats.cybergreen.net" rel="external"><img src="{{site.media}}asean-level.png"/></a>
+<a href="http://cybergreen-stats.herokuapp.com/" rel="external"><img src="{{site.media}}asean-level.png"/></a>
 </div>
 
 <div style="margin-bottom: 50px">
