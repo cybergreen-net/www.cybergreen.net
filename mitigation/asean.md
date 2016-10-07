@@ -128,7 +128,7 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 + <b>Open SSDP</b>: The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
-+ <b>Open SNMP</b> [Text needed here]
++ <b>Open SNMP</b>: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks.
 
 + <b>Spam</b>: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
 
