@@ -1,35 +1,54 @@
 ---
 layout: page
-title: Mitigation campaign Steps
+title: Mitigation Campaign Steps
 ---
 
-## National CSIRT preparation
-1.	National CERT or any equivalent organization to reach out to the constituent ISPs and engage them to participate focused mitigation campaign
+### 1. National CERT or equivalent organization reaches out to constituent remediators to engage them to participate in a focused mitigation campaign.
 
-•	Brief and get agreement on
-(1) target risk conditions  
-(2) mitigation methods and
-(3) campaign time period
+Depending on the target risk conditions to mitigate, remediators could be ISPs, network owners, product vendors, etc.
 
-### e.g. Option 1: Mitigating Open SSDP risk
--	Reconfigure the misconfigured devices.
--	Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
+<div style="margin-bottom: 50px">
+</div>
 
-### e.g. Option 2: Mitigating Open NTP risk
--	Reconfigure the misconfigured devices.
--	Block NTP monlist requests (block larger port on 123/udp).  It allows normal NTP traffic to proceed while blocking monlist replies.
+### 2. Brief stakeholders and agree on:
+*  Target risk conditions 
+*  Mitigation methods 
+*  Campaign time period
 
-2.	Once ISPs are on board, establish data receiving points at ISPs
+<div style="margin-bottom: 25px">
+</div>
 
-3.	ShadowSever and CyberGreen Mitigation briefing VTC with participating ISP’s PoCs, is possible if needed.  
+<h4> Example: </h4>
+1. Target risk conditions: Open SSDP
+2. Mitigation methods:
+-  Reconfigure the misconigured devices.  
+-  Block udp/1900 altogether at the edge of their network.  Block legacy protocols like chargen and echo that don’t have any real use other than DDOS anymore.
+3. Campaign time period: 6 months to 1 year.
 
-4.	SS start sending daily risk data to each AS to the data receiving point (email account set as above step 2)
 
-5.	ISPs start mitigation over risk condition
-•	Mitigation training material will be provided by CyberGreen
-•	Making sure ISPs are ready to take action will be the national CERT or coordinators role
+<div style="margin-bottom: 50px">
+</div>
 
-6.	CyberGreen measure the time series trend-line and provide impact analysis.
+### 3. Once remediators are on board, establish data receiving points.
 
-## Capacity Building Materials: 
-Mitigation Best Current Practices over Risk conditions
+<div style="margin-bottom: 50px">
+</div>
+
+### 4. CyberGreen and other relevant parties hold mitigation briefing with participating remediators.  
+
+<div style="margin-bottom: 50px">
+</div>
+
+### 5. Data source begins sending daily risk data to each data receiving point.
+
+<div style="margin-bottom: 50px">
+</div>
+
+### 6. Remediators start mitigation over risk conditions.
+* Mitigation training material will be provided by CyberGreen
+* Ensuring that ISPs are ready to take action will be the national CERT or coordinator's role
+
+<div style="margin-bottom: 50px">
+</div>
+
+### 7.	CyberGreen measures the time series trend line and provides impact analysis.

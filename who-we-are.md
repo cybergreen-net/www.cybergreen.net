@@ -17,6 +17,10 @@ board:
 
 
 adviser:
+  - image: BBdaniel-geer.jpg
+    name: Dr. Daniel E. Geer, Jr.
+    title: Security Researcher, CyberGreen Metrics Special Adviser
+    description: Dan Geer is a security researcher with a quantitative bent. His group at MIT produced Kerberos, and a number of startups later he is still at it — today as Chief Information Security Officer at In-Q-Tel. He writes a lot at every length, and sometimes it gets read. He’s an electrical engineer, a statistician, and someone who thinks truth is best achieved by adversarial procedures.
   - image: paul-vixie.png
     name: Dr. Paul Vixie
     title: Chairman and CEO, Farsight Security, CyberGreen Ecosystem Special Adviser
@@ -25,10 +29,7 @@ adviser:
     name: Dr. Jun Murai
     title: Father of the Internet in Japan, CyberGreen Advocacy Special Adviser
     description: Dr. Jun Murai is known as the ‘father of the Internet in Japan,’ and, outside of Japan, has also been called the 'Internet samurai.’ In 1984, he developed the Japan University UNIX Network (JUNET), the first-ever inter-university network in that nation.In 1988, he founded the Widely Integrated Distributed Environment Project, a Japanese Internet research consortium, for which he continues to serve as a board member. He is a professor and dean of the Faculty of Environment and Information Studies at Keio University, from which he earned his PhD in computer science in 1987. He served as President of the Japan Network Information Center (JPNIC) and as Vice President of the Japanese Internet Association. He served on the Internet Society’s Board of Trustees from 1997 to 2000. In 1998, he was appointed as one of nine initial directors of the Internet Corporation for Assigned Names and Numbers and served until June 2003. He won the 2005 Internet Society's Jonathan B. Postel Service Award in recognition of his vision and pioneering work that helped spread the Internet across the Asia Pacific region. He was honored with the 2011 Institute of Electrical and Electronics Engineers Internet Award.
-  - image: BBdaniel-geer.jpg
-    name: Dr. Daniel E. Geer, Jr.
-    title: Security Researcher, CyberGreen Metrics Special Adviser
-    description: Dan Geer is a security researcher with a quantitative bent. His group at MIT produced Kerberos, and a number of startups later he is still at it — today as Chief Information Security Officer at In-Q-Tel. He writes a lot at every length, and sometimes it gets read. He’s an electrical engineer, a statistician, and someone who thinks truth is best achieved by adversarial procedures.
+
 
 experts:
   - name: Prof. Manel Medina
@@ -123,23 +124,18 @@ CyberGreen’s community of expert statisticians have been working diligently to
 
 {% for member in page.v2 %}
 {% if member.image %}
-<img style="width:200px; margin-right:20px; float:left" src="{{site.media}}{{member.image}}" />
+<img style="width:100px; margin-right:20px" src="{{site.media}}{{member.image}}" />
 {% endif %}
 <h4>{{ member.name}}</h4><em>{{ member.title }}</em>
 {% endfor %}
 
 
-# v.1 Metrics Working Group
+## [v.1 Metrics Working Group][v1]
+
+[v1]: http://www.cybergreen.net/2015/06/01/v1-metrics-working-group/
 
 <div style="margin-bottom: 50px">
 </div>
-
-# Metrics and Data Advisory Experts
-
-{% for member in page.experts %}
-<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
-{% endfor %}
-
 
 # Partners
 
@@ -156,7 +152,7 @@ CyberGreen relies upon our sponsors for our continued operation, and we apprecia
 
 CyberGreen seeks general sponsorships, as well as partners for specific programs and projects. We need your contributions to empower our global efforts to improve overall cyber health, and reduce current and emerging risks to the cyber ecosystem. Our impact, through improved metrics and capacity building, will increase exponentially with additional contributions and partnerships. We seek to set up a sustainable organization with long-term funding and partners.
 
-<img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcert_logo.gif" alt="jpcert_logo" width="335" height="90" />
+<img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}jpcertcc_logo.png" alt="jpcertcc_logo" width="335" height="90" />
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}UK-FCO-Logo.png" alt="UK-FCO-Logo" width="197" height="151" />
 

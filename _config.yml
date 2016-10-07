@@ -10,7 +10,7 @@ github_repo:  inventory.cybergreen.net
 paypal:
 media: /img/medialibrary/
 
-google_analytics: UA-80458846-1
+google_analytics: UA-80341493-1
 
 markdown: kramdown
 
@@ -24,14 +24,17 @@ permalink: pretty
 
 supporters:
   -
-    name: open-knowledge-small-landscape-colour.png
-    footer_logo: /img/medialibrary/open-knowledge-small-landscape-colour.png
-    url: https://okfn.org/
+    name: UK-FCO-Logo.png
+    footer_logo: /img/medialibrary/UK-FCO-Logo.png
+    url: https://www.gov.uk/government/organisations/foreign-commonwealth-office
   -
-    name: ATOMATIC-LOGO.jpg
-    footer_logo: /img/medialibrary/ATOMATIC-LOGO.jpg
-    url: http://atomatic.net/
+    name: jpcertcc_logo2.png
+    footer_logo: /img/medialibrary/jpcertcc_logo2.png
+    url: https://www.jpcert.or.jp/english/
   -
+    name: csa-logo.jpg
+    footer_logo: /img/medialibrary/csa-logo.jpg
+    url: https://www.csa.gov.sg
 
 defaults:
   -
