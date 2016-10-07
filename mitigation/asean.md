@@ -118,7 +118,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 ## What We Measure
 
-CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Open SNTP. CyberGreen will add Spam to its list of risk indicators in the coming months.
+CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Open SNMP. CyberGreen will add Spam to its list of risk indicators in the coming months.
 
 ### Risk Indicators
 
