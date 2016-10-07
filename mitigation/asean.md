@@ -109,7 +109,7 @@ The country-level views for each ASEAN state can be accessed here:
 The anonymous system (AS) view provides the count of vulnerable devices for the four risk indicators by country's AS. Through this view, stakeholders are able to see the trendline which shows the level of improvement over time for a given AS. This gives policymakers the visibility they need to make informed decisions.
 
 <div>
-  <img src="{{site.media}}sing-as-level.png"/>
+  <img src="{{site.media}}sing-as-level2.png"/>
   <center><imgcaption><i> Example: Singapore AS view </i></imgcaption></center>
 </div>
 
