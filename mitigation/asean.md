@@ -150,15 +150,15 @@ Download CyberGreen's mitigation best current practices for four risk conditions
         <tr>
             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="Open SSDP"><br>
-            <center><a download="Open SSDP" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="Open SSDP">Open SSDP</a></center></div>
+            <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation">Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="75" height="75" alt="Open NTP"><br>
-            <center><a download="Open NTP" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="Open NTP">Open NTP</a></center></div>
+            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="75" height="75" alt="CyberGreen Open NTP Mitigation"><br>
+            <center><a download="CyberGreen Open NTP Mitigation" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="CyberGreen OpenNTP Mitigation">Open NTP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="Open DNS"><br>
-            <center><a download="Open DNS" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="Open DNS">Open DNS</a></center></div>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
+            <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation">Open DNS</a></center></div>
             </td>
         </tr>
      </tbody>
