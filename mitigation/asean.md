@@ -200,4 +200,4 @@ For more information on how you can get involved with risk mitigation, or any ot
 
 <img style="width:110px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
 <img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Shadowserver.png" alt="Shadowserver" />
-<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 30px" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" />
+<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 25px" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" />
