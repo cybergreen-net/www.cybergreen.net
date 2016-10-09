@@ -195,7 +195,8 @@ For more information on how you can get involved with risk mitigation, or any ot
 
 <div style="margin-bottom: 150px">
 </div>  
-## Made possible by:
+
+<h2> Made possible by:</h2>
 
 <img style="width:110px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
 <img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Shadowserver.png" alt="Shadowserver" />
