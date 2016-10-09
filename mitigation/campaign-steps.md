@@ -18,7 +18,7 @@ Depending on the target risk conditions to mitigate, remediators could be ISPs, 
 <div style="margin-bottom: 25px">
 </div>
 
-Example:
+<h4> Example: </h4>
 1. Target risk conditions: Open SSDP
 2. Mitigation methods:
 -  Reconfigure the misconigured devices.  
