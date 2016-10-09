@@ -12,7 +12,7 @@ This Cyber Mitigation Resource Portal has been developed by CyberGreen with supp
 
 CyberGreen is a global initiative focused on helping to improve the health of the global Cyber Ecosystem. CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to a variety of stakeholders.
 
-Using its measurement of risk conditions posed to the global Internet, CyberGreen formulates an index that can be presented in three views: 
+Using its measurement of risk conditions posed to the global Internet, CyberGreen formulates an index that can be presented in three views:
 
 1. ASEAN Regional View
 2. Country-Level View
@@ -34,17 +34,18 @@ The ASEAN regional view provides a snapshot of remediation achievements and prog
 
 ## Country-Level View
 
-The country-level view provides the count of vulnerable devices for the four risk indicators within each country. 
+The country-level view provides the count of vulnerable devices for the four risk indicators within each country.
 
+**Example: Singapore country-level view**
 <div>
   <img src="{{site.media}}sing-country-level.png"/>
-  <center><imgcaption><i> Example: Singapore country-level view </i></imgcaption></center>
+  <center><imgcaption></imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
 </div>
 
-The country-level views for each ASEAN state can be accessed here:
+**The country-level views for each ASEAN state can be accessed here:**
 
 <div class="content">
 <table cellspacing="10px" cellpadding="10px" style="border-spacing: 10px">
@@ -104,13 +105,14 @@ The country-level views for each ASEAN state can be accessed here:
 <div style="margin-bottom: 50px">
 </div>
 
-## Anonymous System (AS) View
+## Autonomous System (AS) View
 
 The anonymous system (AS) view provides the count of vulnerable devices for the four risk indicators by country's AS. Through this view, stakeholders are able to see the trendline which shows the level of improvement over time for a given AS. This gives policymakers the visibility they need to make informed decisions.
 
+**Example: Singapore AS view**
 <div>
   <img src="{{site.media}}sing-as-level2.png"/>
-  <center><imgcaption><i> Example: Singapore AS view </i></imgcaption></center>
+  <center><imgcaption></imgcaption></center>
 </div>
 
 <div style="margin-bottom: 50px">
@@ -122,21 +124,26 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 
 ### Risk Indicators
 
-+ <b>Open DNS</b>: The Domain Name System (DNS) is pervasive. For enterprises, it is their digital identity as well as a critical component of their security architecture. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
+<img style="width:60px" src="{{site.media}}icon20.jpg"/>
+**Open DNS**: The Domain Name System (DNS) is pervasive. For enterprises, it is their digital identity as well as a critical component of their security architecture. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
 
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/medialibrary/openntprisk.png" width="260" height="225" /> • <b>Open NTP</b>: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time. Most computers stay synchronized using Network Time Protocol (NTP). Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does. <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
+<img style="width:60px" src="{{site.media}}icon22.jpg"/>
+**Open NTP**: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time. Most computers stay synchronized using Network Time Protocol (NTP). Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does. <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
 
-+ <b>Open SSDP</b>: The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
+<img style="width:60px" src="{{site.media}}icon21.jpg"/>
+**Open SSDP**The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
-+ <b>Open SNMP</b>: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks.
+<img style="width:60px" src="{{site.media}}icon23.jpg"/>
+**Open SNMP**: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks.
 
-+ <b>Spam</b>: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a> 
+<img style="width:60px" src="{{site.media}}icon24.jpg"/>
+**Spam**: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a>
 
 <div style="margin-bottom: 50px">
 </div>
 
 ## Mitigation Campaign Steps
-Once CyberGreen has identified the presence of those risk conditions within a country, it requires coordination with national CSIRTs or other equivalent organizations to begin the process of mitigation. <a href="/mitigation/campaign-steps/">Read more &raquo;</a> 
+Once CyberGreen has identified the presence of those risk conditions within a country, it requires coordination with national CSIRTs or other equivalent organizations to begin the process of mitigation. <a href="/mitigation/campaign-steps/">Read more &raquo;</a>
 
 <div style="margin-bottom: 50px">
 </div>
@@ -149,16 +156,16 @@ Download CyberGreen's mitigation best current practices for four risk conditions
     <tbody>
         <tr>
             <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="100" height="75" alt="Open SSDP"><br>
-            <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation">Open SSDP</a></center></div>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="Open SSDP"><br>
+            <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation">Download Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="100" height="75" alt="CyberGreen Open NTP Mitigation"><br>
-            <center><a download="CyberGreen Open NTP Mitigation" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="CyberGreen OpenNTP Mitigation">Open NTP</a></center></div>
+            <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="75" height="75" alt="CyberGreen Open NTP Mitigation"><br>
+            <center><a download="CyberGreen Open NTP Mitigation" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="CyberGreen OpenNTP Mitigation">Download Open NTP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="75" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="100" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
-            <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation">Open DNS</a></center></div>
+            <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="75" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
+            <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation">Download Open DNS</a></center></div>
             </td>
         </tr>
      </tbody>
@@ -185,7 +192,11 @@ For more information on how you can get involved with risk mitigation, or any ot
     </form>
 </div>
 
-<div style="margin-bottom: 200px">
-</div>  
 
-<img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}Shadowserver.png" alt="Shadowserver" width="210" height="100" /> <img class="alignnone size-full wp-image-171 aligncenter" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" alt="CyberGreen" width="250" height="90" /> 
+<div style="margin-bottom: 150px">
+</div>  
+## Made possible by:
+
+<img style="width:110px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
+<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Shadowserver.png" alt="Shadowserver" />
+<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" />
