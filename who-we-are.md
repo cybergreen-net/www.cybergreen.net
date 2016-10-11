@@ -131,13 +131,7 @@ CyberGreen’s community of expert statisticians have been working diligently to
 
 # v.1 Metrics Working Group
 
-
-
-# Metrics and Data Advisory Experts
-
-{% for member in page.experts %}
-<h4>{{ member.name}}</h4>  <em>{{ member.title }}</em>
-{% endfor %}
+A list of experts from CyberGreen's first metrics working group can be found <a href="http://www.cybergreen.net/2015/06/01/v1-metrics-working-group/"> here </a>
 
 
 # Partners
