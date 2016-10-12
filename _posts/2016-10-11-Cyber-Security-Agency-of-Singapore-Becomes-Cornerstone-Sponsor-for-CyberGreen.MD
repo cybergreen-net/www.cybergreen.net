@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cyber Security Agency of Singapore Becomes Cornerstone Sponsor for CyberGreen
-image: CSA-logo.jpg
+image: csa-logo.jpg
 
 date:   2016-10-11
 ---
