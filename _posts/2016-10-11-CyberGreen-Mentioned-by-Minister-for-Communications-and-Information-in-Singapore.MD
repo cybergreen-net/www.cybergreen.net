@@ -12,5 +12,4 @@ On October 11, 2016, Dr. Yaacob Ibrahim cited CyberGreen as an initiative aimed 
 
 >Singapore is excited to be a sponsor of this global initiative.  We have signed on to CyberGreen, as we recognise that ASEAN Member States including ourselves can benefit from CyberGreen. As a start, because of our sponsorship, all ASEAN Member States will be able to access CyberGreen through Singapore for free, and get a first cut report on the state of their own country’s cyber health status. I would like to invite fellow ASEAN Member States to come on board, and join Singapore in CyberGreen. Through this platform, our countries can work together to improve our cyber situational awareness, sharpen incident response, and therefore secure ASEAN’s common cyberspace.
 
-To read Dr. Yaacob Ibrahim's full speech, <a href="https://www.csa.gov.sg/news/speeches/minister-yaacob-speech-for-amcc-2016"> click here </a>
-
+To read Dr. Yaacob Ibrahim's full speech, <a href="https://www.csa.gov.sg/news/speeches/minister-yaacob-speech-for-amcc-2016" target="_blank"> click here </a>
