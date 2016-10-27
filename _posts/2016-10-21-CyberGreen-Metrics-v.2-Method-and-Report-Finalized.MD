@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CyberGreen Metrics v.2 Method and Report Finalized 
-image: icon2.png
+image: icon02.png
 
 date:   2016-10-21
 ---
