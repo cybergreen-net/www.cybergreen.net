@@ -1,7 +1,7 @@
 ---
 layout: post
-title: WIRED: President Obama on the Future of Cybersecurity
-image: icon02.png
+title: President Obama on the Future of Cybersecurity
+image: wired.png
 
 date:   2016-10-28
 ---
