@@ -5,27 +5,122 @@
   "resources": [
     {
       "name": "sources",
-      "path": "sources.csv",
-      "format": "csv",
+      "title": "Sources",
       "schema": {
         "fields": [
           {
             "name": "Title",
-            "type": "string",
-            "description": ""
+            "type": "string"
           },
           {
             "name": "Owner",
-            "type": "string",
-            "description": ""
+            "type": "string"
           },
           {
             "name": "Homepage",
-            "type": "string",
-            "description": ""
+            "type": "string"
+          },
+          {
+            "name": "Taxonomy",
+            "type": "string"
+          },
+          {
+            "name": "Risk types",
+            "type": "string"
+          },
+          {
+            "name": "Size",
+            "type": "string"
+          },
+          {
+            "name": "Coverage (Geo)",
+            "type": "string"
+          },
+          {
+            "name": "Start",
+            "type": "string"
+          },
+          {
+            "name": "End",
+            "type": "string"
+          },
+          {
+            "name": "Description",
+            "type": "string"
+          },
+          {
+            "name": "Level of information",
+            "type": "string"
+          },
+          {
+            "name": "Tools for fetching the data",
+            "type": "string"
+          },
+          {
+            "name": "Authentication needed?",
+            "type": "string"
+          },
+          {
+            "name": "Owner type",
+            "type": "string"
+          },
+          {
+            "name": "AggregateOrRaw",
+            "type": "string"
+          },
+          {
+            "name": "Format",
+            "type": "string"
+          },
+          {
+            "name": "Public",
+            "type": "string"
+          },
+          {
+            "name": "OpenOrClosed",
+            "type": "string"
+          },
+          {
+            "name": "UrlOrIP",
+            "type": "string"
+          },
+          {
+            "name": "Available to CERTs?",
+            "type": "string"
+          },
+          {
+            "name": "Relevance",
+            "type": "string"
+          },
+          {
+            "name": "Timeliness",
+            "type": "string"
+          },
+          {
+            "name": "Accuracy",
+            "type": "string"
+          },
+          {
+            "name": "Completeness",
+            "type": "string"
+          },
+          {
+            "name": "Ingestibility",
+            "type": "string"
+          },
+          {
+            "name": "Detection method",
+            "type": "string"
+          },
+          {
+            "name": "Vantage Point",
+            "type": "string"
           }
         ]
-      }
+      },
+      "format": "CSV",
+      "mediatype": "text/csv",
+      "bytes": 0
     }
   ]
 }
