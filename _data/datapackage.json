@@ -1,0 +1,31 @@
+{
+  "name": "data-inventory",
+  "title": "Data inventory",
+  "version": "0.1.0",
+  "resources": [
+    {
+      "name": "sources",
+      "path": "sources.csv",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Title",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Owner",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "Homepage",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ]
+}
