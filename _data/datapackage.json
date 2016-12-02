@@ -10,111 +10,165 @@
         "fields": [
           {
             "name": "Title",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Owner",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Homepage",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Taxonomy",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Risk types",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Size",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Coverage (Geo)",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Start",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "End",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Description",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Level of information",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Tools for fetching the data",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Authentication needed?",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Owner type",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "AggregateOrRaw",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Format",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Public",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "OpenOrClosed",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "UrlOrIP",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Available to CERTs?",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Relevance",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Timeliness",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Accuracy",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Completeness",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Ingestibility",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Detection method",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           },
           {
             "name": "Vantage Point",
-            "type": "string"
+            "type": "string",
+            "title": "",
+            "description": ""
           }
         ]
       },
