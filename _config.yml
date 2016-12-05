@@ -10,7 +10,7 @@ github_repo:  inventory.cybergreen.net
 paypal:
 media: /img/medialibrary/
 
-google_analytics: UA-80341493-1
+googleanalytics: UA-80341493-1
 
 markdown: kramdown
 
