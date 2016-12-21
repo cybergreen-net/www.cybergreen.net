@@ -8,7 +8,7 @@ date:   2016-12-21
 
 On December 1, 2016, the Commission on Enhancing National Cybersecurity released its “Report on Securing and Growing the Digital Economy” which lays out recommendations to the President “for securing and growing the digital economy by strengthening cybersecurity in the public and private sectors”. 
 
-At CyberGreen (http://www.cybergreen.net), our nonprofit community of experts is committed to providing validated and aggregated risk condition data and metrics-based measurement to operators and policymakers, free of charge. Specifically, CyberGreen analyzes and evaluates the risks posed to the internet by open recursive servers that have the potential to become infrastructure to launch DDoS attacks. 
+At CyberGreen, our nonprofit community of experts is committed to providing validated and aggregated risk condition data and metrics-based measurement to operators and policymakers, free of charge. Specifically, CyberGreen analyzes and evaluates the risks posed to the internet by open recursive servers that have the potential to become infrastructure to launch DDoS attacks. 
 
 In light of this, the CyberGreen community is pleased that the Commission’s report specifically highlights the danger of DDoS attacks, particularly the role of IoT devices, which came to the forefront of cybersecurity news following the largest recorded DDoS attack in September 2016. Citing the 2015 OPM data breach, the authors have addressed the need for more preparation, rather than reliance on reaction. The community at CyberGreen supports this stance, noting that proper planning and prevention ahead of time can minimize the need for incident response later.
 
