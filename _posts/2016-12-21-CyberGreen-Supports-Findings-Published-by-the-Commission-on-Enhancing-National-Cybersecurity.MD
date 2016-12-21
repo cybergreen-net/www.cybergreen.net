@@ -6,7 +6,7 @@ image: commission report.png
 date:   2016-12-21
 ---
 
-On December 1, 2016, the Commission on Enhancing National Cybersecurity released its “Report on Securing and Growing the Digital Economy” which lays out recommendations to the President “for securing and growing the digital economy by strengthening cybersecurity in the public and private sectors”. 
+On December 1, 2016, the Commission on Enhancing National Cybersecurity released its <a href="https://www.nist.gov/sites/default/files/documents/2016/12/02/cybersecurity-commission-report-final-post.pdf" target="_blank"> “Report on Securing and Growing the Digital Economy” </a> which lays out recommendations to the President “for securing and growing the digital economy by strengthening cybersecurity in the public and private sectors”. 
 
 At CyberGreen, our nonprofit community of experts is committed to providing validated and aggregated risk condition data and metrics-based measurement to operators and policymakers, free of charge. Specifically, CyberGreen analyzes and evaluates the risks posed to the internet by open recursive servers that have the potential to become infrastructure to launch DDoS attacks. 
 
