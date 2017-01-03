@@ -2,13 +2,7 @@
 layout: page
 title: Data Inventory
 ---
-kjhkjhkjshfkjshkjhkjhkjshfkjshkjhkjhkjshfkjshkjhkjhkjshfkjsh
-kjhkjhkjshfkjshkjhkjhkjshfkjshkjhkjhkjshfkjsh
-kjhkjhkjshfkjshkjhkjhkjshfkjsh
-kjhkjhkjshfkjshkjhkjhkjshfkjshkjhkjhkjshfkjshkjhkjhkjshfkjsh
-kjhkjhkjshfkjshkjhkjhkjshfkjsh
-kjhkjhkjshfkjshkjhkjhkjshfkjshkjhkjhkjshfkjsh
-kjhkjhkjshfkjshkjhkjhkjshfkjsh
+
 
 {% for source in site.data.sources %}
 <div style="margin-bottom:40px;" class="record">
