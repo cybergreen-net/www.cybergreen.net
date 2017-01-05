@@ -3,6 +3,14 @@ layout: page
 title: Data Inventory
 ---
 
+A catalog of data sources on cyber security risks and vulnerabilities.
+
+Cybergreen use many of these data sources in its [Stats Platform][stats].
+
+We welcome contributions. Here are [instructions on how to add a data source &raquo;][add source]
+
+[stats]: http://stats.cybergreen.net/
+[add source]: /data-inventory/add/
 
 {% for source in site.data.sources %}
 <div style="margin-bottom:40px;" class="record">
