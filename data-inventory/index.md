@@ -22,9 +22,11 @@ We welcome contributions. Here are [instructions on how to add a data source &ra
 <div class="record">
   <h2 style="margin-bottom:5px">
       {{source.Title}}
+      {% if source.Cybergreen == 'yes' %}
+      <a class="stats" href="http://stats.cybergreen.net" title="This dataset is used in the Cybergreen Data Platform">&#10003;</a>
+      {% endif %}
       <a class="homepage button" href="{{source.Homepage}}">Project website »</a>
   </h2>
-  <!-- <div class="author" style="color: grey; font-size: 18px; font-style: italic;></div> -->
   <div class="description">
     {{source.Description | markdownify}}
   </div>
