@@ -5,10 +5,12 @@ fields_to_show: ['Format', 'Taxonomy', 'Risk types', 'Public', 'Relevance']
 ---
 
 A catalog of data sources on cyber security risks and vulnerabilities.
-
 Cybergreen use many of these data sources in its [Stats Platform][stats].
 
 We welcome contributions. Here are [instructions on how to add a data source &raquo;][add source]
+
+<a class="button" href="https://raw.githubusercontent.com/cybergreen-net/www.cybergreen.net/gh-pages/_data/sources.csv">Download catalog as CSV</a>
+<a class="button" href="https://raw.githubusercontent.com/cybergreen-net/www.cybergreen.net/gh-pages/_data/datapackage.json">Download the DataPackage.json</a>
 
 [stats]: http://stats.cybergreen.net/
 [add source]: /data-inventory/add/
