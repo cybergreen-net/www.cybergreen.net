@@ -2282,3 +2282,42 @@ header.navigation {
 a.button {
   @extend button;
 }
+
+// Data Inventory Page
+.data-catalog {
+  .record {
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ddd;
+
+    >.description {
+      margin-top: 20px;
+      font-size: 14px;
+    }
+
+    a.homepage {
+      font-size: 12px;
+      margin-left: 10px;
+    }
+
+    .metadata {
+      font-size: 12px;
+
+      th, td {
+        vertical-align: top;
+        padding: 0;
+      }
+
+      th {
+        border: none;
+        max-width: 150px;
+      }
+
+      .field-desc p {
+        font-weight: normal;
+        font-size: 10px;
+      }
+    }
+  }
+}
+

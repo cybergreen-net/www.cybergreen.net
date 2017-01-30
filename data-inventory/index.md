@@ -15,20 +15,18 @@ We welcome contributions. Here are [instructions on how to add a data source &ra
 
 {% assign schema = site.data.datapackage.resources[0].schema %}
 
+<div class="data-catalog">
 {% for source in site.data.sources %}
-<div style="margin-bottom:25px; padding-bottom: 40px; border-bottom: 1pt solid grey;" class="record">
+<div class="record">
   <h2 style="margin-bottom:5px">
-      {{source.Owner}}
+      {{source.Title}}
+      <a class="homepage button" href="{{source.Homepage}}">Project website »</a>
   </h2>
   <!-- <div class="author" style="color: grey; font-size: 18px; font-style: italic;></div> -->
-  <div style="margin-top:20px; font-size:14px;" class="description">
-    {{source.Description}}
+  <div class="description">
+    {{source.Description | markdownify}}
   </div>
-  <div style= "margin-top:20px; ">
-    <a class="button" href="{{source.Homepage}}">Project website »</a>
-  </div>
-
-  <table class="inventory-metadata">
+  <table class="metadata">
   {% for fieldToShow in page.fields_to_show %}
     <!-- super hacky way to look up the field -->
     {% for tmpField in schema.fields %}
@@ -37,12 +35,12 @@ We welcome contributions. Here are [instructions on how to add a data source &ra
       {% endif %}
     {%  endfor %}
     <tr>
-      <td>
+      <th>
         {{field.name}}
         {% if field.description and field.description != "" %}
-        <p>{{field.description}}</p>
+        <div class="field-desc">{{field.description | markdownify}}</div>
         {% endif %}
-      </td>
+      </th>
       <td>
         {{ source[field.name] }}
       </td>
@@ -51,4 +49,5 @@ We welcome contributions. Here are [instructions on how to add a data source &ra
   </table>
 </div>
 {% endfor %}
+</div>
 
