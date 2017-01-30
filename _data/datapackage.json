@@ -15,6 +15,12 @@
             "description": ""
           },
           {
+            "name": "Cybergreen",
+            "type": "boolean",
+            "title": "",
+            "description": "Is it included in the Cybergreen Stats Platform"
+          },
+          {
             "name": "Owner",
             "type": "string",
             "title": "",
