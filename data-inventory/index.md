@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Inventory
+title: Data Source Catalog
 fields_to_show: ['Format', 'Taxonomy', 'Risk types', 'Public', 'Relevance']
 ---
 
