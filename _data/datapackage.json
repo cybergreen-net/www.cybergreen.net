@@ -23,7 +23,7 @@
           {
             "name": "Homepage",
             "type": "string",
-            "title": "",
+            "title": "Project Homepage",
             "description": ""
           },
           {
@@ -36,30 +36,30 @@
             "name": "Risk types",
             "type": "string",
             "title": "",
-            "description": ""
+            "description": "e.g. OpenNTP, Spam ..."
           },
           {
             "name": "Size",
             "type": "string",
-            "title": "",
+            "title": "Data Size",
             "description": ""
           },
           {
             "name": "Coverage (Geo)",
             "type": "string",
-            "title": "",
+            "title": "Geographic Coverage",
             "description": ""
           },
           {
             "name": "Start",
             "type": "string",
-            "title": "",
+            "title": "Start Date",
             "description": ""
           },
           {
             "name": "End",
             "type": "string",
-            "title": "",
+            "title": "End Date",
             "description": ""
           },
           {
@@ -90,7 +90,7 @@
             "name": "Owner type",
             "type": "string",
             "title": "",
-            "description": ""
+            "description": "Commercial / Academic / Non-profit / Geek"
           },
           {
             "name": "AggregateOrRaw",
@@ -101,32 +101,32 @@
           {
             "name": "Format",
             "type": "string",
-            "title": "",
+            "title": "Data Format",
             "description": ""
           },
           {
             "name": "Public",
             "type": "string",
-            "title": "",
-            "description": ""
+            "title": "Publicly Available",
+            "description": "Is the data publicly available for download?"
           },
           {
             "name": "OpenOrClosed",
             "type": "string",
-            "title": "",
-            "description": ""
+            "title": "Open or Closed",
+            "description": "Is the data open (or not) as defined in http://opendefinition.org/?"
           },
           {
             "name": "UrlOrIP",
             "type": "string",
-            "title": "",
-            "description": ""
+            "title": "URL or IP",
+            "description": "Is data about URLs or IPs?"
           },
           {
             "name": "Available to CERTs?",
             "type": "string",
             "title": "",
-            "description": ""
+            "description": "Is the data available to CERTs and on what basis?"
           },
           {
             "name": "Relevance",
