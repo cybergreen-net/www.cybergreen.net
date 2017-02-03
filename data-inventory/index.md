@@ -17,36 +17,54 @@ We welcome contributions. Here are [instructions on how to add a data source &ra
 
 {% assign schema = site.data.datapackage.resources[0].schema %}
 
+## Data Sources
+
 <div class="data-catalog">
+<strong>Showing <span class="total">{{ site.data.sources | size }}</span> of {{ site.data.sources | size }} data sources</strong>
+
+<form class="form-inline hidden data-catalog-search" id="filters">
+  <input name="query" type="search" placeholder="Search data sources ..." />
+  <div class="field-filters">
+  {% for field in page.fields_to_show %}
+    <div class="field">
+      {{field}} <select name="{{field}}" data-field="{{field}}"></select>
+    </div>
+  {% endfor %}
+  </div>
+  <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
 {% for source in site.data.sources %}
-<div class="record">
-  <h2 style="margin-bottom:5px">
+<div class="record" data-title="{{source.Title}}">
+  <h3 style="margin-bottom:5px">
       {{source.Title}}
       {% if source.Cybergreen == 'yes' %}
-      <a class="stats" href="http://stats.cybergreen.net" title="This dataset is used in the Cybergreen Data Platform">&#10003;</a>
+      <span class="cg-use" href="http://stats.cybergreen.net" title="This dataset is used in the Cybergreen Data Platform">CG&#10003;</span>
       {% endif %}
       <a class="homepage button" href="{{source.Homepage}}">Project website »</a>
-  </h2>
+  </h3>
   <div class="description">
     {{source.Description | markdownify}}
   </div>
   <table class="metadata">
   {% for fieldToShow in page.fields_to_show %}
-    <!-- super hacky way to look up the field -->
+    <!-- hacky way to look up the field -->
     {% for tmpField in schema.fields %}
       {% if fieldToShow == tmpField.name %}
         {% assign field = tmpField %}
       {% endif %}
     {%  endfor %}
     <tr>
-      <th>
+      <th data-field="{{field.name}}">
         {{field.name}}
-        {% if field.description and field.description != "" %}
-        <div class="field-desc">{{field.description | markdownify}}</div>
-        {% endif %}
       </th>
-      <td>
+      <td class="js-field-value">
         {{ source[field.name] }}
+      </td>
+      <td class="field-desc">
+        {% if field.description and field.description != "" %}
+        {{field.description | markdownify}}
+        {% endif %}
       </td>
     </tr>
   {% endfor %}
@@ -54,4 +72,8 @@ We welcome contributions. Here are [instructions on how to add a data source &ra
 </div>
 {% endfor %}
 </div>
+
+<script src="/js/vendor/jquery-1.11.2.min.js"></script>
+<script src="/js/vendor/underscore-1.4.2.js"></script>
+<script src="/js/datacatalog.js"></script>
 

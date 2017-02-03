@@ -36,7 +36,7 @@
             "name": "Taxonomy",
             "type": "string",
             "title": "",
-            "description": "Risk categorisation used by the IT industry. 11 official categories. See <http://enisa.europa.eu/topics/csirt-cert-services/community-projects/existing-taxonomies>"
+            "description": "Risk categorisation used by the IT industry with 11 official categories. See [ENISA for details](http://enisa.europa.eu/topics/csirt-cert-services/community-projects/existing-taxonomies)"
           },
           {
             "name": "Risk types",

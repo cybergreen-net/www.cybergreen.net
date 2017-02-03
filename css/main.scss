@@ -227,7 +227,7 @@ pre,
 
     h2 {
       font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;;
-      font-size: 1.4em;
+      font-size: 1.9em;
       line-height: 1.3em;
       margin-bottom: .4em;
       font-weight:700;
@@ -2284,9 +2284,26 @@ a.button {
 }
 
 // Data Inventory Page
-.data-catalog {
-  margin-top: 50px;
+.data-catalog-search {
+  .field-filters {
+    div.field {
+      display: inline-block;
+      font-size: 80%;
 
+      select {
+        display: inline;
+      }
+    }
+  }
+
+  button {
+    font-size: 80%;
+  }
+
+  margin-bottom: 30px;
+}
+
+.data-catalog {
   .record {
     margin-bottom: 25px;
     padding-bottom: 10px;
@@ -2302,6 +2319,14 @@ a.button {
       margin-left: 5px;
     }
 
+    .cg-use {
+      border: 1px solid black;
+      border-radius: 3px;
+      margin-left: 5px;
+      padding: 2px;
+      font-size: 17px;
+    }
+
     .metadata {
       font-size: 12px;
 
@@ -2312,12 +2337,15 @@ a.button {
 
       th {
         border: none;
-        max-width: 150px;
+        width: 100px;
       }
 
-      .field-desc p {
+      td.field-desc {
+      }
+
+      td.field-desc p {
         font-weight: normal;
-        font-size: 10px;
+        font-size: 85%;
       }
     }
   }
