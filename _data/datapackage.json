@@ -90,7 +90,7 @@
             "name": "Authentication needed?",
             "type": "string",
             "title": "",
-            "description": ""
+            "description": "Do you have to register or have a contract to get access?"
           },
           {
             "name": "Owner type",
@@ -138,13 +138,13 @@
             "name": "Relevance",
             "type": "string",
             "title": "",
-            "description": ""
+            "description": "Level of relevance for CERTs"
           },
           {
             "name": "Timeliness",
             "type": "string",
             "title": "",
-            "description": ""
+            "description": "Is the data available on a frequent and timely basis"
           },
           {
             "name": "Accuracy",
