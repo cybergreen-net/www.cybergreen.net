@@ -35,7 +35,9 @@ to be used in a single attack. In short, the v2.1 Index measures
 "offensive potential" — with the obvious caveat that we do not mean intentional
 offense but rather the degree to which the country, the AS, or the alternate
 entity can be made to engage in offense whether it wanted to or not.
-
+<br>
+<br>
+<i> Note: This formula for offensive potential does not take into account maximum upstream speeds. Our metrics experts at CyberGreen are currently discussing this. Targeted plan for implementation: April 2017.<i>
 <br>
 <br>
 <h3>Version 2.2 - Densities</h3>
