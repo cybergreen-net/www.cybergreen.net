@@ -43,7 +43,7 @@ entity can be made to engage in offense whether it wanted to or not.
 <h3>Version 2.2 - Densities</h3>
 <h4>
   <strong>
-  + densities &emsp; | &emsp; weight <sub>j</sub> = (1 /count(nodes in country <sub>i</sub>, etc.))
+  + densities &emsp; | &emsp; weight <sub>j</sub> = (1 /count(nodes in country<sub>i</sub>, etc.))
   </strong>
 </h4>
 While still conjectural, it is expected that with v2.2, CyberGreen Indices will
