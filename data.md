@@ -37,7 +37,7 @@ offense but rather the degree to which the country, the AS, or the alternate
 entity can be made to engage in offense whether it wanted to or not.
 <br>
 <br>
-<i> Note: This formula for offensive potential does not take into account maximum upstream speeds of the observed unit. Our metrics experts at CyberGreen are currently discussing developent of metric Version 2.1.5 to address this. <br>Targeted date for implementation: April 2017.<i>
+<i> Note: This formula for offensive potential does not take into account maximum upstream speeds of the observed unit. Our metrics experts at CyberGreen are currently discussing development of metric Version 2.1.5 to address this. <br>Targeted date for implementation: April 2017.<i>
 <br>
 <br>
 <h3>Version 2.2 - Densities</h3>
