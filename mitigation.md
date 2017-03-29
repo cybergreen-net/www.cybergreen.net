@@ -54,7 +54,7 @@ Download CyberGreen's mitigation best current practices for three risk condition
             </td>
             <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}spamboticon.png" width="100" height="75" alt="CyberGreen SpamBot Mitigation"><br>
-            <center><a download="CyberGreen SpamBot Mitigation" href="/img/medialibrary/CyberGreen Spambot Mitigation.pdf" title="CyberGreen SpamBot Mitigation">Download SpamBot</a></center></div>
+            <center><a download="CyberGreen SpamBot Mitigation" href="/img/medialibrary/CyberGreen SpamBot Mitigation.pdf" title="CyberGreen SpamBot Mitigation">Download SpamBot</a></center></div>
             </td>
         </tr>
      </tbody>
