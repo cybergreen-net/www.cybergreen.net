@@ -157,19 +157,19 @@ Download CyberGreen's mitigation best current practices for three risk condition
         <tr>
             <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}openssdpicon.png" width="100" height="75" alt="Open SSDP"><br>
-            <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation">Download Open SSDP</a></center></div>
+            <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf'); return false;">Download Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="100" height="75" alt="CyberGreen Open NTP Mitigation"><br>
-            <center><a download="CyberGreen Open NTP Mitigation" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="CyberGreen OpenNTP Mitigation">Download Open NTP</a></center></div>
+            <center><a download="CyberGreen Open NTP Mitigation" href="/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf" title="CyberGreen OpenNTP Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenNTP Mitigation.pdf'); return false;">Download Open NTP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="100" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
-            <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation">Download Open DNS</a></center></div>
+            <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf'); return false;">Download Open DNS</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}spamboticon.png" width="100" height="75" alt="CyberGreen SpamBot Mitigation"><br>
-            <center><a download="CyberGreen SpamBot Mitigation" href="/img/medialibrary/CyberGreen SpamBot Mitigation.pdf" title="CyberGreen SpamBot Mitigation">Download SpamBot</a></center></div>
+            <center><a download="CyberGreen SpamBot Mitigation" href="/img/medialibrary/CyberGreen SpamBot Mitigation.pdf" title="CyberGreen SpamBot Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen SpamBot Mitigation.pdf'); return false;">Download SpamBot</a></center></div>
             </td>
         </tr>
      </tbody>
@@ -205,4 +205,3 @@ For more information on how you can get involved with risk mitigation, or any ot
 <img style="width:110px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" />
 <img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Shadowserver.png" alt="Shadowserver" />
 <img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 25px" src="{{site.media}}CG_Logo_Colorchange_GreyandGreen.png" />
-
