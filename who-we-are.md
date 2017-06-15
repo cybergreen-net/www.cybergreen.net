@@ -100,7 +100,7 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 
 #### Technical director: Michael Collins
 
-#### Project manager: Arastoo Taslim
+#### Director of business operations: Arastoo Taslim
 
 <div style="margin-bottom: 50px">
 </div>
