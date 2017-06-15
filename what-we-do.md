@@ -4,7 +4,7 @@ title: What We Do
 ---
 
 
-*The CyberGreen Initiative* is active on many fronts. We provide a variety of capabilities and services that will help you improve your own cyber health. [Contact us](http://cybergreennet.ipage.com/contact/) to learn more.
+*The CyberGreen Institute* is active on many fronts. We provide a variety of capabilities and services that will help you improve your own cyber health. [Contact us](http://cybergreennet.ipage.com/contact/) to learn more.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon01.png"/>
