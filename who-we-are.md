@@ -10,6 +10,10 @@ board:
     name: Dr. Richard Mark Soley
     title: Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium
     description: Dr. Richard Mark Soley is Chairman and CEO of OMG, Executive Director of the Cloud Standards Customer Council, and Executive Director of the Industrial Internet Consortium. Richard also serves on numerous industrial, technical and academic conference program committees, and speaks all over the world on issues relevant to standards, the adoption of new technology and creating successful companies. He is an active angel investor, and was involved in the creation of both the Eclipse Foundation and Open Health Tools. Dr. Soley holds Bachelor's, Master's and Doctoral degrees in Computer Science and Engineering from the Massachusetts Institute of Technology.
+     - image: fatheroftheinternet.png
+    name: Dr. Jun Murai
+    title: Father of the Internet in Japan
+    description: Dr. Jun Murai is known as the ‘father of the Internet in Japan,’ and, outside of Japan, has also been called the 'Internet samurai.’ In 1984, he developed the Japan University UNIX Network (JUNET), the first-ever inter-university network in that nation.In 1988, he founded the Widely Integrated Distributed Environment Project, a Japanese Internet research consortium, for which he continues to serve as a board member. He is a professor and dean of the Faculty of Environment and Information Studies at Keio University, from which he earned his PhD in computer science in 1987. He served as President of the Japan Network Information Center (JPNIC) and as Vice President of the Japanese Internet Association. He served on the Internet Society’s Board of Trustees from 1997 to 2000. In 1998, he was appointed as one of nine initial directors of the Internet Corporation for Assigned Names and Numbers and served until June 2003. He won the 2005 Internet Society's Jonathan B. Postel Service Award in recognition of his vision and pioneering work that helped spread the Internet across the Asia Pacific region. He was honored with the 2011 Institute of Electrical and Electronics Engineers Internet Award.
   - image: yurie02.jpg
     name: Yurie Ito
     title: Founder and Executive Director of The CyberGreen Institute
@@ -21,10 +25,6 @@ adviser:
     name: Dr. Paul Vixie
     title: Chairman and CEO, Farsight Security, CyberGreen Ecosystem Special Adviser
     description: Dr. Paul VIXIE was inducted as an Innovator into the Internet Hall of Fame in 2014 after earning his Ph.D. in Computer Science from KEIO University in 2010. He is a prolific author of open source Internet software including BIND, and of many Internet standards documents concerning DNS and DNSSEC. He was the founder of the first anti-spam company (MAPS, 1996), the first non-profit Internet infrastructure software company (ISC, 1994), the first neutral and commercial Internet exchange (PAIX, 1991), and of Farsight Security (2012), where he now serves as Chairman and Chief Executive Officer.
-  - image: fatheroftheinternet.png
-    name: Dr. Jun Murai
-    title: Father of the Internet in Japan, CyberGreen Advocacy Special Adviser
-    description: Dr. Jun Murai is known as the ‘father of the Internet in Japan,’ and, outside of Japan, has also been called the 'Internet samurai.’ In 1984, he developed the Japan University UNIX Network (JUNET), the first-ever inter-university network in that nation.In 1988, he founded the Widely Integrated Distributed Environment Project, a Japanese Internet research consortium, for which he continues to serve as a board member. He is a professor and dean of the Faculty of Environment and Information Studies at Keio University, from which he earned his PhD in computer science in 1987. He served as President of the Japan Network Information Center (JPNIC) and as Vice President of the Japanese Internet Association. He served on the Internet Society’s Board of Trustees from 1997 to 2000. In 1998, he was appointed as one of nine initial directors of the Internet Corporation for Assigned Names and Numbers and served until June 2003. He won the 2005 Internet Society's Jonathan B. Postel Service Award in recognition of his vision and pioneering work that helped spread the Internet across the Asia Pacific region. He was honored with the 2011 Institute of Electrical and Electronics Engineers Internet Award.
   - image: BBdaniel-geer.jpg
     name: Dr. Daniel E. Geer, Jr.
     title: Security Researcher, CyberGreen Metrics Special Adviser
@@ -74,7 +74,7 @@ v2:
 ## Our mission is to help create a more resilient and healthier Internet Ecosystem
 {:.no_toc}
 
-*The CyberGreen Initiative* is a global non-profit and collaborative organization conducting activities focused on helping to improve the health of the global Cyber Ecosystem.
+*The CyberGreen Institute* is a global non-profit and collaborative organization conducting activities focused on helping to improve the health of the global Cyber Ecosystem.
 
 CyberGreen will achieve this by providing reliable metrics, measurements, and mitigation best practices to Cyber Security Incident Response Teams (CSIRTs), network operators, and policy makers.
 
@@ -98,14 +98,14 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 
 #### Executive director: Yurie Ito
 
-#### Technical director: Aaron Kaplan
+#### Technical director: Michael Collins
 
 #### Project manager: Arastoo Taslim
 
 <div style="margin-bottom: 50px">
 </div>
 
-# Special Advisers
+# Special Advisors
 
 {% for member in page.adviser %}
   <div style="margin-bottom: 50px">
