@@ -44,7 +44,7 @@ CyberGreen will also strive to engage the policy-making and media communities as
 <img style="width:60px" src="{{site.media}}icon17.png"/>
 <a href="http://stats.cybergreen.net/" target="_blank">Statistics Platform v.2 beta</a>
 </h2>
-We have developed the CyberGreen Statistics platform v.2 this year, featuring metrics-based measurement and visualizations as well as the ability to compare across countries and autonomous systems. You can access the platform by clicking on the title above.
+We have developed the CyberGreen Statistics platform v.2, which features metrics-based measurement and visualizations as well as the ability to compare across countries and autonomous systems. You can access the platform by clicking on the title above.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon11.png"/>
@@ -62,7 +62,7 @@ Using lessons learned from v.1, along with end user expectations, an overview of
 <img style="width:60px" src="{{site.media}}icon15.png"/>
  Training materials
 </h2>
-We've built a library of training materials around the CyberGreen platform. [Contact us](http://www.cybergreen.net/contact/) and we'd be happy to schedule some time to help train you, and your team.
+We've built a library of <a href="http://www.cybergreen.net/mitigation/#capacity-building-materials"> training materials </a> around the CyberGreen platform. [Contact us](http://www.cybergreen.net/contact/) and we'd be happy to schedule some time to help train you, and your team.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon13.png"/>
