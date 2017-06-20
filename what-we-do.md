@@ -4,7 +4,7 @@ title: What We Do
 ---
 
 
-*The CyberGreen Institute* is active on many fronts. We provide a variety of capabilities and services that will help you improve your own cyber health. [Contact us](http://cybergreennet.ipage.com/contact/) to learn more.
+*The CyberGreen Institute* is active on many fronts. We provide a variety of capabilities and services that will help you improve your own cyber health. [Contact us](http://www.cybergreen.net/contact/) to learn more.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon01.png"/>
@@ -44,9 +44,7 @@ CyberGreen will also strive to engage the policy-making and media communities as
 <img style="width:60px" src="{{site.media}}icon17.png"/>
 <a href="http://stats.cybergreen.net/" target="_blank">Statistics Platform v.2 beta</a>
 </h2>
-We are developing the CyberGreen stats platform v.2 this year, and you can access the demo site by clicking on the title above.
-
-The beta version of this platform is primarily intended to be a demo of Version 2 of CyberGreen platform's functionality. As of now, the site does not provide metrics of cyber health. The data and heat map simply illustrate the number (count) of infections and vulnerable devices, and countries are scored then ranked. CyberGreen metrics-based measurement and visualization will be finalized in December 2016.
+We have developed the CyberGreen Statistics platform v.2 this year, featuring metrics-based measurement and visualizations as well as the ability to compare across countries and autonomous systems. You can access the platform by clicking on the title above.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon11.png"/>
@@ -64,7 +62,7 @@ Using lessons learned from v.1, along with end user expectations, an overview of
 <img style="width:60px" src="{{site.media}}icon15.png"/>
  Training materials
 </h2>
-We've built a library of training materials around the CyberGreen platform. <a href="mailto:contact@cybergreen.net?subject=Training%20Materials%20Request"> Contact </a> us and we'd be happy to schedule some time to help train you, and your team.
+We've built a library of training materials around the CyberGreen platform. [Contact us](http://www.cybergreen.net/contact/) and we'd be happy to schedule some time to help train you, and your team.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon13.png"/>
