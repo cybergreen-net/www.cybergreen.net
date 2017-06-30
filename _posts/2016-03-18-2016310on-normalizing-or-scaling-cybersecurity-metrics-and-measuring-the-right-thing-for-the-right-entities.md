@@ -14,7 +14,6 @@ To make this problem concrete, consider the terrific spam-related metrics shared
 As shown in table 1, just three countries -- India, Vietnam and China -- account for roughly 1/3rd of all CBL listings, and a total of just 10% of all countries (20 out of 200) collectively accounted for ~3/4ths of all CBL listings:
 
 
-<table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
 <tr><td>Total</td><td>9,121,043</td><td></td><td></td><td>
@@ -38,7 +37,6 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 <tr><td>EG</td><td>133,232</td><td>1.46</td><td>72.23</td><td>18</td></tr>
 <tr><td>AU</td><td>130,114</td><td>1.43</td><td>73.66</td><td>19</td></tr>
 <tr><td>VE</td><td>118,022</td><td>1.29</td><td>74.95</td><td>20</td></tr>
-</table>
 <br><br>
 
 
