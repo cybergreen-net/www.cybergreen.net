@@ -13,6 +13,7 @@ To make this problem concrete, consider the terrific spam-related metrics shared
 
 As shown in table 1, just three countries -- India, Vietnam and China -- account for roughly 1/3rd of all CBL listings, and a total of just 10% of all countries (20 out of 200) collectively accounted for ~3/4ths of all CBL listings:
 
+
 <table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
@@ -40,7 +41,9 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 </table>
 <br><br>
 
+
 Surely we can all agree that those 20 countries represent the "worst of the worst" when it comes to malware infected systems used to send spam? Surprisingly, no.
+
 
 ## Normalizing By Country Population
 
@@ -52,9 +55,11 @@ Dividing Italy's 0.2981% by India's 0.0945%, we can see that Italy is currently 
 
 Arguably, then, Italy should "obviously" be prioritized ahead of India when it comes to any hypothetical anti-bot "clean up campaign," right? Actually, no. Malware infections per capita represent a measure of infection density. Infection density is important if you're thinking about efficient infection cleanup, but largely irrelevant if your goal is to reduce the impact of the bots on mail servers and their admins.
 
+
 ## Ranking According to Actual Pain Delivered Toward A Target
 
 Mail admins running mail servers under siege from spam really don't care about "infection rates per capita." They care about the spam traffic they're seeing. Fortunately, the CBL has data about that as well. Focusing on spam that's being delivered (vs. botted hosts potentially able to send spam) changes the picture dramatically:
+
 Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days
 
 <style type="text/css">
@@ -95,11 +100,13 @@ Now the problem is clearly not the huge number of botted hosts in India, but the
 
 [We must also remember to take the above numbers with a "grain of salt" since that the statistics in the above table are based on a single CBL spamtrap site, which although they are among the best data currently available, may not be reflective of global spam flows overall]
 
+
 ## Teasing Apart US Spam Traffic Sources
 
 Let's now drill down on spam traffic from US ISPs. Where does the majority of US-origin spam traffic actually come from?
 
 For the purpose of this analysis, ISPs are identified by their Autonomous System Number, or "ASN." Many ISPs use only a single ASN, but some (such as rr.com) are associated with multiple ASNs, often as a result of legacy networks getting acquired as a result of mergers and acquisitions. When multiple ASNs are associated with the same ISP, we've aggregated them for the purposes of this analysis.
+
 
 Table 3. US ASNs, Ranked By Traffic/ASN, Last Three Days, 500K+ spam/ASN
 
@@ -138,6 +145,7 @@ Table 3. US ASNs, Ranked By Traffic/ASN, Last Three Days, 500K+ spam/ASN
 <tr><td>AS174 cogentco.com US</td><td>1,436</td><td>0.02</td><td>566,408</td><td>0.36</td><td>37</td><td>394</td>
 <tr><td>AS5056 netins.net US</td><td>262</td><td>0.00</td><td>514,315</td><td>0.33</td><td>43</td><td>1,963</td>
 <tr><td>AS22773 cox.net US</td><td>2,575</td><td>0.03</td><td>510,427</td><td>0.32</td><td>44</td><td>198</td></tr></table>
+
 
 ## *Unfiltered* Pain
 
