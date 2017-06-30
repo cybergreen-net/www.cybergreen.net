@@ -96,43 +96,34 @@ Let's now drill down on spam traffic from US ISPs. Where does the majority of US
 For the purpose of this analysis, ISPs are identified by their Autonomous System Number, or "ASN." Many ISPs use only a single ASN, but some (such as rr.com) are associated with multiple ASNs, often as a result of legacy networks getting acquired as a result of mergers and acquisitions. When multiple ASNs are associated with the same ISP, we've aggregated them for the purposes of this analysis.
 
 
-Table 3. US ASNs, Ranked By Traffic/ASN, Last Three Days, 500K+ spam/ASN
+<i>Table 3. US ASNs, Ranked By Traffic/ASN, Last Three Days, 500K+ spam/ASN</i>
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
-.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
-.tftable tr {background-color:#d4e3e5;}
-.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;}
-.tftable tr:hover {background-color:#ffffff;}
-</style>
-
-<table>
-<table class="tftable" border="1">
-<tr><th>ASN</th><th>Listings</th><th>% Total</th><th>Traffic</th><th>% Traffic</th><th>Rank</th><th>Spams/Bots</th>
-<tr><td>Total</td><td>9,098,790</td></td><td>100.00</td><td>158,082,638</td><td></td><td></td><td>17.37
-<tr><td>Total rr.com (sum of all rr.com ASNs shown)</td><td>11,944</td><td>0.13</td><td>6,093,048</td><td>3.85</td><td></td><td></td>
-<tr><td>AS20001 rr.com US</td><td>2,427</td><td>0.03</td><td>1,595,433</td><td>1.01</td><td>7</td><td>657</td>
-<tr><td>AS10796 rr.com US</td><td>2,714</td><td>0.03</td><td>1,361,222</td><td>0.86</td><td>10</td><td>501</td>
-<tr><td>AS11427 rr.com US</td><td>2,180</td><td>0.02</td><td>1,068,145</td><td>0.68</td><td>14</td><td>489</td>
-<tr><td>AS11426 rr.com US</td><td>1,808</td><td>0.02</td><td>799,539</td><td>0.51</td><td>26</td><td>442</td>
-<tr><td>AS11351 rr.com US</td><td>1,583</td><td>0.02</td><td>747,733</td><td>0.47</td><td>28</td><td>472</td>
-<tr><td>AS12271 rr.com US</td><td>1,232</td><td>0.01</td><td>520,966</td><td>0.33</td><td>41</td><td>422</td>
-<tr><td>AS20115 charter.net US</td><td>4,998</td><td>0.05</td><td>5,322,681</td><td>3.37</td><td>3</td><td>1,064</td>
-<tr><td>AS46892 Winnebago US</td><td>102</td><td>0.00</td><td>2,609,218</td><td>1.65</td><td>5</td><td>25,580</td>
-<tr><td>AS12083 knology.net US</td><td>945</td><td>0.01</td><td>1,308,289</td><td>0.83</td><td>11</td><td>1,384</td>
-<tr><td>AS11232 midco.net US</td><td>308</td><td>0.00</td><td>1,025,612</td><td>0.65</td><td>15</td><td>3,329</td>
-<tr><td>AS33548 unwiredbb.com US</td><td>91</td><td>0.00</td><td>996,577</td><td>0.63</td><td>16</td><td>10,951</td>
-<tr><td>AS7922 comcast.net US</td><td>19,793</td><td>0.22</td><td>908,030</td><td>0.57</td><td>19</td><td>45</td>
-<tr><td>AS11979 blue.net US</td><td>175</td><td>0.00</td><td>883,478</td><td>0.56</td><td>21</td><td>5,048</td>
-<tr><td>AS30036 fortrex.com US</td><td>790</td><td>0.01</td><td>827,467</td><td>0.52</td><td>22</td><td>1,047</td>
-<tr><td>AS33363 mybrighthouse.com US</td><td>2,123</td><td>0.02</td><td>819,728</td><td>0.52</td><td>23</td><td>386</td>
-<tr><td>AS10835 vcn.com US</td><td>2,123</td><td>0.02</td><td>816,028</td><td>0.52</td><td>25</td><td>9,600</td>
-<tr><td>AS19108 suddenlink.net US</td><td>1,083</td><td>0.01</td><td>711,898</td><td>0.45</td><td>30</td><td>657</td>
-<tr><td>AS46606 Unified Layer, US</td><td>855</td><td>0.01</td><td>656,722</td><td>0.42</td><td>31</td><td>768</td>
-<tr><td>AS33588 bresnan.net US</td><td>309</td><td>0.00</td><td>626,872</td><td>0.40</td><td>32</td><td>2,028</td>
-<tr><td>AS174 cogentco.com US</td><td>1,436</td><td>0.02</td><td>566,408</td><td>0.36</td><td>37</td><td>394</td>
-<tr><td>AS5056 netins.net US</td><td>262</td><td>0.00</td><td>514,315</td><td>0.33</td><td>43</td><td>1,963</td>
-<tr><td>AS22773 cox.net US</td><td>2,575</td><td>0.03</td><td>510,427</td><td>0.32</td><td>44</td><td>198</td></tr></table>
+|ASN|Listings|% Total|Traffic|% Traffic|Rank|Spams/Bots|
+| --- | --- | --- | --- | --- | --- |
+|Total|9,098,790|100.00|158,082,638| --- | --- |17.37|
+|Total rr.com (sum of all rr.com ASNs shown)|11,944|0.13|6,093,048|3.85|||
+|AS20001 rr.com US|2,427|0.03|1,595,433|1.01|7|657|
+|AS10796 rr.com US|2,714|0.03|1,361,222|0.86|10|501|
+|AS11427 rr.com US|2,180|0.02|1,068,145|0.68|14|489|
+|AS11426 rr.com US|1,808|0.02|799,539|0.51|26|442|
+|AS11351 rr.com US|1,583|0.02|747,733|0.47|28|472|
+|AS12271 rr.com US|1,232|0.01|520,966|0.33|41|422|
+|AS20115 charter.net US|4,998|0.05|5,322,681|3.37|3|1,064|
+|AS46892 Winnebago US|102|0.00|2,609,218|1.65|5|25,580|
+|AS12083 knology.net US|945|0.01|1,308,289|0.83|11|1,384|
+|AS11232 midco.net US|308|0.00|1,025,612|0.65|15|3,329|
+|AS33548 unwiredbb.com US|91|0.00|996,577|0.63|16|10,951|
+|AS7922 comcast.net US|19,793|0.22|908,030|0.57|19|45|
+|AS11979 blue.net US|175|0.00|883,478|0.56|21|5,048|
+|AS30036 fortrex.com US|790|0.01|827,467|0.52|22|1,047|
+|AS33363 mybrighthouse.com US|2,123|0.02|819,728|0.52|23|386|
+|AS10835 vcn.com US|2,123|0.02|816,028|0.52|25|9,600|
+|AS19108 suddenlink.net US|1,083|0.01|711,898|0.45|30|657|
+|AS46606 Unified Layer, US|855|0.01|656,722|0.42|31|768|
+|AS33588 bresnan.net US|309|0.00|626,872|0.40|32|2,028|
+|AS174 cogentco.com US|1,436|0.02|566,408|0.36|37|394|
+|AS5056 netins.net US|262|0.00|514,315|0.33|43|1,963|
+|AS22773 cox.net US|2,575|0.03|510,427|0.32|44|198|
 
 
 ## *Unfiltered* Pain
