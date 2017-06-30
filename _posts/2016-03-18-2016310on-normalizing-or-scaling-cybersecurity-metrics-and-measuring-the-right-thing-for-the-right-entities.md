@@ -44,7 +44,8 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 <tr><td>EG</td><td>133,232</td><td>1.46</td><td>72.23</td><td>18</td></tr>
 <tr><td>AU</td><td>130,114</td><td>1.43</td><td>73.66</td><td>19</td></tr>
 <tr><td>VE</td><td>118,022</td><td>1.29</td><td>74.95</td><td>20</td></tr>
-</table class>
+</table>
+<br><br>
 
 Surely we can all agree that those 20 countries represent the "worst of the worst" when it comes to malware infected systems used to send spam? Surprisingly, no.
 
