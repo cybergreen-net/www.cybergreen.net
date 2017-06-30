@@ -63,8 +63,8 @@ Arguably, then, Italy should "obviously" be prioritized ahead of India when it c
 ## Ranking According to Actual Pain Delivered Toward A Target
 
 Mail admins running mail servers under siege from spam really don't care about "infection rates per capita." They care about the spam traffic they're seeing. Fortunately, the CBL has data about that as well. Focusing on spam that's being delivered (vs. botted hosts potentially able to send spam) changes the picture dramatically:
-<br>
-Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days
+<br><br>
+<i>Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days</i>
 <br>
 
 <table class="tftable" border="1">
@@ -89,8 +89,8 @@ Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three D
 <tr><td>CN</td><td>1,170,168</td><td>0.74</td><td>83.41</td><td>17</td><td>3</td><td>1</td>
 <tr><td>AT</td><td>1,034,575</td><td>0.65</td><td>84.07</td><td>18</td><td>38</td><td>25</td>
 <tr><td>RO</td><td>983,530</td><td>0.62</td><td>84.69</td><td>19</td><td>25</td><td>10</td>
-<tr><td>DE</td><td>969,088</td><td>0.61</td><td>85.30</td><td>20</td><td>16</td><td>6</td>
-
+<tr><td>DE</td><td>969,088</td><td>0.61</td><td>85.30</td><td>20</td><td>16</td><td>6</td></tr>
+<br><br>
 
 Now the problem is clearly not the huge number of botted hosts in India, but the huge volumes of spam coming from botted systems in the United States. That is, while there are a relatively small number of botted hosts in the United States, those botted hosts are typically particularly aggressive, sending an average of 231 spam/bot, while by comparison, the botted hosts in India send a measly 4 spam/bot. Treating all botted hosts as if they were essentially equivalent is clearly unwarranted. Some of those infected systems are heavy artillery, while others are mere cap guns.
 
