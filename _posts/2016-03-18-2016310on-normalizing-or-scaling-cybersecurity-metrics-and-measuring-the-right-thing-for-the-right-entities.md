@@ -68,28 +68,29 @@ Mail admins running mail servers under siege from spam really don't care about "
 <br>
 
 <table class="tftable" border="1">
-<tr><th>Country</th><th>Traffic</th><th>% Traffic</th><th>% Cumulative Traffic</th><th>Traffic Rank</th><th>Bot Rank</th><th>Spams/Bots</th>
-<tr><td>Total</td><td>158,082,638</td></td><td>100.00</td><td></td><td></td><td></td><td>
-<tr><td>US</td><td>52,440,285</td><td>33.17</td><td>33.17</td><td>1</td><td>8</td><td>231</td>
-<tr><td>BR</td><td>27,016,447</td><td>17.09</td><td>50.26</td><td>2</td><td>5</td><td>62</td>
-<tr><td>VN</td><td>15,119,324</td><td>9.56</td><td>59.83</td><td>3</td><td>2</td><td>15</td>
-<tr><td>RU</td><td>7,248,463</td><td>4.59</td><td>64.41</td><td>4</td><td>4</td><td>14</td>
-<tr><td>IN</td><td>5,384,253</td><td>3.41</td><td>67.82</td><td>5</td><td>1</td><td>4</td>
-<tr><td>MX</td><td>4,685,557</td><td>2.96</td><td>70.78</td><td>6</td><td>10</td><td>23</td>
-<tr><td>AR</td><td>3,257,637</td><td>2.06</td><td>72.84</td><td>7</td><td>13</td><td>18</td>
-<tr><td>PL</td><td>2,638,323</td><td>1.67</td><td>74.51</td><td>8</td><td>22</td><td>22</td>
-<tr><td>UA</td><td>2,557,023</td><td>1.62</td><td>76.13</td><td>9</td><td>23</td><td>22</td>
-<tr><td>ES</td><td>2,177,246</td><td>1.38</td><td>77.51</td><td>10</td><td>21</td><td>18</td>
-<tr><td>CO</td><td>1,639,560</td><td>1.04</td><td>78.54</td><td>11</td><td>34</td><td>34</td>
-<tr><td>IT</td><td>1,546,022</td><td>0.98</td><td>79.52</td><td>12</td><td>12</td><td>8</td>
-<tr><td>TR</td><td>1,360,135</td><td>0.86</td><td>80.38</td><td>13</td><td>17</td><td>9</td>
-<tr><td>TW</td><td>1,230,689</td><td>0.78</td><td>81.16</td><td>14</td><td>14</td><td>7</td>
-<tr><td>ID</td><td>1,212,763</td><td>0.77</td><td>81.93</td><td>15</td><td>6</td><td>2</td>
-<tr><td>IQ</td><td>1,179,500</td><td>0.75</td><td>82.67</td><td>16</td><td>36</td><td>28</td>
-<tr><td>CN</td><td>1,170,168</td><td>0.74</td><td>83.41</td><td>17</td><td>3</td><td>1</td>
-<tr><td>AT</td><td>1,034,575</td><td>0.65</td><td>84.07</td><td>18</td><td>38</td><td>25</td>
-<tr><td>RO</td><td>983,530</td><td>0.62</td><td>84.69</td><td>19</td><td>25</td><td>10</td>
-<tr><td>DE</td><td>969,088</td><td>0.61</td><td>85.30</td><td>20</td><td>16</td><td>6</tr>
+<tr><th>Country</th><th>Traffic</th><th>% Traffic</th><th>% Cumulative Traffic</th><th>Traffic Rank</th><th>Bot Rank</th><th>Spams/Bots</th></tr>
+<tr><td>Total</td><td>158,082,638</td></td><td>100.00</td><td></td><td></td><td></td><td></tr>
+<tr><td>US</td><td>52,440,285</td><td>33.17</td><td>33.17</td><td>1</td><td>8</td><td>231</td></tr>
+<tr><td>BR</td><td>27,016,447</td><td>17.09</td><td>50.26</td><td>2</td><td>5</td><td>62</td></tr>
+<tr><td>VN</td><td>15,119,324</td><td>9.56</td><td>59.83</td><td>3</td><td>2</td><td>15</td></tr>
+<tr><td>RU</td><td>7,248,463</td><td>4.59</td><td>64.41</td><td>4</td><td>4</td><td>14</td></tr>
+<tr><td>IN</td><td>5,384,253</td><td>3.41</td><td>67.82</td><td>5</td><td>1</td><td>4</td></tr>
+<tr><td>MX</td><td>4,685,557</td><td>2.96</td><td>70.78</td><td>6</td><td>10</td><td>23</td></tr>
+<tr><td>AR</td><td>3,257,637</td><td>2.06</td><td>72.84</td><td>7</td><td>13</td><td>18</td></tr>
+<tr><td>PL</td><td>2,638,323</td><td>1.67</td><td>74.51</td><td>8</td><td>22</td><td>22</td></tr>
+<tr><td>UA</td><td>2,557,023</td><td>1.62</td><td>76.13</td><td>9</td><td>23</td><td>22</td></tr>
+<tr><td>ES</td><td>2,177,246</td><td>1.38</td><td>77.51</td><td>10</td><td>21</td><td>18</td></tr>
+<tr><td>CO</td><td>1,639,560</td><td>1.04</td><td>78.54</td><td>11</td><td>34</td><td>34</td></tr>
+<tr><td>IT</td><td>1,546,022</td><td>0.98</td><td>79.52</td><td>12</td><td>12</td><td>8</td></tr>
+<tr><td>TR</td><td>1,360,135</td><td>0.86</td><td>80.38</td><td>13</td><td>17</td><td>9</td></tr>
+<tr><td>TW</td><td>1,230,689</td><td>0.78</td><td>81.16</td><td>14</td><td>14</td><td>7</td></tr>
+<tr><td>ID</td><td>1,212,763</td><td>0.77</td><td>81.93</td><td>15</td><td>6</td><td>2</td></tr>
+<tr><td>IQ</td><td>1,179,500</td><td>0.75</td><td>82.67</td><td>16</td><td>36</td><td>28</td></tr>
+<tr><td>CN</td><td>1,170,168</td><td>0.74</td><td>83.41</td><td>17</td><td>3</td><td>1</td></tr>
+<tr><td>AT</td><td>1,034,575</td><td>0.65</td><td>84.07</td><td>18</td><td>38</td><td>25</td></tr>
+<tr><td>RO</td><td>983,530</td><td>0.62</td><td>84.69</td><td>19</td><td>25</td><td>10</td></tr>
+<tr><td>DE</td><td>969,088</td><td>0.61</td><td>85.30</td><td>20</td><td>16</td><td>6</td></tr>
+</table>
 <br><br>
 
 Now the problem is clearly not the huge number of botted hosts in India, but the huge volumes of spam coming from botted systems in the United States. That is, while there are a relatively small number of botted hosts in the United States, those botted hosts are typically particularly aggressive, sending an average of 231 spam/bot, while by comparison, the botted hosts in India send a measly 4 spam/bot. Treating all botted hosts as if they were essentially equivalent is clearly unwarranted. Some of those infected systems are heavy artillery, while others are mere cap guns.
