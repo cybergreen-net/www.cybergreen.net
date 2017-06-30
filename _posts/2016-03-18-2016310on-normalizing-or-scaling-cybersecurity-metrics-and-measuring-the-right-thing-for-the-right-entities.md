@@ -13,7 +13,15 @@ To make this problem concrete, consider the terrific spam-related metrics shared
 
 As shown in table 1, just three countries -- India, Vietnam and China -- account for roughly 1/3rd of all CBL listings, and a total of just 10% of all countries (20 out of 200) collectively accounted for ~3/4ths of all CBL listings:
 
-<table>
+<style type="text/css">
+.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
+.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
+.tftable tr {background-color:#d4e3e5;}
+.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;}
+.tftable tr:hover {background-color:#ffffff;}
+</style>
+
+<table class="tftable" border="1">
 <tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
 <tr><td>Total</td><td>9,121,043</td><td></td><td></td><td>
 <tr><td>IN</td><td>1,182,291</td><td>12.96</td><td>12.96</td><td>1</td></tr>
@@ -36,7 +44,7 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 <tr><td>EG</td><td>133,232</td><td>1.46</td><td>72.23</td><td>18</td></tr>
 <tr><td>AU</td><td>130,114</td><td>1.43</td><td>73.66</td><td>19</td></tr>
 <tr><td>VE</td><td>118,022</td><td>1.29</td><td>74.95</td><td>20</td></tr>
-</table>
+
 
 Surely we can all agree that those 20 countries represent the "worst of the worst" when it comes to malware infected systems used to send spam? Surprisingly, no.
 
@@ -55,18 +63,10 @@ Arguably, then, Italy should "obviously" be prioritized ahead of India when it c
 ## Ranking According to Actual Pain Delivered Toward A Target
 
 Mail admins running mail servers under siege from spam really don't care about "infection rates per capita." They care about the spam traffic they're seeing. Fortunately, the CBL has data about that as well. Focusing on spam that's being delivered (vs. botted hosts potentially able to send spam) changes the picture dramatically:
-
+<br>
 Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days
+<br>
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
-.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
-.tftable tr {background-color:#d4e3e5;}
-.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;}
-.tftable tr:hover {background-color:#ffffff;}
-</style>
-
-<table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Traffic</th><th>% Traffic</th><th>% Cumulative Traffic</th><th>Traffic Rank</th><th>Bot Rank</th><th>Spams/Bots</th>
 <tr><td>Total</td><td>158,082,638</td></td><td>100.00</td><td></td><td></td><td></td><td>
@@ -90,7 +90,7 @@ Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three D
 <tr><td>AT</td><td>1,034,575</td><td>0.65</td><td>84.07</td><td>18</td><td>38</td><td>25</td>
 <tr><td>RO</td><td>983,530</td><td>0.62</td><td>84.69</td><td>19</td><td>25</td><td>10</td>
 <tr><td>DE</td><td>969,088</td><td>0.61</td><td>85.30</td><td>20</td><td>16</td><td>6</td>
-</table>
+
 
 Now the problem is clearly not the huge number of botted hosts in India, but the huge volumes of spam coming from botted systems in the United States. That is, while there are a relatively small number of botted hosts in the United States, those botted hosts are typically particularly aggressive, sending an average of 231 spam/bot, while by comparison, the botted hosts in India send a measly 4 spam/bot. Treating all botted hosts as if they were essentially equivalent is clearly unwarranted. Some of those infected systems are heavy artillery, while others are mere cap guns.
 
