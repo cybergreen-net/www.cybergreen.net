@@ -22,6 +22,7 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 .tftable tr:hover {background-color:#ffffff;}
 </style>
 
+<table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
 <tr><td>Total</td><td>9,121,043</td><td></td><td></td><td>
@@ -72,6 +73,7 @@ Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three D
 .tftable tr:hover {background-color:#ffffff;}
 </style>
 
+<table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Traffic</th><th>% Traffic</th><th>% Cumulative Traffic</th><th>Traffic Rank</th><th>Bot Rank</th><th>Spams/Bots</th>
 <tr><td>Total</td><td>158,082,638</td></td><td>100.00</td><td></td><td></td><td></td><td>
@@ -117,6 +119,7 @@ Table 3. US ASNs, Ranked By Traffic/ASN, Last Three Days, 500K+ spam/ASN
 .tftable tr:hover {background-color:#ffffff;}
 </style>
 
+<table>
 <table class="tftable" border="1">
 <tr><th>ASN</th><th>Listings</th><th>% Total</th><th>Traffic</th><th>% Traffic</th><th>Rank</th><th>Spams/Bots</th>
 <tr><td>Total</td><td>9,098,790</td></td><td>100.00</td><td>158,082,638</td><td></td><td></td><td>17.37
@@ -153,6 +156,7 @@ Thus, ironically, if we were to prioritize working on the ISPs that are most bro
 So now you can see the problem. We need to identify the hosts that are successfully delivering spam IN SPITE of block list entries and other anti-spam heuristics.
 
 Documenting the "false negatives" that get through filtering is a hard and largely thankless job, and one that relies on inherently error-prone mechanisms such as users pushing a "this is spam" button, or perhaps the processing of mail streams by multiple categorization engines.
+
 
 Author:   Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.
 Member of CyberGreen's Statistics Experts Group
