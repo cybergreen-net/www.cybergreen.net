@@ -21,6 +21,7 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 .tftable tr:hover {background-color:#ffffff;}
 </style>
 
+<table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
 <tr><td>Total</td><td>9,121,043</td><td></td><td></td><td>
