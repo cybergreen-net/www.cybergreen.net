@@ -67,7 +67,7 @@ Mail admins running mail servers under siege from spam really don't care about "
 <i>Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days</i>
 <br>
 
-<table class="tftable" border="1">
+<table>
 <tr><th>Country</th><th>Traffic</th><th>% Traffic</th><th>% Cumulative Traffic</th><th>Traffic Rank</th><th>Bot Rank</th><th>Spams/Bots</th></tr>
 <tr><td>Total</td><td>158,082,638</td></td><td>100.00</td><td></td><td></td><td></td><td></tr>
 <tr><td>US</td><td>52,440,285</td><td>33.17</td><td>33.17</td><td>1</td><td>8</td><td>231</td></tr>
@@ -91,6 +91,7 @@ Mail admins running mail servers under siege from spam really don't care about "
 <tr><td>RO</td><td>983,530</td><td>0.62</td><td>84.69</td><td>19</td><td>25</td><td>10</td></tr>
 <tr><td>DE</td><td>969,088</td><td>0.61</td><td>85.30</td><td>20</td><td>16</td><td>6</td></tr>
 </table>
+
 <br><br>
 
 Now the problem is clearly not the huge number of botted hosts in India, but the huge volumes of spam coming from botted systems in the United States. That is, while there are a relatively small number of botted hosts in the United States, those botted hosts are typically particularly aggressive, sending an average of 231 spam/bot, while by comparison, the botted hosts in India send a measly 4 spam/bot. Treating all botted hosts as if they were essentially equivalent is clearly unwarranted. Some of those infected systems are heavy artillery, while others are mere cap guns.
