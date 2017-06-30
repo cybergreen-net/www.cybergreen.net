@@ -3,16 +3,16 @@ layout: post
 title:  On "Normalizing" or "Scaling" Cybersecurity Metrics and  Measuring The Right Thing For The Right Entities
 date:   2016-03-29
 ---
-1. Introduction
+## Introduction
 
 One challenge of cyber security is deciding where to prioritize one's limited cyber security resources. Who's doing "okay?" Who desperately needs help? Who should we just quarantine until they can get their chaotic users under control? At a minimum, can we at least rank countries according to who's worst/best? We need to have some basis for prioritizing our limited time and resources.
 
-2. Focusing On Botted Hosts Sending Spam
+## Focusing On Botted Hosts Sending Spam
 
-To make this problem concrete, consider the terrific spam-related metrics shared by the Spamhaus Composite Blocking List (CBL).[1] On Wednesday, March 9th, 2016, the CBL knew about 9,121,043 IP addresses associated with spam-sending botted hosts. That's a LOT of malware-infected systems!
+To make this problem concrete, consider the terrific spam-related metrics shared by the Spamhaus Composite Blocking List (CBL).[^1] On Wednesday, March 9th, 2016, the CBL knew about 9,121,043 IP addresses associated with spam-sending botted hosts. That's a LOT of malware-infected systems!
 
 As shown in table 1, just three countries -- India, Vietnam and China -- account for roughly 1/3rd of all CBL listings, and a total of just 10% of all countries (20 out of 200) collectively accounted for ~3/4ths of all CBL listings:
-[1] http://www.abuseat.org/
+[^1]: http://www.abuseat.org/
 
 <style type="text/css">
 .tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
@@ -49,7 +49,7 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 
 Surely we can all agree that those 20 countries represent the "worst of the worst" when it comes to malware infected systems used to send spam? Surprisingly, no.
 
-3. Normalizing By Country Population
+## Normalizing By Country Population
 
 Representatives of some of those "top" countries, perhaps feeling a bit self-defensive, may be quick to point out that they've got huge populations, so it really isn't "fair" to just compare "raw counts" between countries. E.g., India has 1,182,291 CBL listings, but spread over a population of over 1.25 billion Indians, that's a rate of just (1,182,291 / 1,250,000,000) * 100 = 0.0945%
 
@@ -59,7 +59,7 @@ Dividing Italy's 0.2981% by India's 0.0945%, we can see that Italy is currently 
 
 Arguably, then, Italy should "obviously" be prioritized ahead of India when it comes to any hypothetical anti-bot "clean up campaign," right? Actually, no. Malware infections per capita represent a measure of infection density. Infection density is important if you're thinking about efficient infection cleanup, but largely irrelevant if your goal is to reduce the impact of the bots on mail servers and their admins.
 
-4. Ranking According to Actual Pain Delivered Toward A Target
+## Ranking According to Actual Pain Delivered Toward A Target
 
 Mail admins running mail servers under siege from spam really don't care about "infection rates per capita." They care about the spam traffic they're seeing. Fortunately, the CBL has data about that as well. Focusing on spam that's being delivered (vs. botted hosts potentially able to send spam) changes the picture dramatically:
 Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days
@@ -101,7 +101,7 @@ Now the problem is clearly not the huge number of botted hosts in India, but the
 
 [We must also remember to take the above numbers with a "grain of salt" since that the statistics in the above table are based on a single CBL spamtrap site, which although they are among the best data currently available, may not be reflective of global spam flows overall]
 
-5. Teasing Apart US Spam Traffic Sources
+## Teasing Apart US Spam Traffic Sources
 
 Let's now drill down on spam traffic from US ISPs. Where does the majority of US-origin spam traffic actually come from?
 
@@ -142,9 +142,9 @@ Table 3. US ASNs, Ranked By Traffic/ASN, Last Three Days, 500K+ spam/ASN
 <tr><td>AS33588 bresnan.net US</td><td>309</td><td>0.00</td><td>626,872</td><td>0.40</td><td>32</td><td>2,028</td>
 <tr><td>AS174 cogentco.com US</td><td>1,436</td><td>0.02</td><td>566,408</td><td>0.36</td><td>37</td><td>394</td>
 <tr><td>AS5056 netins.net US</td><td>262</td><td>0.00</td><td>514,315</td><td>0.33</td><td>43</td><td>1,963</td>
-<tr><td>AS22773 cox.net US</td><td>2,575</td><td>0.03</td><td>510,427</td><td>0.32</td><td>44</td><td>198</td></tr></td></table>
+<tr><td>AS22773 cox.net US</td><td>2,575</td><td>0.03</td><td>510,427</td><td>0.32</td><td>44</td><td>198</td></tr></table>
 
-6. *Unfiltered* Pain
+## *Unfiltered* Pain
 
 There is one other reality that we must remember: the spam that the CBL sees all gets blocked (at least if you're using the CBL as part of your spam filtering, as many sites do).
 
