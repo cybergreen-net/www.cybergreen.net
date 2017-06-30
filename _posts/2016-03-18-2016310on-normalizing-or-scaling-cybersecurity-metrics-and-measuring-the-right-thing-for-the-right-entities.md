@@ -137,8 +137,7 @@ So now you can see the problem. We need to identify the hosts that are successfu
 Documenting the "false negatives" that get through filtering is a hard and largely thankless job, and one that relies on inherently error-prone mechanisms such as users pushing a "this is spam" button, or perhaps the processing of mail streams by multiple categorization engines.
 
 
-Author:   Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.
-Member of CyberGreen's Statistics Experts Group
+<i>Author:   Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc., Member of CyberGreen's Statistics Experts Group</i>
 
 
-<sup>1</sup> http://www.abuseat.org/
+<sup>1</sup> <a href="http://www.abuseat.org/"> http://www.abuseat.org/ </a>
