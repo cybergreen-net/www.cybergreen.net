@@ -101,7 +101,7 @@ For the purpose of this analysis, ISPs are identified by their Autonomous System
 |ASN|Listings|% Total|Traffic|% Traffic|Rank|Spams/Bots|
 | --- | --- | --- | --- | --- | --- |
 |Total|9,098,790|100.00|158,082,638| --- | --- |17.37|
-|Total rr.com (sum of all rr.com ASNs shown)|11,944|0.13|6,093,048|3.85|||
+|Total rr.com (sum of all rr.com ASNs shown)|11,944|0.13|6,093,048|3.85| --- || --- |
 |AS20001 rr.com US|2,427|0.03|1,595,433|1.01|7|657|
 |AS10796 rr.com US|2,714|0.03|1,361,222|0.86|10|501|
 |AS11427 rr.com US|2,180|0.02|1,068,145|0.68|14|489|
