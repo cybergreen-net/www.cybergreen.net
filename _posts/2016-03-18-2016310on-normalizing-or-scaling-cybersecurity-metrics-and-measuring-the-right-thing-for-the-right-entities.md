@@ -67,7 +67,7 @@ Mail admins running mail servers under siege from spam really don't care about "
 <i>Table 2. Spam Sent To One CBL Spamtrap, By Top 20 Origin Countries, Past Three Days</i>
 <br>
 
-<table>
+<table class="tftable" border="1">
 <tr><th>Country</th><th>Traffic</th><th>% Traffic</th><th>% Cumulative Traffic</th><th>Traffic Rank</th><th>Bot Rank</th><th>Spams/Bots</th></tr>
 <tr><td>Total</td><td>158,082,638</td></td><td>100.00</td><td></td><td></td><td></td><td></tr>
 <tr><td>US</td><td>52,440,285</td><td>33.17</td><td>33.17</td><td>1</td><td>8</td><td>231</td></tr>
