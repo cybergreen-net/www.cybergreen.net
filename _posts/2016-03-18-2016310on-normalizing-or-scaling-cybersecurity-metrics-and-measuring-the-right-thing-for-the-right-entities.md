@@ -13,37 +13,30 @@ To make this problem concrete, consider the terrific spam-related metrics shared
 
 As shown in table 1, just three countries -- India, Vietnam and China -- account for roughly 1/3rd of all CBL listings, and a total of just 10% of all countries (20 out of 200) collectively accounted for ~3/4ths of all CBL listings:
 
-<style type="text/css">
-.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
-.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
-.tftable tr {background-color:#d4e3e5;}
-.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;}
-.tftable tr:hover {background-color:#ffffff;}
-</style>
 
-<table class="tftable" border="1">
-<tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
-<tr><td>Total</td><td>9,121,043</td><td></td><td></td><td>
-<tr><td>IN</td><td>1,182,291</td><td>12.96</td><td>12.96</td><td>1</td></tr>
-<tr><td>VN</td><td>998,743</td><td>10.95</td><td>23.91</td><td>2</td></tr>
-<tr><td>CN</td><td>766,659</td><td>8.41</td><td>32.32</td><td>3</td></tr>
-<tr><td>RU</td><td>511,132</td><td>5.60</td><td>37.92</td><td>4</td></tr>
-<tr><td>BR</td><td>437,531</td><td>4.80</td><td>42.72</td><td>5</td></tr>
-<tr><td>ID</td><td>424,372</td><td>4.65</td><td>47.37</td><td>6</td></tr>
-<tr><td>IR</td><td>347,215</td><td>3.81</td><td>51.18</td><td>7</td></tr>
-<tr><td>US</td><td>227,315</td><td>2.49</td><td>53.67</td><td>8</td></tr>
-<tr><td>TH</td><td>218,422</td><td>2.39</td><td>56.06</td><td>9</td></tr>  
-<tr><td>MX</td><td>201,497</td><td>2.21</td><td>58.27</td><td>10</td></tr>
-<tr><td>PK</td><td>189,572</td><td>2.08</td><td>60.35</td><td>11</td></tr>
-<tr><td>IT</td><td>178,898</td><td>1.96</td><td>62.31</td><td>12</td></tr>
-<tr><td>AR</td><td>173,898</td><td>1.96</td><td>62.31</td><td>13</td></tr>
-<tr><td>TW</td><td>163,190</td><td>1.79</td><td>66</td><td>14</td></tr>
-<tr><td>JP</td><td>150,565</td><td>1.65</td><td>67.65</td><td>15</td></tr>
-<tr><td>DE</td><td>147,173</td><td>1.61</td><td>69.27</td><td>16</td></tr>
-<tr><td>TR</td><td>137,183</td><td>1.50</td><td>70.77</td><td>17</td></tr>
-<tr><td>EG</td><td>133,232</td><td>1.46</td><td>72.23</td><td>18</td></tr>
-<tr><td>AU</td><td>130,114</td><td>1.43</td><td>73.66</td><td>19</td></tr>
-<tr><td>VE</td><td>118,022</td><td>1.29</td><td>74.95</td><td>20</td></tr>
+|Country| Listings| % Total Listings| % Cumulative Total Listings| Rank|
+| --- | --- | --- | --- | --- | 
+|Total| 9,121,043| --- | --- | --- |
+|IN| 1,182,291| 12.96| 12.96| 1 |
+|VN| 998,743| 10.95| 23.91| 2 |
+|CN| 766,659| 8.41| 32.32| 3 |
+|RU| 511,132| 5.60| 37.92| 4 |
+|BR| 437,531| 4.80| 42.72| 5 |
+|ID| 424,372| 4.65| 47.37| 6 |
+|IR| 347,215| 3.81| 51.18| 7 |
+|US| 227,315| 2.49| 53.67| 8 |
+|TH| 218,422| 2.39| 56.06| 9 |  
+|MX| 201,497| 2.21| 58.27| 10 |
+|PK| 189,572| 2.08| 60.35| 11 |
+|IT| 178,898| 1.96| 62.31| 12 |
+|AR| 173,898| 1.96| 62.31| 13 |
+|TW| 163,190| 1.79| 66| 14 |
+|JP| 150,565| 1.65| 67.65| 15 |
+|DE| 147,173| 1.61| 69.27| 16 |
+|TR| 137,183| 1.50| 70.77| 17 |
+|EG| 133,232| 1.46| 72.23| 18 |
+|AU| 130,114| 1.43| 73.66| 19 |
+|VE| 118,022| 1.29| 74.95| 20 |
 
 
 Surely we can all agree that those 20 countries represent the "worst of the worst" when it comes to malware infected systems used to send spam? Surprisingly, no.
