@@ -9,10 +9,9 @@ One challenge of cyber security is deciding where to prioritize one's limited cy
 
 ## Focusing On Botted Hosts Sending Spam
 
-To make this problem concrete, consider the terrific spam-related metrics shared by the Spamhaus Composite Blocking List (CBL).[^1] On Wednesday, March 9th, 2016, the CBL knew about 9,121,043 IP addresses associated with spam-sending botted hosts. That's a LOT of malware-infected systems!
+To make this problem concrete, consider the terrific spam-related metrics shared by the Spamhaus Composite Blocking List (CBL).<sup>1</sup> On Wednesday, March 9th, 2016, the CBL knew about 9,121,043 IP addresses associated with spam-sending botted hosts. That's a LOT of malware-infected systems!
 
 As shown in table 1, just three countries -- India, Vietnam and China -- account for roughly 1/3rd of all CBL listings, and a total of just 10% of all countries (20 out of 200) collectively accounted for ~3/4ths of all CBL listings:
-[^1]: http://www.abuseat.org/
 
 <style type="text/css">
 .tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
@@ -22,7 +21,6 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 .tftable tr:hover {background-color:#ffffff;}
 </style>
 
-<table>
 <table class="tftable" border="1">
 <tr><th>Country</th><th>Listings</th><th>% Total Listings</th><th>% Cumulative Total Listings</th><th>Rank</th></tr>
 <tr><td>Total</td><td>9,121,043</td><td></td><td></td><td>
@@ -46,7 +44,6 @@ As shown in table 1, just three countries -- India, Vietnam and China -- account
 <tr><td>EG</td><td>133,232</td><td>1.46</td><td>72.23</td><td>18</td></tr>
 <tr><td>AU</td><td>130,114</td><td>1.43</td><td>73.66</td><td>19</td></tr>
 <tr><td>VE</td><td>118,022</td><td>1.29</td><td>74.95</td><td>20</td></tr>
-</table>
 
 Surely we can all agree that those 20 countries represent the "worst of the worst" when it comes to malware infected systems used to send spam? Surprisingly, no.
 
@@ -160,3 +157,6 @@ Documenting the "false negatives" that get through filtering is a hard and large
 
 Author:   Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.
 Member of CyberGreen's Statistics Experts Group
+
+
+<sup>1</sup> http://www.abuseat.org/
