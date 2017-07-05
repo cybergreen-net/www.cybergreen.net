@@ -9,7 +9,7 @@ Taking even just one small step each day can make a big difference to your overa
 
 Check your operating system, office software, browser, browser plugins and everything else, and apply patch anything that's not up-to-date.
 
-Secunia PSI is a terrific tool for finding out-of-date software on Windows PCs. It's available as a free download for home use from (http://www.flexerasoftware.com/enterprise/products/) [http://www.flexerasoftware.com/enterprise/products/]
+Secunia PSI is a terrific tool for finding out-of-date software on Windows PCs. It's available as a free download for home use from <http://www.flexerasoftware.com/enterprise/products/>.
 
 **2\.  Install a password manager and start using it**
 
