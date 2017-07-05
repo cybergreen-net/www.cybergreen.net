@@ -40,6 +40,6 @@ So I propose a small daily challenge. For a month, every morning think of one po
 **Author:  ** Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.  
 Member of CyberGreen's Statistics Experts Group
 
-<sup>1</sup> https://www.youtube.com/watch?v=j-zczJXSxnw
+<sup>1</sup> <https://www.youtube.com/watch?v=j-zczJXSxnw>
 
-<sup>2</sup> https://www.youtube.com/watch?v=4IP9h40z0sk
+<sup>2</sup> <https://www.youtube.com/watch?v=4IP9h40z0sk>
