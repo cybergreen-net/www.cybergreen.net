@@ -4,7 +4,7 @@ title:  v.1 Metrics Working Group
 date:   2015-06-01
 ---
 
-Below is a list of experts in CyberGreen's metrics working group for v.1 of our statistics portal: <br>br>
+Below is a list of experts in CyberGreen's metrics working group for v.1 of our statistics portal: <br><br>
     <b>Prof. Manel Medina</b><br>
     <i>Full Professor and Director of MsC Cybersecurity at the Politecnic University of Catalunya (UPC)</i><br><br>
     <b>Aaron Kaplan</b><br>
