@@ -31,7 +31,7 @@ Today's cyber security culture largely discounts or ignores the Internet's overw
 
 **We Need to Focus on Replicating Success**
 
-While it can be educational to see how systems fail (has any engineering student ever graduated without seeing the Tacoma Narrows Bridge collapse?[<span style="font-size:11.0pt">[1]</span>](#_ftn1)), in order to make sustained progress we actually need to study our successes, not just focus on our failures. We need to codify practices that will allow us to confidently strive forward, not just look creep forward while looking nervously over our shoulder. We need to "accentuate the positive"[<span style="font-size:11.0pt">[2]</span>](#_ftn2) and "franchise" recipes that empirically work.
+While it can be educational to see how systems fail (has any engineering student ever graduated without seeing the Tacoma Narrows Bridge collapse?<sup>1</sup>, in order to make sustained progress we actually need to study our successes, not just focus on our failures. We need to codify practices that will allow us to confidently strive forward, not just look creep forward while looking nervously over our shoulder. We need to "accentuate the positive"<sup>2</sup> and "franchise" recipes that empirically work.
 
 This is part of the mission of CyberGreen: we need to recognize and publicize cyber successes, and understand why those successes happened, rather than perpetually focusing just on how things went wrong. When we understand the path to success, we can help others to travel along that same path. We can go from being a culture focused on failure to a culture that recognizes, celebrates and shares success.
 
@@ -40,6 +40,6 @@ So I propose a small daily challenge. For a month, every morning think of one po
 **Author:  ** Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.  
 Member of CyberGreen's Statistics Experts Group
 
-[<span style="font-size:11.0pt">[1]</span>](#_ftnref1) https://www.youtube.com/watch?v=j-zczJXSxnw
+<sup>1</sup> https://www.youtube.com/watch?v=j-zczJXSxnw
 
-[<span style="font-size:11.0pt">[2]</span>](#_ftnref2) https://www.youtube.com/watch?v=4IP9h40z0sk
+<sup>2</sup> https://www.youtube.com/watch?v=4IP9h40z0sk
