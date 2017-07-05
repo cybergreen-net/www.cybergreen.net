@@ -68,7 +68,7 @@ Some people just can't resist trying to read what's on other people's screens. I
 
 **13\.  What's Your Plan for Hardware Problems?**
 
-Even the best of devices can develop hardware problems due to simple part failures, or accidents. What's your plan for addressing them? Mac users may want to invest in Apple Care, and other laptop users may want to check out manufacturer extended warranty options or third party warranties from companies such as Square Trade (see <http://www.squaretrade.com/laptop-warranty>.
+Even the best of devices can develop hardware problems due to simple part failures, or accidents. What's your plan for addressing them? Mac users may want to invest in Apple Care, and other laptop users may want to check out manufacturer extended warranty options or third party warranties from companies such as Square Trade (see <http://www.squaretrade.com/laptop-warranty>).
 
 **14\.  Carry Your Gear Wisely**
 
