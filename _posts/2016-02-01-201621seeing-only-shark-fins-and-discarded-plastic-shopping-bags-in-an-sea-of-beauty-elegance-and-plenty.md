@@ -37,7 +37,7 @@ This is part of the mission of CyberGreen: we need to recognize and publicize cy
 
 So I propose a small daily challenge. For a month, every morning think of one positive step you can take to be more secure online that day. Just to get you started, as an example, make sure your systems are all fully patched up to date. What will your morning affirmation be tomorrow? And having come up with one, will you share it with least a handful of your friends and family members?
 
-**Author:  ** Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.  
+**Author:** Joe St Sauver, Ph.D., Scientist, Farsight Security, Inc.  
 Member of CyberGreen's Statistics Experts Group
 
 <sup>1</sup> <https://www.youtube.com/watch?v=j-zczJXSxnw>
