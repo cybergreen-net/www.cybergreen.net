@@ -3,12 +3,8 @@ layout: post
 title: Bridging the World, Go CyberGreen
 date: 2015-09-30
 ---
-<img src="http://static1.squarespace.com/static/54caa8ffe4b0184795b6296b/54caa950e4b08a22d92ea5f3/560ac9cee4b0f92262d03699/1443547641545//img.png" alt=""/>
-
 
 <p>Last week, I had the pleasure to attend and speak at the APCERT and OIC-CERT joint annual conference in Kuala Lumpur, Malaysia.</p><p>The conference theme was "Bridging the World - Go CyberGreen". My boss, Yurie Ito and I were privileged to kick off the week by speaking about the CyberGreen project.</p><p>Our presentation included the concept of CyberGreen, including how it aligns with the APCERT business plan, how the project came about, the security metrics that we have developed and some ideas to stir discussions on what metrics other CSIRTs and other security organizations would like to see.</p>
-
-      <img src="http://static1.squarespace.com/static/54caa8ffe4b0184795b6296b/54caa950e4b08a22d92ea5f3/560c0a0be4b068e2d38a4954/1443629593637//img.jpg" alt=""/>
 
 
 <p id="yui_3_17_2_1_1443565865009_112627">After the presentation, we fielded questions and comments about the metrics, how to leverage the data and had some discussions with some CSIRTs on how they would like to contribute data to our cause. The latter was especially a good outcome as the regions that volunteered to provide data were mainly in regions for which we do not have much data for at this time.</p><p>It was exciting to field these questions and comments as it showed us that there is a tremendous interest in this project. Throughout the week, I had the pleasure of being able to speak with various people throughout the region about ideas on metrics and how they would like to be involved in the project going forward.</p><p>Lastly, the APCERT steering committee agreed to start up a CyberGreen working group which will also include OIC-CERT members as part of the discussions. This working group will aim to discuss metrics, best practices for clean up, etc.</p><p>Looking forward to providing more updates in the future!</p><p><strong>Author: &nbsp;</strong>Takayuki (Taki) Uchiyama<br><strong>Contact: &nbsp;</strong>takayuki.uchiyama@jpcert.or.jp</p><p><a target="_blank" data-cke-saved-href="/s/APCERT_CONF_2015.pdf" href="/s/APCERT_CONF_2015.pdf"><!--{cke_protected}{C}%3C!%2D%2DEndFragment%2D%2D%3E--></a></p>
