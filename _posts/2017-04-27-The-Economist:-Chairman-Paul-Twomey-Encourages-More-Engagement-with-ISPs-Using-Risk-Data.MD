@@ -3,6 +3,7 @@ layout: post
 title:  The Economist: Chairman Paul Twomey Encourages More Engagement with ISPs Using Risk Data
 date:   2017-04-27
 image: the-economist-logo.png
+publish: false
 ---
 
 CyberGreen's Chairman, Paul Twomey, was published by the Economist for his thoughts on network pollution and how ISPs and regulators should use risk data to mitigate:
