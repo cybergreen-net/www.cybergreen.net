@@ -12,9 +12,9 @@ Although the market and the technical community have addressed many challenges i
 
 Our data show that the potential attack capacity of the existing polluted network devices is five times larger than the biggest DDoS attacks to date. The failure to address this negative externality places governments, enterprises, financial institutions and consumers at greater risk. Regulators should utilise network risk data to engage ISPs to adopt better device deployment processes and operational decisions and encourage the adoption by network operators of the Mutually Agreed Norms for Routing Security.
 
-PAUL TWOMEY
-Chairman
-CyberGreen Institute
+PAUL TWOMEY<br>
+Chairman<br>
+CyberGreen Institute<br>
 New York
 
 Source: <https://www.economist.com/news/letters/21721352-british-diplomacy-brazil-cyber-crime-india-parking-letters-editor>
