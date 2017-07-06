@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Economist: Chairman Paul Twomey Encourages More Engagement with ISPs Using Risk Data
+title: The Economist: Chairman Paul Twomey Encourages More Engagement with ISPs Using Risk Data
 date:   2017-04-27
 image: the-economist-logo.png
 publish: false
