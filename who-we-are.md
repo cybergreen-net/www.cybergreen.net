@@ -159,9 +159,9 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 
 CyberGreen appreciates the support and friendship of other organizations towards achieving the goal of creating a healthier Cyber Ecosystem
 
-<img style="width:210px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}africacert-logo.jpg" alt="Africa CERT" />
-<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}APNIC-logo.png" alt="APNIC" />
-<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Farsight-Logo.jpg" alt="Farsight Security" />
-<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}GCA-logo.png" alt="Global Cyber Alliance" />
-<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}GFCE-logo.png" alt="Global Forum on Cyber Expertise" />
-<img style="width:220px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}RCC-logo.jpg" alt="Arab Regional Cybersecurity Center" />
+<a href="https://www.africacert.org> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}africacert-logo.jpg" alt="AfricaCERT" /> </a>
+<img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}APNIC-logo.png" alt="APNIC" />
+<img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Farsight-Logo.jpg" alt="Farsight Security" />
+<img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}GCA-logo.png" alt="Global Cyber Alliance" />
+<img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}GFCE-logo.png" alt="Global Forum on Cyber Expertise" />
+<img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}RCC-logo.jpg" alt="Arab Regional Cybersecurity Center" />
