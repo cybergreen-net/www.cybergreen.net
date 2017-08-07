@@ -159,9 +159,9 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 
 CyberGreen appreciates the support and friendship of other organizations towards achieving the goal of creating a healthier Cyber Ecosystem
 
-<a href="https://www.africacert.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 25px" src="{{site.media}}africacert-logo.jpg" alt="AfricaCERT" /> </a>
+<a href="https://www.africacert.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}africacert-logo.jpg" alt="AfricaCERT" /> </a>
 <a href="https://www.apnic.net"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}APNIC-logo.png" alt="APNIC" /> </a>
 <a href="https://www.farsightsecurity.com"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}Farsight-Logo.jpg" alt="Farsight Security" /> </a>
-<a href="https://www.globalcyberalliance.org/"> <img style="width:150px; margin-right:20px; margin-top: 15px; margin-bottom: 35px" src="{{site.media}}GCA-logo.png" alt="Global Cyber Alliance" /> </a>
+<a href="https://www.globalcyberalliance.org/"> <img style="width:150px; margin-right:20px; margin-top: 10px; margin-bottom: 35px" src="{{site.media}}GCA-logo.png" alt="Global Cyber Alliance" /> </a>
 <a href="https://www.thegfce.com/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}GFCE-logo.png" alt="Global Forum on Cyber Expertise" /> </a>
 <a href="http://www.arcc.om/index.php/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}RCC-logo.jpg" alt="Arab Regional Cybersecurity Center" /> </a>
