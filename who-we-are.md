@@ -155,7 +155,7 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
 
 <img class="alignnone wp-image-210 aligncenter" src="{{site.media}}csa-logo.jpg" alt="CSA-logo" width="150px"/>
 
-## Friends
+## Supporters
 
 CyberGreen appreciates the support and friendship of other organizations towards achieving the goal of creating a healthier Cyber Ecosystem
 
