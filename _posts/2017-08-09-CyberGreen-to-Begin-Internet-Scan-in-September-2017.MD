@@ -3,6 +3,7 @@ layout: post
 title:  CyberGreen to Begin Internet Scan in September 2017
 date:   2017-08-09
 image: scan.jpg
+publish: FALSE
 ---
 
 After conducting a data validation analysis, CyberGreen has announced that, by September 2017, it will officially begin Internet scanning for 4 risk indicators (opendns, openntp, openssdp, opensnmp). The full data validation report can be downloaded <a target="blank" href="https://www.cybergreen.net/img/medialibrary/CyberGreen Data Validation Report.pdf"> here.</a> The executive summary is below.
