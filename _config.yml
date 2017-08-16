@@ -1,0 +1,51 @@
+# Site settings
+title: CyberGreen
+short_title: CyberGreen
+description: |
+    CyberGreen
+baseurl: "/cybergreen-web"
+url: "http://jarrod-omalley.github.io/cybergreen-web" # the base hostname & protocol for your site
+github_username:  cybergreen-net
+github_repo:  inventory.cybergreen.net
+paypal:
+media: /img/medialibrary/
+
+googleanalytics: UA-80341493-1
+
+markdown: kramdown
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+permalink: pretty
+
+supporters:
+  -
+    name: UK-FCO-Logo2.png
+    footer_logo: /img/medialibrary/UK-FCO-Logo2.png
+    url: https://www.gov.uk/government/organisations/foreign-commonwealth-office
+  -
+    name: jpcertcc_logo2.png
+    footer_logo: /img/medialibrary/jpcertcc_logo2.png
+    url: https://www.jpcert.or.jp/english/
+  -
+    name: csa-logo.jpg
+    footer_logo: /img/medialibrary/csa-logo.jpg
+    url: https://www.csa.gov.sg
+
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: page
+      section: pages
+  -
+    scope:
+      path: "posts"
+    values:
+      layout: post
+      section: posts

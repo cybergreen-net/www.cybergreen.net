@@ -1,0 +1,186 @@
+{
+  "name": "data-inventory",
+  "title": "Data inventory",
+  "version": "0.1.0",
+  "resources": [
+    {
+      "name": "sources",
+      "title": "Sources",
+      "schema": {
+        "fields": [
+          {
+            "name": "Title",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Cybergreen",
+            "type": "boolean",
+            "title": "",
+            "description": "Is it included in the Cybergreen Stats Platform"
+          },
+          {
+            "name": "Owner",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Homepage",
+            "type": "string",
+            "title": "Project Homepage",
+            "description": ""
+          },
+          {
+            "name": "Taxonomy",
+            "type": "string",
+            "title": "",
+            "description": "Risk categorisation used by the IT industry with 11 official categories. See [ENISA for details](http://enisa.europa.eu/topics/csirt-cert-services/community-projects/existing-taxonomies)"
+          },
+          {
+            "name": "Risk types",
+            "type": "string",
+            "title": "",
+            "description": "e.g. OpenNTP, Spam ..."
+          },
+          {
+            "name": "Size",
+            "type": "string",
+            "title": "Data Size",
+            "description": ""
+          },
+          {
+            "name": "Coverage (Geo)",
+            "type": "string",
+            "title": "Geographic Coverage",
+            "description": ""
+          },
+          {
+            "name": "Start",
+            "type": "string",
+            "title": "Start Date",
+            "description": ""
+          },
+          {
+            "name": "End",
+            "type": "string",
+            "title": "End Date",
+            "description": ""
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Level of information",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Tools for fetching the data",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Authentication needed?",
+            "type": "string",
+            "title": "",
+            "description": "Do you have to register or have a contract to get access?"
+          },
+          {
+            "name": "Owner type",
+            "type": "string",
+            "title": "",
+            "description": "Commercial / Academic / Non-profit / Geek"
+          },
+          {
+            "name": "AggregateOrRaw",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Format",
+            "type": "string",
+            "title": "Data Format",
+            "description": ""
+          },
+          {
+            "name": "Public",
+            "type": "string",
+            "title": "Publicly Available",
+            "description": "Is the data publicly available for download?"
+          },
+          {
+            "name": "OpenOrClosed",
+            "type": "string",
+            "title": "Open or Closed",
+            "description": "Is the data open (or not) as defined in http://opendefinition.org/?"
+          },
+          {
+            "name": "UrlOrIP",
+            "type": "string",
+            "title": "URL or IP",
+            "description": "Is data about URLs or IPs?"
+          },
+          {
+            "name": "Available to CERTs?",
+            "type": "string",
+            "title": "",
+            "description": "Is the data available to CERTs and on what basis?"
+          },
+          {
+            "name": "Relevance",
+            "type": "string",
+            "title": "",
+            "description": "Level of relevance for CERTs"
+          },
+          {
+            "name": "Timeliness",
+            "type": "string",
+            "title": "",
+            "description": "Is the data available on a frequent and timely basis"
+          },
+          {
+            "name": "Accuracy",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Completeness",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Ingestibility",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Detection method",
+            "type": "string",
+            "title": "",
+            "description": ""
+          },
+          {
+            "name": "Vantage Point",
+            "type": "string",
+            "title": "",
+            "description": ""
+          }
+        ]
+      },
+      "format": "CSV",
+      "mediatype": "text/csv",
+      "bytes": 0
+    }
+  ]
+}
