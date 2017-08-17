@@ -15,7 +15,7 @@ If you require further help to remove your IP Address from Cyber Green Scanning 
 <div>
 <h4>Email</h4>
 <input id="email" type="email" name="email" value="" /><br>
-<h4>CIDR Range</h4>
+<h4>IP Address (CIDR)</h4>
 <input id="cidr"  type="text" name="cidr" value="" /><br><br>
 <button>Opt Out of Scanning</button><br><br>
 <div id = 'response'></div>
