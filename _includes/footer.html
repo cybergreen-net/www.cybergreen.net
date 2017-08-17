@@ -2,13 +2,13 @@
 
   <div>
     <div class="primary">
-      <a href="https://cybergreen.net" rel="external"><img src="{{ "/img/medialibrary/CG_Logo_Colorchange_GreyandGreen.png" | prepend: site.baseurl }}" width="145 alt="Cybergree"></a>
+      <a href="https://cybergreen.net" rel="external"><img src="{{ site.media }}CG_Logo_Colorchange_GreyandGreen.png" width="145 alt="Cybergreen"></a>
       {% if site.supporters %}
       <div class="supporters">
         <h6>Supported by</h6>
         {% for supporter in site.supporters %}
           {% if supporter.footer_logo %}
-          <a{% if supporter.url %} href="{{ supporter.url }}" rel="external"{% endif %}><img style="size:250px;" src="{{ supporter.footer_logo }}" alt="{{ supporter.name }}"></a>
+          <a{% if supporter.url %} href="{{ supporter.url }}" rel="external"{% endif %}><img style="size:250px;" src="{{ site.media }}{{ supporter.footer_logo }}" alt="{{ supporter.name }}"></a>
           {% endif %}
         {% endfor %}
       </div>
