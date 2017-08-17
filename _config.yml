@@ -8,7 +8,7 @@ url: "http://jarrod-omalley.github.io/cybergreen-web" # the base hostname & prot
 github_username:  jarrod-omalley
 github_repo:  cybergreen-web
 paypal:
-media: img/medialibrary/
+media: /img/medialibrary/
 
 googleanalytics: UA-80341493-1
 
