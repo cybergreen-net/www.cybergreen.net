@@ -8,7 +8,7 @@ url: "http://jarrod-omalley.github.io/cybergreen-web" # the base hostname & prot
 github_username:  jarrod-omalley
 github_repo:  cybergreen-web
 paypal:
-media: img/medialibrary/
+media: {{ site.baseurl }}/img/medialibrary/
 
 googleanalytics: UA-80341493-1
 
@@ -33,7 +33,7 @@ supporters:
     url: https://www.jpcert.or.jp/english/
   -
     name: csa-logo.jpg
-    footer_logo: img/medialibrary/csa-logo.jpg
+    footer_logo: /img/medialibrary/csa-logo.jpg
     url: https://www.csa.gov.sg
 
 defaults:
