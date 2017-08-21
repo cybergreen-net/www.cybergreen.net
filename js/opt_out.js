@@ -28,7 +28,7 @@ $(document).ready(function(){
 
         if(textStatus == 'success')
         {
-          $('#response').append(`<div style='color: green;'>Thank you for your enquiry to opt out of The Cyber Green Institutes metric scanning, we would like to thank you for your patience and we hope that our scanning has not interfered with your business. Based on the information provided on the submitted form, we will block the following network(s): ${xhr.responseJSON.custom_fields.cidr}</div>`);
+          $('#response').append(`<div style='color: green;'>Thank you for your enquiry to opt out of The CyberGreen Institutes metric scanning, we would like to thank you for your patience and we hope that our scanning has not interfered with your business. Based on the information provided on the submitted form, we will block the following network(s): ${xhr.responseJSON.custom_fields.cidr}</div>`);
 
         }
         else
