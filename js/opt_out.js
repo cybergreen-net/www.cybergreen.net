@@ -3,6 +3,7 @@ $(document).ready(function(){
       function() {
         var yourdomain = 'cybergreen'; // Your freshdesk domain name. Ex., yourcompany
         var api_key = 'M4dUMsTh5QFJrMHs8je'; // Ref: https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key
+        var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
         ticket_data = {
       "description": "Please remove the following IP Address from CyberGreen Scanning",
       "subject": "Remove an IP Address from CyberGreen Scanning",
@@ -26,16 +27,20 @@ $(document).ready(function(){
         $('#result').text(textStatus);
         $('#code').text(xhr.status);
 
-        if(textStatus == 'success')
+        if(textStatus == 'success' && email.value.match(mailformat))
         {
-          $('#response').append(`<div style='color: green;'>Thank you for your enquiry to opt out of The CyberGreen Institutes metric scanning, we would like to thank you for your patience and we hope that our scanning has not interfered with your business. Based on the information provided on the submitted form, we will block the following network(s): ${xhr.responseJSON.custom_fields.cidr}</div>`);
-
+          $('#response').append(`<div style='color: #0FB3FF;'>Based on the information provided, we will reveiw your request to be removed from the CyberGreen Scanning list for the following address(s): ${xhr.responseJSON.custom_fields.cidr}</div>`);
+          $('#email').val("");
+          $('#cidr').val("");
         }
         else
         {
-          $('#response').append(`<div style='color: red;'>An error was encountered processing your request (ref# ${xhr.getResponseHeader('X-Request-Id')}).<br />The server responded with: </div>`);
-          $('#response').append(`<pre></pre>`);
-          $('#response pre:first').text(JSON.stringify(xhr.responseJSON, null, '\t'));
+          $('#response').append(`<div style='color: red;'> Please use a valid email and IP Address </div>`);
+          request.abort();
+          $('#email').val("");
+          $('#cidr').val("");
+          //$('#response').append(`<pre></pre>`);
+          //$('#response').append("<pre>"+JSON.stringify(xhr.responseJSON, null, '\t')+"</pre>");
         }
             }
           }

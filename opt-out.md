@@ -13,10 +13,10 @@ If you require further help to remove your IP Address from CyberGreen Scanning p
 <br>
 
 <div>
-<h4>Email</h4>
-<input id="email" type="email" name="email" value="" /><br>
-<h4>IP Address (CIDR)</h4>
-<input id="cidr"  type="text" name="cidr" value="" /><br><br>
+<h5>Email</h5>
+<input id="email" type="email" style="border-color: #d1d1d1;" name="email" value="" /><br>
+<h5>IP Address (CIDR)</h5>
+<input id="cidr"  type="text" style="border-color: #d1d1d1;" name="cidr" value="" /><br><br>
 <button>Opt Out of Scanning</button><br><br>
 <div id = 'response'></div>
 </div>

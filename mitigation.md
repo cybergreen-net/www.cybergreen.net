@@ -72,11 +72,11 @@ For more information on how you can get involved with risk mitigation, or any ot
     <form action="https://formspree.io/contact@cybergreen.net"
           method="POST">
           <h5>Name</h5>
-        <input type="text" name="name" />
+        <input type="text" style="border-color: #d1d1d1;" name="name" />
         <h5>Email</h5>
-        <input type="email" name="_replyto" />
+        <input type="email" style="border-color: #d1d1d1;"  name="_replyto" />
         <h5>Message</h5>
-        <textarea  name="Message"> </textarea>
+        <textarea  style="border-color: #d1d1d1;" name="Message"> </textarea>
         <input type="submit" value="Send">
     </form>
 </div>
