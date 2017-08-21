@@ -4,8 +4,8 @@ $(document).ready(function(){
         var yourdomain = 'cybergreen'; // Your freshdesk domain name. Ex., yourcompany
         var api_key = 'M4dUMsTh5QFJrMHs8je'; // Ref: https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key
         ticket_data = {
-      "description": "Details about the issue...",
-      "subject": "Support Needed...",
+      "description": "Please remove the following IP Address from CyberGreen Scanning",
+      "subject": "Remove an IP Address from CyberGreen Scanning",
           "email": $('#email').val(),
           "custom_fields" : { "cidr" : $('#cidr').val() },
       "priority": 1,
