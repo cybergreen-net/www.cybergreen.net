@@ -39,4 +39,4 @@ While the purpose of this statement is for the community to understand that our 
 
 If you wish to opt out CyberGreen’s scans, please visit our <a href="https://www.cybergreen.net/opt-out/"> opt-out page.</a>
 
-If you want to talk with us about our scans, please <a href="http://www.cybergreen.net/contact/"> contact us.</a>.
+If you want to talk with us about our scans, please <a href="http://www.cybergreen.net/contact/"> contact us.</a>
