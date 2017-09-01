@@ -27,7 +27,7 @@ Over time, our intent is to add more scans to this set to identify other vulnera
 
 1.   CyberGreen's constant goal is gold standard -- where the standards  exist, follow them.  Where the standards don't exist, define them. This includes both research and community engagement.  We are, after all, committed to helping the community.
 
-2.   CyberGreen seeks community involvement.  The accuracy and quality of our data requires buy-in and cooperation from the scannees.  The more actively they are involved, the better.  If you are scanning the Internet, <link> contact us </link>  about data partnership.  
+2.   CyberGreen seeks community involvement.  The accuracy and quality of our data requires buy-in and cooperation from the scannees.  The more actively they are involved, the better.  If you are scanning the Internet, <a href="http://www.cybergreen.net/contact/"> contact us</a>  about data partnership.  
 
 3.   CyberGreen will always be crystal-clear in communicating our intents, and in following the intents of those we engage with.  In particular, if your organization wants to not be scanned by CyberGreen, we actively encourage you to contact us via our opt-out page (link) rather than blocking our scanners.  Blocking the scans introduces false negatives, as we cannot distinguish between a policy decision to protect the network and the absence of vulnerable hosts. 
 
