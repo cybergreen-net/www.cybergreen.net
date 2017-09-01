@@ -18,7 +18,7 @@ CyberGreen is currently writing a fuller technical description of our scanning. 
 
 1.   CyberGreen conducts four whole-Internet scans per week, each of which focuses on a different service (UPNP, DNS, NTP, SNMP).
       - CyberGreen does not scan unscannable space (e.g., RFC 1918 addresses, multicast or future use addresses)
-      - CyberGreen does not scan addresses which have <a href="https://www.cybergreen.net/opt-out/"> opted out </a> of scanning
+      - CyberGreen does not scan addresses which have <a href="https://www.cybergreen.net/opt-out/"> opted out</a> of scanning
 2.   Scans are conducted from various cloud providers and the scanning addresses change regularly.
 3.   The addresses are assigned fixed DNS names of the form scannerX.scanning.cybergreen.net, where X is a number.
 4.   CyberGreen does not publicly release individual host vulnerability information; we publish aggregate information as shown on stats.cybergreen.net.
