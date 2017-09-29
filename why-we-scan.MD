@@ -35,7 +35,7 @@ CyberGreen's engagement policy is focused on providing the rest of the Internet 
 
 <h2> Exclusion Requests </h2>
 
-While the purpose of this statement is for the community to understand that our scans are conducted for benevolent purposes, CyberGreen recognizes and respects the rights of users who wish to opt out the process. 
+While the purpose of this statement is for the community to understand that our scans are conducted for benevolent purposes, CyberGreen recognizes and respects the rights of users who wish to opt out of the process. 
 
 If you wish to opt out CyberGreen’s scans, please visit our <a href="https://www.cybergreen.net/opt-out/"> opt-out page.</a>
 
