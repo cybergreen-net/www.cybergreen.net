@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CyberGreen Begins Internet Scan as of September 2017
+title:  CyberGreen Begins Internet Scans as of September 2017
 date:   2017-10-24
 image: scan.jpg
 published: true
