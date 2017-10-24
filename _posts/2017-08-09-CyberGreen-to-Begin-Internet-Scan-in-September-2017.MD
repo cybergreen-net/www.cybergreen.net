@@ -6,7 +6,7 @@ image: scan.jpg
 published: true
 ---
 
-After conducting a data validation analysis, CyberGreen is announcing that, as of September 2017, it has officially begun Internet scanning for 4 risk indicators (opendns, openntp, openssdp, opensnmp). The decision to begin our own Internet scan was a result of a data validation analysis. The full data validation report can be downloaded <a target="blank" href="https://www.cybergreen.net/img/medialibrary/CyberGreen Data Validation Report.pdf"> here.</a> The executive summary is below.
+After conducting a data validation analysis, CyberGreen is announcing that, as of September 2017, it has officially begun Internet scanning for 4 risk indicators (opendns, openntp, openssdp, opensnmp). The full data validation report can be downloaded <a target="blank" href="https://www.cybergreen.net/img/medialibrary/CyberGreen Data Validation Report.pdf"> here.</a> The executive summary is below.
 
 ## Executive Summary 
 
