@@ -2,8 +2,8 @@ $(document).ready(function(){
     $("button").click(
       function() {
         var yourdomain = 'cybergreen'; // Your freshdesk domain name. Ex., yourcompany
-        var api_key = 'd1paV9JoT43X6GJ3N53F'; // Ref: https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key
-        var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/; 
+        var api_key = 'PyiqFIEW0NN9xBqzFCxd'; // Ref: https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key
+        var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
         ticket_data = {
       "description": "Please remove the following IP Address from CyberGreen Scanning",
       "subject": "Remove an IP Address from CyberGreen Scanning",
@@ -35,7 +35,7 @@ $(document).ready(function(){
         }
         else
         {
-          $('#response').append(`<div style='color: red;'> Please use a valid email and IP Address </div>`);
+          $('#response').append(`<div style='color: red;'> Please use a valid email and IP Address, if this form did not work please email us directly at support@cybergreen.freshdesk.com</div>`);
           request.abort();
           $('#email').val("");
           $('#cidr').val("");
@@ -48,4 +48,3 @@ $(document).ready(function(){
       }
     );
 });
-
