@@ -3,7 +3,7 @@ layout: page
 title: CyberGreen Scanning
 ---
 
-CyberGreen helps policy makers and Computer Security Incident Response Teams (CSIRTs) focus their remediation efforts on key systemic risks; to help understand where improvements can be made and how, together, we can achieve a more sustainable, secure, and resilient cyber ecosystem. CyberGreen achieves this by cyber health measurement, sourcing data, providing a clearing house for mitigation, capacity building and advocacy. With the help of organizations such as yours, along with our partners, we have initiated a public awareness campaign to ensure that governments, businesses, the media, and individuals recognize the value of a healthy cyber ecosystem. If you have any further questions, please contact 
+CyberGreen helps policy makers and Computer Security Incident Response Teams (CSIRTs) focus their remediation efforts on key systemic risks; to help understand where improvements can be made and how, together, we can achieve a more sustainable, secure, and resilient cyber ecosystem. CyberGreen achieves this by cyber health measurement, sourcing data, providing a clearing house for mitigation, capacity building and advocacy. With the help of organizations such as yours, along with our partners, we have initiated a public awareness campaign to ensure that governments, businesses, the media, and individuals recognize the value of a healthy cyber ecosystem. If you have any further questions, please contact
 <a href="https://cybergreen.freshdesk.com" style="text-decoration:none"> <strong>Customer Support</strong></a>.
 
 <h2>Opt-Out of CyberGreen Scanning</h2>
@@ -22,5 +22,5 @@ If you require further help to remove your IP Address from CyberGreen Scanning p
 </div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js  | prepend: site.baseurl }}"><\/script>')</script>
 <script src="{{ "/js/opt_out.js" | prepend: site.baseurl }}"></script>
