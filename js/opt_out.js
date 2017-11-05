@@ -36,7 +36,7 @@ $(document).ready(function(){
         else
         {
           $('#response').append(`<div style='color: red;'> Please use a valid email and IP Address, if this form did not work please email us directly at support@cybergreen.freshdesk.com</div>`);
-          request.abort();
+          //request.abort();
           $('#email').val("");
           $('#cidr').val("");
           //$('#response').append(`<pre></pre>`);
