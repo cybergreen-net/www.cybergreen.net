@@ -3,7 +3,7 @@ $(document).ready(function(){
       function() {
         var yourdomain = 'cybergreen'; // Your freshdesk domain name. Ex., yourcompany
         var api_key = 'PyiqFIEW0NN9xBqzFCxd'; // Ref: https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key
-        var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+        var mailformat = /\S+@\S+/;
         ticket_data = {
       "description": "Please remove the following IP Address from CyberGreen Scanning",
       "subject": "Remove an IP Address from CyberGreen Scanning",
