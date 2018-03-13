@@ -10,7 +10,7 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 ### Risk Indicators
 
 <img style="width:60px" src="{{site.media}}icon20.jpg"/>
-**Open DNS**: The Domain Name System (DNS) is pervasive. For enterprises, it is their digital identity as well as a critical component of their security architecture. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/opendns/">Read more &raquo;</a>
+**Open DNS**: The Domain Name System (DNS) is pervasive. For enterprises, it is their digital identity as well as a critical component of their security architecture. Since DNS runs on the UDP protocol, it can be used for amplification attacks. <a href="http://stats.cybergreen.net/risk/openrecursivedns/">Read more &raquo;</a>
 
 <img style="width:60px" src="{{site.media}}icon22.jpg"/>
 **Open NTP**: Computers and network devices have a perversely strong need to have good agreement about what constitutes the current time. Most computers stay synchronized using Network Time Protocol (NTP). Just like DNS, NTP is a UDP-based service, and shares the same weaknesses that DNS does. <a href="http://stats.cybergreen.net/risk/openntp/">Read more &raquo;</a>
