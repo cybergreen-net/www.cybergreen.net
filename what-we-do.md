@@ -54,6 +54,6 @@ We have built a library of <a href="http://www.cybergreen.net/mitigation/#capaci
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon11.png"/>
-<a href="www.cybergreen.net/papers-reports" target="_blank">Papers and Reports</a>
+<a href="https://www.cybergreen.net/papers-reports/" target="_blank">Papers and Reports</a>
 </h2>
 You can access past and ongoing research papers and reports by clicking on the title above.
