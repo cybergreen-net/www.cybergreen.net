@@ -14,9 +14,9 @@ The development and application of statistical methods to data allows for measur
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon02.png"/>
-Sourcing Data
+Internet Scanning
 </h2>
-Establishing accurate and comprehensive data sources will enable CyberGreen to produce valuable cyber health risk metrics. CyberGreen will continuously seek to identify and recruit the best possible data sources to service the measurement of global cyber health and risk conditions. We will evolve these sources as our understanding of cyber health and measurement advances, and serve as a trusted broker between emerging CERTs and data sources.
+At CyberGreen, our work hinges on high quality, reliable data to enable us to provide the most accurate measurements and visualizations. CyberGreen scans the Internet to detect vulnerabilities that exist within the Cyber Ecosystem as they relate to open recursive servers. By conducting our own scans at CyberGreen, we can hold true to our value of transparency by devising our own scanning method and publishing that method for the broader community.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon03.png"/>
@@ -34,7 +34,7 @@ CyberGreen will identify partners in the developing world, and provide the neces
 <img style="width:60px" src="{{site.media}}icon06.png"/>
 Advocacy
 </h2>
-CyberGreen will also strive to engage the policy-making and media communities as active participants in pursuing cyber health. We are working with partners to initiate a public awareness campaign to ensure that governments, businesses, the media, and individuals recognize the value of a healthy cyber ecosystem.
+CyberGreen will strive to engage the policy-making and media communities as active participants in pursuing cyber health. We are working with partners to initiate a public awareness campaign to ensure that governments, businesses, the media, and individuals recognize the value of a healthy cyber ecosystem.
 
 
 
@@ -42,44 +42,18 @@ CyberGreen will also strive to engage the policy-making and media communities as
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon17.png"/>
-<a href="http://stats.cybergreen.net/" target="_blank">Statistics Platform v.2 beta</a>
+<a href="http://stats.cybergreen.net/" target="_blank">Statistics Platform</a>
 </h2>
-We have developed the CyberGreen Statistics platform v.2, which features metrics-based measurement and visualizations as well as the ability to compare across countries and autonomous systems. You can access the platform by clicking on the title above.
-
-<h2>
-<img style="width:60px" src="{{site.media}}icon11.png"/>
-CyberGreen Metrics position paper: Shades of Green <a href="{{site.media}}geer.cybergreen.v16.pdf" target="_blank">[pdf]</a>
-</h2>
-An analysis by Dr. Dan Geer, CyberGreen stats special advisor, on the direction of CyberGreen's metrics.
-
-<h2>
-<img style="width:60px" src="{{site.media}}icon11.png"/>
-CyberGreen Platform v.2 system architecture overview and requirements <a href="{{site.media}}CyberGreenTechnicalArchitecture-1.pdf" target="_blank">[pdf]</a>
-</h2>
-Using lessons learned from v.1, along with end user expectations, an overview of the architecture for Platform v.2 and its requirements have been prepared by L. Aaron Kaplan and Dr. Rufus Pollock.
-
-<h2>
-<img style="width:60px" src="{{site.media}}icon15.png"/>
- Training materials
-</h2>
-We've built a library of <a href="http://www.cybergreen.net/mitigation/#capacity-building-materials"> training materials </a> around the CyberGreen platform. [Contact us](http://www.cybergreen.net/contact/) and we'd be happy to schedule some time to help train you, and your team.
+We have developed the CyberGreen Statistics platform, which features metrics-based measurement and visualizations as well as the ability to compare across countries and autonomous systems. You can access the platform by clicking on the title above.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon13.png"/>
-Presentations
+ Training materials for Mitigation and Capacity Building
 </h2>
-Be sure to check out our <a href="/blog/?category=presentation">presentation archive.</a>
+We have built a library of <a href="http://www.cybergreen.net/mitigation/#capacity-building-materials"> training materials </a> around the CyberGreen platform. [Contact us](http://www.cybergreen.net/contact/) and we would be happy to schedule some time to help train you, and your team.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon11.png"/>
-Concept Paper
-<a href="{{site.media}}ConceptPaper.nov_.pdf"> [pdf]</a>
+<a href="http://www.cybergreen.net/papers-reports" target="_blank">Papers and Reports</a>
 </h2>
-We developed our original concept paper in 2014, which you can find by clicking on the title above. <a href="/what-we-do/">Visit</a> our current program description to learn what we're up to now.
-
-
-<h2>
-<img style="width:60px" src="{{site.media}}icon11.png"/>
-Research <a href="{{site.media}}CyberGreenResearchPaper-2015.pdf"> [pdf]</a>
-</h2>
-Cybersecurity metrics, specifically for Cyber Health, have long suffered from a lack of statistical rigor. The origin of this omission is multi-fold, including issues in collection, the inability to cross-compare data, and a failure to apply normalization techniques. The absence of statistically meaningful cybersecurity metrics prevents the ability to compare organizations and efforts over time, and blocks an effective evaluation of cybersecurity investments.
+You can access past and ongoing research papers and reports by clicking on the title above.
