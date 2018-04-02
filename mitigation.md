@@ -5,7 +5,7 @@ title: Mitigation
 
 ## What We Measure
 
-CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Open SNMP. CyberGreen will add Spam to its list of risk indicators in the coming months.
+CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for five risk indicators using its own Internet scan data. The five risk indicators are open DNS, open NTP, open SSDP, open SNMP and open CHARGEN protocols. 
 
 ### Risk Indicators
 
