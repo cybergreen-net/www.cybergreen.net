@@ -120,7 +120,7 @@ The anonymous system (AS) view provides the count of vulnerable devices for the 
 
 ## What We Measure
 
-CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for four risk indicators using 1 TB of validated data collected from multiple sources. The four risk indicators are Open DNS, Open NTP, Open SSDP, and Open SNMP. CyberGreen will add Spam to its list of risk indicators in the coming months.
+CyberGreen develops and applies statistical methods to data, allowing for measurement of key indicators of risk conditions. Using state-of-the-art metrics-based measurement and visualization, CyberGreen produces an Index score for five risk indicators using its own Internet scan data. The five risk indicators are open DNS, open NTP, open SSDP, open SNMP and open CHARGEN protocols. 
 
 ### Risk Indicators
 
@@ -136,8 +136,8 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 <img style="width:60px" src="{{site.media}}icon23.jpg"/>
 **Open SNMP**: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks.
 
-<img style="width:60px" src="{{site.media}}icon24.jpg"/>
-**Spam**: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a>
+<img style="width:60px" src="{{site.media}}icon25.jpeg"/>
+**Open CHARGEN**: Character Generator Protocol (CHARGEN) is a service of the Internet Protocol Suite defined in RFC 864 in 1983 by Jon Postel. It is intended for testing, debugging, and measurement purposes. The protocol is rarely used, as its design flaws allow ready misuse. <a href="http://stats.cybergreen.net/risk/chargen/">Read more &raquo;</a>
 
 <div style="margin-bottom: 50px">
 </div>
@@ -167,9 +167,9 @@ Download CyberGreen's mitigation best current practices for three risk condition
             <div class="flag_back"><img border="0" src="{{site.media}}opendnsicon.png" width="100" height="75" alt="CyberGreen OpenDNS Mitigation"><br>
             <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf'); return false;">Download Open DNS</a></center></div>
             </td>
-            <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}spamboticon.png" width="100" height="75" alt="CyberGreen SpamBot Mitigation"><br>
-            <center><a download="CyberGreen SpamBot Mitigation" href="/img/medialibrary/CyberGreen SpamBot Mitigation.pdf" title="CyberGreen SpamBot Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen SpamBot Mitigation.pdf'); return false;">Download SpamBot</a></center></div>
+            <td style="padding-right: 10px" width="150" height="75" border="1px" align="center">
+            <div class="flag_back"><img border="0" src="{{site.media}}spamboticon.png" width="100" height="75" alt="CyberGreen Bot Infection Mitigation"><br>
+            <center><a download="CyberGreen Bot Infection Mitigation" href="/img/medialibrary/CyberGreen Bot Infection Mitigation.pdf" title="CyberGreen Bot Infection Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen Bot Infection Mitigation.pdf'); return false;">Download Bot Infection</a></center></div>
             </td>
         </tr>
      </tbody>
