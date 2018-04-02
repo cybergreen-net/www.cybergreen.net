@@ -5,13 +5,13 @@ title: Papers and Reports
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon11.png"/>
-CyberGreen Metrics position paper: Shades of Green <a href="{{site.media}}geer.cybergreen.v16.pdf" target="_blank">[pdf]</a>
+CyberGreen Metrics Position Paper: Shades of Green <a href="{{site.media}}geer.cybergreen.v16.pdf" target="_blank">[pdf]</a>
 </h2>
 An analysis by Dr. Dan Geer, CyberGreen stats special advisor, on the direction of CyberGreen's metrics.
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon11.png"/>
-CyberGreen Statics platform v.2 system architecture overview and requirements <a href="{{site.media}}CyberGreenTechnicalArchitecture-1.pdf" target="_blank">[pdf]</a>
+CyberGreen Statistics Platform v.2 Overview and Requirements <a href="{{site.media}}CyberGreenTechnicalArchitecture-1.pdf" target="_blank">[pdf]</a>
 </h2>
 Using lessons learned from v.1, along with end user expectations, an overview of the architecture for Statistics platform v.2 and its requirements have been prepared by L. Aaron Kaplan and Dr. Rufus Pollock.
 
