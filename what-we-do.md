@@ -48,7 +48,7 @@ We have developed the CyberGreen Statistics platform, which features metrics-bas
 
 <h2>
 <img style="width:60px" src="{{site.media}}icon13.png"/>
- Training materials for Mitigation and Capacity Building
+ Training Materials for Mitigation and Capacity Building
 </h2>
 We have built a library of <a href="http://www.cybergreen.net/mitigation/#capacity-building-materials"> training materials </a> around the CyberGreen platform. [Contact us](http://www.cybergreen.net/contact/) and we would be happy to schedule some time to help train you, and your team.
 
