@@ -149,7 +149,7 @@ Once CyberGreen has identified the presence of those risk conditions within a co
 </div>
 
 ## Capacity Building Materials
-Download CyberGreen's mitigation best current practices for three risk conditions that are present in the Cyber Ecosystem.
+Download CyberGreen's mitigation best current practices for four risk conditions that are present in the Cyber Ecosystem.
 
 <div class="content">
 <table cellspacing="10px" cellpadding="10px" style="border-spacing: 10px">
