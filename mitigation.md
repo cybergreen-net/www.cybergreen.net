@@ -53,8 +53,8 @@ Download CyberGreen's mitigation best current practices for three risk condition
             <center><a download="CyberGreen OpenDNS Mitigation" href="/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf" title="CyberGreen OpenDNS Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenDNS Mitigation.pdf'); return false;">Download Open DNS</a></center></div>
             </td>
             <td style="padding-right: 10px" width="100" height="75" border="1px" align="center">
-            <div class="flag_back"><img border="0" src="{{site.media}}spamboticon.png" width="100" height="75" alt="CyberGreen SpamBot Mitigation"><br>
-            <center><a download="CyberGreen SpamBot Mitigation" href="/img/medialibrary/CyberGreen SpamBot Mitigation.pdf" title="CyberGreen SpamBot Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen SpamBot Mitigation.pdf'); return false;">Download SpamBot</a></center></div>
+            <div class="flag_back"><img border="0" src="{{site.media}}spamboticon.png" width="100" height="75" alt="CyberGreen Bot Infection Mitigation"><br>
+            <center><a download="CyberGreen Bot Infection Mitigation" href="/img/medialibrary/CyberGreen Bot Infection Mitigation.pdf" title="CyberGreen Bot Infection Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen Bot Infection Mitigation.pdf'); return false;">Download Bot Infection</a></center></div>
             </td>
         </tr>
      </tbody>
