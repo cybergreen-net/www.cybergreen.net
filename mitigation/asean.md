@@ -134,7 +134,7 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 **Open SSDP**The Simple Service Discovery Protocol (SSDP) is used for advertisement and discovery of network services and presence information. It is often enabled in customer end devices (CPEs) such as modems. Since SSDP runs over UDP, it can be used for UDP reflection attacks. <a target="_blank" href="http://stats.cybergreen.net/risk/openssdp/">Read more &raquo;</a>
 
 <img style="width:60px" src="{{site.media}}icon23.jpg"/>
-**Open SNMP**: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks.
+**Open SNMP**: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks. <a target="_blank" href="http://stats.cybergreen.net/risk/opensnmp/">Read more &raquo;</a>
 
 <img style="width:60px" src="{{site.media}}icon25.jpeg"/>
 **Open CHARGEN**: Character Generator Protocol (CHARGEN) is a service of the Internet Protocol Suite defined in RFC 864 in 1983 by Jon Postel. It is intended for testing, debugging, and measurement purposes. The protocol is rarely used, as its design flaws allow ready misuse. <a target="_blank" href="http://stats.cybergreen.net/risk/chargen/">Read more &raquo;</a>
@@ -157,7 +157,7 @@ Download CyberGreen's mitigation best current practices for three risk condition
         <tr>
             <td style="padding-right: 10px" width="200" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}openssdpicon.png" width="100" height="75" alt="Open SSDP"><br>
-            <center><a target="_blank" download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf'); return false;">Download Open SSDP</a></center></div>
+            <center><a download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf'); return false;">Download Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="200" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="100" height="75" alt="CyberGreen Open NTP Mitigation"><br>
