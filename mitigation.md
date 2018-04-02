@@ -22,7 +22,7 @@ CyberGreen develops and applies statistical methods to data, allowing for measur
 **Open SNMP**: Simple Network Management Protocol (SNMP) is an Internet-standard protocol for collecting and organizing information about managed devices on IP networks and for modifying that information to change device behavior. Devices that typically support SNMP include routers, switches, servers, workstations, printers, modem racks and more. It runs on the UDP protocol and can be abused for UDP based amplification attacks.
 
 <img style="width:60px" src="{{site.media}}icon24.jpg"/>
-**Spam**: <i>[to be included as a risk indicator soon]</i> Spam is roughly equivalent to unsolicited telephone marketing calls, except that the user pays for part of the message since everyone shares the cost of maintaining the Internet. Spammers typically send a piece of e-mail to a distribution list in the millions, expecting that only a tiny number of readers will respond to their offer. <a href="http://stats.cybergreen.net/risk/spam/">Read more &raquo;</a>
+**Open CHARGEN**: Character Generator Protocol (CHARGEN) is a service of the Internet Protocol Suite defined in RFC 864 in 1983 by Jon Postel. It is intended for testing, debugging, and measurement purposes. The protocol is rarely used, as its design flaws allow ready misuse. <a href="http://stats.cybergreen.net/risk/chargen/">Read more &raquo;</a>
 
 <div style="margin-bottom: 50px">
 </div>
