@@ -157,7 +157,7 @@ Download CyberGreen's mitigation best current practices for three risk condition
         <tr>
             <td style="padding-right: 10px" width="200" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}openssdpicon.png" width="100" height="75" alt="Open SSDP"><br>
-            <center><a download="CyberGreen OpenSSDP Mitigation" target="_blank" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf'); return false;">Download Open SSDP</a></center></div>
+            <center><a target="_blank" download="CyberGreen OpenSSDP Mitigation" href="/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf" title="CyberGreen OpenSSDP Mitigation" onclick="trackOutboundLink('/img/medialibrary/CyberGreen OpenSSDP Mitigation.pdf'); return false;">Download Open SSDP</a></center></div>
             </td>
              <td style="padding-right: 10px" width="200" height="75" border="1px" align="center">
             <div class="flag_back"><img border="0" src="{{site.media}}openntpicon.png" width="100" height="75" alt="CyberGreen Open NTP Mitigation"><br>
