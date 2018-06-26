@@ -35,7 +35,7 @@ CyberGreen's engagement policy is focused on providing the rest of the Internet 
 
 <h2> GDPR Compliance </h2>
 
-The CyberGreen Institute is committed to being compliant with GDPR. Our compliance efforts have been certified by the Institute for Social Internet Public Policy (ISIPP).
+CyberGreen is committed to being compliant with GDPR. Our compliance efforts have been certified by the Institute for Social Internet Public Policy (ISIPP).
 
 <h2> Exclusion Requests </h2>
 
