@@ -33,6 +33,10 @@ Over time, our intent is to add more scans to this set to identify other vulnera
 
 CyberGreen's engagement policy is focused on providing the rest of the Internet a clear understanding of our goals, access to our data, and a mechanism for positively supporting or disengaging from our efforts.  
 
+<h2> GDPR Compliance </h2>
+
+CyberGreen is committed to being compliant with GDPR. Our compliance efforts have been certified by the Institute for Social Internet Public Policy (ISIPP).
+
 <h2> Exclusion Requests </h2>
 
 While the purpose of this statement is for the community to understand that our scans are conducted for benevolent purposes, CyberGreen recognizes and respects the rights of users who wish to opt out of the process. 
