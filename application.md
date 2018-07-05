@@ -21,10 +21,8 @@ Please take a few minutes to fill out this application so we can collect some ba
     <h4>Primary Point of Contact Email Address</h4>
     <input type="text" style="border-color: #000000;" name="POC email" /> 
     <h4>Membership Tier</h4>
-    <input type="radio" id="basic" style="border-color: #000000;" name="tier" checked />
-    <label for="basic">Basic</label>
-    <input type="radio" id="premium" style="border-color: #000000;" name="tier" checked />
-    <label for="premium">Premium</label>
+    <input type="radio" id="basic" name="tier" checked /> <label for="basic">Basic</label>
+    <input type="radio" id="premium" name="tier" checked /> <label for="premium">Premium</label>
     <h4>Questions and Comments</h4>
     <textarea  style="border-color: #000000;" name="Questions/Comments"> </textarea>
     <input type="submit" value="Send">
