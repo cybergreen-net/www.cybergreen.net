@@ -24,11 +24,11 @@ Please take a few minutes to fill out this application so we can collect some ba
     <fieldset>
       <div>
     <input type="radio" id="basic" name="tier" value="basic" style="border-color: #000000;"  /> 
-    <label for="basic">Basic</label>
+    <label for="basic">Basic: $20,000</label>
       </div>
       <div>
     <input type="radio" id="premium" name="tier" value="premium" style="border-color: #000000;" /> 
-    <label for="premium">Premium</label>
+    <label for="premium">Premium: $35,000</label>
       </div>
     </fieldset>
     <h4>Questions and Comments</h4>
