@@ -23,11 +23,11 @@ Please take a few minutes to fill out this application so we can collect some ba
     <h4>Membership Tier</h4>
     <fieldset>
       <div>
-    <input type="radio" id="basic" name="tier" checked /> 
+    <input type="radio" id="basic" name="tier" style="border-color: #000000; checked /> 
     <label for="basic">Basic</label>
-      </div
+      </div>
       <div>
-    <input type="radio" id="premium" name="tier" checked /> 
+    <input type="radio" id="premium" name="tier" style="border-color: #000000; /> 
     <label for="premium">Premium</label>
       </div>
     </fieldset>
