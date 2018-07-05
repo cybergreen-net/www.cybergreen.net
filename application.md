@@ -22,7 +22,7 @@ Please take a few minutes to fill out this application so we can collect some ba
     <input type="text" style="border-color: #000000;" name="POC email" /> 
     <h4>Membership Tier</h4>
     <fieldset>
-        <legend>Membership Tier</legend>
+      <fieldset style="border color: #000000;">
       <div>
     <input type="radio" id="basic" name="tier" style="border-color: #000000;" checked /> 
     <label for="basic">Basic</label>
