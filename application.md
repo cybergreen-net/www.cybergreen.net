@@ -23,7 +23,7 @@ Please take a few minutes to fill out this application so we can collect some ba
     <h4>Membership Tier</h4>
     <fieldset>
       <div>
-    <input type="radio" id="basic" name="tier-basic" style="border-color: #000000;" checked /> 
+    <input type="radio" id="basic" name="tier-basic" style="border-color: #000000;"  /> 
     <label for="basic">Basic</label>
       </div>
       <div>
