@@ -22,10 +22,14 @@ Please take a few minutes to fill out this application so we can collect some ba
     <input type="text" style="border-color: #000000;" name="POC email" /> 
     <h4>Membership Tier</h4>
     <fieldset>
+      <div>
     <input type="radio" id="basic" name="tier" checked /> 
     <label for="basic">Basic</label>
+      </div
+      <div>
     <input type="radio" id="premium" name="tier" checked /> 
     <label for="premium">Premium</label>
+      </div>
     </fieldset>
     <h4>Questions and Comments</h4>
     <textarea  style="border-color: #000000;" name="Questions/Comments"> </textarea>
