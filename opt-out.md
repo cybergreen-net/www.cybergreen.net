@@ -13,12 +13,11 @@ If you require further help to remove your IP Address from CyberGreen Scanning p
 <br>
 
 <div>
-<h5>Email</h5>
-<input id="email" type="email" style="border-color: #d1d1d1;" name="email" value="" /><br>
-<h5>IP Address (CIDR)</h5>
-<input id="cidr"  type="text" style="border-color: #d1d1d1;" name="cidr" value="" /><br><br>
-<button>Opt Out of Scanning</button><br><br>
-<div id = 'response'></div>
+<form method="POST" action="https://formspree.io/support@cybergreen.freshdesk.com">
+  <input type="email" name="email" placeholder="Valid email associated with CIDR">
+  <textarea name="message" placeholder="Your CIDR and reason for opting out of CyberGreen Scanning"></textarea>
+  <button type="submit">Send</button>
+</form>
 </div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
