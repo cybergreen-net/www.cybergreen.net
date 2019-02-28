@@ -96,11 +96,9 @@ These efforts will facilitate operational cleanup of systems, and will ensure th
 
 # Operations
 
-#### Executive director: Yurie Ito
+#### Executive Director: Yurie Ito
 
-#### Technical director: Michael Collins
-
-#### Director of business operations: Arastoo Taslim
+#### Director of Business Operations: Arastoo Taslim
 
 <div style="margin-bottom: 50px">
 </div>
