@@ -16,7 +16,7 @@ By conducting our own scans at CyberGreen, we can hold true to our value of tran
 
 CyberGreen is currently writing a fuller technical description of our scanning. However, we can provide the current state of the practice for review: 
 
-1.   CyberGreen conducts four whole-Internet scans per week, each of which focuses on a different service (UPNP, DNS, NTP, SNMP).
+1.   CyberGreen conducts five whole-Internet scans per week, each of which focuses on a different service (UPNP, DNS, NTP, SNMP, and CHARGEN).
       - CyberGreen does not scan unscannable space (e.g., RFC 1918 addresses, multicast or future use addresses)
       - CyberGreen does not scan addresses which have <a href="https://www.cybergreen.net/opt-out/"> opted out</a> of scanning
 2.   Scans are conducted from various cloud providers and the scanning addresses change regularly.
