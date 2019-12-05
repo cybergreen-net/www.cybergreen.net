@@ -1,0 +1,35 @@
+<footer class="site-footer">
+
+  <div>
+    <div class="primary">
+      <a href="https://cybergreen.net" rel="external"><img src="{{ site.media }}CG_Logo_Colorchange_GreyandGreen.png" width="145 alt="Cybergreen"></a>
+      </div>
+      
+    <div class="secondary">
+      <ul>
+        <li>Copyright 2019, CyberGreen. All Rights Reserved.</li><br>
+        <li><a href="{{ site.baseurl }}/terms-of-use/" rel="external">Terms of use</a></li>
+        <li class="button"><a href="http://opendefinition.org/" rel="external"></a></li>
+      </ul>
+    </div>
+
+    <div class="tertiary">
+      {% if site.related_projects %}
+      <div>
+        <h6>Related Projects</h6>
+        <ul>
+          {% for project in site.related_projects %}
+          <li><a href="{{ project.link }}">{{ project.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      <ul class="icons">
+        <li class="discuss"><a href="{{ site.baseurl }}/contact/" rel="external"><span>Contact</span></a></li>
+        {% if site.github_repo %}
+        <li class="source"><a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" rel="external"><span class="text">Source</span></a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</footer>
