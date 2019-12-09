@@ -2,6 +2,7 @@
 layout: post
 title:  CyberGreen supports the Paris Call for Trust and Security in Cyberspace
 date:   2019-11-30
+image:  pariscall.png
 published: true  
 ---
 
