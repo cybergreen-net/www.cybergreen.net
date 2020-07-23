@@ -21,20 +21,3 @@ If you require further help to remove your IP Address from CyberGreen Scanning p
   <button type="submit">Send</button>
 </form>
 </div>
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-<script src="{{ "/js/opt_out.js" | prepend: site.baseurl }}"></script>
-<html>
-  <head>
-    <title>reCAPTCHA demo: Simple page</title>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-  </head>
-  <body>
-    <form action="?" method="POST">
-      <div class="g-recaptcha" data-sitekey="6LeYGLUZAAAAAN_qqc7rznAXa3ENAwx-c0FCH5N4"></div>
-      <br/>
-      <input type="submit" value="Submit">
-    </form>
-  </body>
-</html>
