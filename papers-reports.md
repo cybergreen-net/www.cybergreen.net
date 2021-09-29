@@ -32,6 +32,7 @@ Cybersecurity metrics, specifically for Cyber Health, have long suffered from a 
 <img style="width:60px" src="{{site.media}}icon11.png"/>
 Internet Infrastructure Health Metrics Framework <a id="IIHMF" href="{{site.media}}IIHMF.pdf"> [pdf]</a>
 </h2>
+
 This report is an analysis and evaluation of existing risks to Internet infrastructure from a public health standpoint. The ultimate goal of the project is to create country-level “scorecards”. This report sets the foundation for achieving that through the exploration of several models, the identification of six components that we assessed as being vital to Internet infrastructure, the selection of indicators that we have identified as being relevant to assessing the health of those components, the data that will be collected, and the preliminary metrics we will use to conduct measurements..
 
 As digital societies continue to evolve, digital economies must increasingly depend on
@@ -44,16 +45,16 @@ The Internet Infrastructure Health Metrics Framework will allow nation states to
 Addressing the challenges and questions related to this work involves buy-in and cooperation from multiple stakeholders. We focus our recommendations on two subsets: recommendations for policymakers and recommendations for further research by organizations like ERIA and CyberGreen.
 
 Recommendations for policymakers:
-Conduct a census of critical Internet infrastructure in your country.
-Evaluate national standards for security advice and the consistency and character of that advice (i.e. goal-centric? Activity-centric?).
-Mandate certain practices for companies to report security breaches.
-Create standards for incident and near miss reporting and investigation.
+* Conduct a census of critical Internet infrastructure in your country.
+* Evaluate national standards for security advice and the consistency and character of that advice (i.e. goal-centric? Activity-centric?).
+* Mandate certain practices for companies to report security breaches.
+* Create standards for incident and near miss reporting and investigation.
 
 Recommendations for further research:
-Invest in models and datasets that illuminate risk and can be measured at Internet scale rather than enterprise scale.
-Investigate reasons that organizations are not acting on security advice.
-Develop a fuller model of the mapping between cybersecurity issues and public health issues.
-Refine definitions of critical Internet infrastructure.
-Create a formula for an Internet infrastructure health scorecard and engage relevant communities.
-Run a pilot to measure Internet infrastructure health.
-Create a set of evaluation criteria to allow assessment of observed measures.
+* Invest in models and datasets that illuminate risk and can be measured at Internet scale rather than enterprise scale.
+* Investigate reasons that organizations are not acting on security advice.
+* Develop a fuller model of the mapping between cybersecurity issues and public health issues.
+* Refine definitions of critical Internet infrastructure.
+* Create a formula for an Internet infrastructure health scorecard and engage relevant communities.
+* Run a pilot to measure Internet infrastructure health.
+* Create a set of evaluation criteria to allow assessment of observed measures.
