@@ -27,9 +27,9 @@ We developed our original concept paper in 2014, which you can find by clicking 
 Research <a href="{{site.media}}CyberGreenResearchPaper-2015.pdf"> [pdf]</a>
 </h2>
 Cybersecurity metrics, specifically for Cyber Health, have long suffered from a lack of statistical rigor. The origin of this omission is multi-fold, including issues in collection, the inability to cross-compare data, and a failure to apply normalization techniques. The absence of statistically meaningful cybersecurity metrics prevents the ability to compare organizations and efforts over time, and blocks an effective evaluation of cybersecurity investments.
-
+<a id="IIHMF"></a>
 <h2>
-  <a id="IIHMF"></a><img style="width:60px" src="{{site.media}}icon11.png"/>
+<img style="width:60px" src="{{site.media}}icon11.png"/>
 Internet Infrastructure Health Metrics Framework <a href="{{site.media}}IIHMF.pdf"> [pdf]</a>
 </h2>
 
