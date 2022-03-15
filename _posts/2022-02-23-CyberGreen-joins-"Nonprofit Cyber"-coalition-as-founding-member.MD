@@ -36,5 +36,3 @@ Key stakeholders welcomed the creation of Nonprofit Cyber.
 "Everyone must be able to protect themselves, their family, and their businesses from cyber threats. Nonprofits play a critical role in ensuring that is possible, filling the gaps between what governments and companies do," said Craig Newmark, founder of craigslist and head of Craig Newmark Philanthropies. "Aligning the activity of these organizations is an important step toward protecting society and human rights."
 
 "There is a huge cybersecurity non-profit ecosystem attempting to educate the general public about the need of protecting their data, as well as bring more people to this career field," said Ron Gula of the Gula Tech Foundation. "Coordination of the efforts of cybersecurity nonprofits by Nonprofit Cyber will dramatically increase the effectiveness and impact of this critical endeavor."
-About the Nonprofit Cyber Founding Members
-
