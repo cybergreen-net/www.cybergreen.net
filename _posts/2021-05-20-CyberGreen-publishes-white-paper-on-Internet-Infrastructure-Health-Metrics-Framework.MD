@@ -2,7 +2,7 @@
 layout: post
 title:  CyberGreen publishes white paper on Internet Infrastructure Health Metrics Framework
 date:   2021-05-20
-image:  ERIA logo.png
+image:  icon02.png
 published: true  
 ---
 
@@ -19,18 +19,19 @@ The Internet Infrastructure Health Metrics Framework will allow nation states to
 
 Addressing the challenges and questions related to this work involves buy-in and cooperation from multiple stakeholders. We focus our recommendations on two subsets: recommendations for policymakers and recommendations for further research by organizations like ERIA and CyberGreen.
 
-Recommendations for policymakers:
+**Recommendations for policymakers:**
 
-Conduct a census of critical Internet infrastructure in your country.
-Evaluate national standards for security advice and the consistency and character of that advice (i.e. goal-centric? Activity-centric?).
-Mandate certain practices for companies to report security breaches.
-Create standards for incident and near miss reporting and investigation.
-Recommendations for further research:
+- Conduct a census of critical Internet infrastructure in your country.
+- Evaluate national standards for security advice and the consistency and character of that advice (i.e. goal-centric? Activity-centric?).
+- Mandate certain practices for companies to report security breaches.
+- Create standards for incident and near miss reporting and investigation.
 
-Invest in models and datasets that illuminate risk and can be measured at Internet scale rather than enterprise scale.
-Investigate reasons that organizations are not acting on security advice.
-Develop a fuller model of the mapping between cybersecurity issues and public health issues.
-Refine definitions of critical Internet infrastructure.
-Create a formula for an Internet infrastructure health scorecard and engage relevant communities.
-Run a pilot to measure Internet infrastructure health.
-Create a set of evaluation criteria to allow assessment of observed measures.
+**Recommendations for further research:**
+
+- Invest in models and datasets that illuminate risk and can be measured at Internet scale rather than enterprise scale.
+- Investigate reasons that organizations are not acting on security advice.
+- Develop a fuller model of the mapping between cybersecurity issues and public health issues.
+- Refine definitions of critical Internet infrastructure.
+- Create a formula for an Internet infrastructure health scorecard and engage relevant communities.
+- Run a pilot to measure Internet infrastructure health.
+- Create a set of evaluation criteria to allow assessment of observed measures.
