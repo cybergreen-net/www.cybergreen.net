@@ -2,7 +2,7 @@
 layout: post
 title:  ERIA sponsors CyberGreen for second phase of Internet Infrastructure Health Metrics Framework project
 date:   2021-08-15
-image:  ERIAlogo.png
+image:  erialogo.png
 published: true  
 ---
 
