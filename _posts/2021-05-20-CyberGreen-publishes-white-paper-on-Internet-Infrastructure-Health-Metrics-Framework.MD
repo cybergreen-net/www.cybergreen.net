@@ -6,7 +6,7 @@ image:  icon02.png
 published: true  
 ---
 
-The Economic Research Institute of ASEAN and East Asia (ERIA) sponsored CyberGreen to conduct research around the creation of a framework to measure the health of Internet infrastructure. The full report can be downloaded <a href="https://www.cybergreen.net/papers-reports/#IIHMF">here</a>. Below is the Executive Summary:
+The Economic Research Institute for ASEAN and East Asia (ERIA) sponsored CyberGreen to conduct research around the creation of a framework to measure the health of Internet infrastructure. The full report can be downloaded <a href="https://www.cybergreen.net/papers-reports/#IIHMF">here</a>. Below is the Executive Summary:
 
 
 This report is an analysis and evaluation of existing risks to Internet infrastructure from a public health standpoint. The ultimate goal of the project is to create country-level “scorecards”. This report sets the foundation for achieving that through the exploration of several models, the identification of six components that we assessed as being vital to Internet infrastructure, the selection of indicators that we have identified as being relevant to assessing the health of those components, the data that will be collected, and the preliminary metrics we will use to conduct measurements..
