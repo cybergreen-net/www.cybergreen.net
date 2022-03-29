@@ -6,7 +6,7 @@ image:  erialogo.png
 published: true  
 ---
 
-The Economic Research Institute of ASEAN and East Asia has funded CyberGreen to continue research and development of its Internet Infrastructure Health Metrics Framework. 
+The Economic Research Institute for ASEAN and East Asia (ERIA) has funded CyberGreen to continue research and development of its Internet Infrastructure Health Metrics Framework. 
 
 One of the most important conditions for enabling robust cooperation in cyberspace is the availability of cross-comparable statistics that empower decision makers to set policies based on evidence, establish priorities, and view trends. The key focus is on making various statistics produced at the national level cross comparable, rather than merely sharing information.
 The medical community has established frameworks for risk indicators and courses of treatment based on those indicators. For example, the World Health Organization (WHO) publishes global statistics on key risk indicators prioritized by the global community to provide information on the health situation and trends, including responses at national and global levels. They also provide a registry for indicator definitions, data sources, and methods of estimation.
