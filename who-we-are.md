@@ -133,7 +133,7 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
         <tr>
             <td style="padding-right: 20px" width="100" height="100" border="1px">
             <div class="flag_back"><a target="_blank" href="https://www.eria.org">
-            <img border="0" src="{{site.media}}eria-logo.png" alt="ERIA"></a>
+            <img border="0" src="{{site.media}}ERIA-logo.png" alt="ERIA"></a>
             </div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
@@ -163,5 +163,5 @@ CyberGreen appreciates the support and friendship of other organizations towards
 <a target="_blank" href="https://www.oic-cert.org/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}oic-cert.jpg" alt="OIC-CERT" /></a>
 <a target="_blank" href="https://www.pch.net"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}PCH-logo.png" alt="PCH" /></a>
 <a target="_blank" href="https://www.jpcert.or.jp/english/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}jpcertcc_logo2.png" alt="JPCERT/CC" /></a>
-<a target="_blank" href="https://www.csa.gov.sg"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}csa-logo.png" alt="CSA Singapore" /></a>
-<a target="_blank" href="https://www.icann.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}icann-logo.png" alt="ICANN" /></a>
+<a target="_blank" href="https://www.csa.gov.sg"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}csa-logo.jpg" alt="CSA Singapore" /></a>
+<a target="_blank" href="https://www.icann.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}ICANN-logo.png" alt="ICANN" /></a>
