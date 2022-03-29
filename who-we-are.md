@@ -133,7 +133,7 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
         <tr>
             <td style="padding-right: 20px" width="100" height="100" border="1px">
             <div class="flag_back"><a target="_blank" href="https://www.eria.org">
-            <img border="0" src="{{site.media}}erialogo.png" alt="ERIA"></a>
+            <img border="0" src="{{site.media}}eria-logo.png" alt="ERIA"></a>
             </div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
