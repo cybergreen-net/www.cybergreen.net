@@ -132,18 +132,13 @@ CyberGreen seeks general sponsorships, as well as partners for specific programs
     <tbody>
         <tr>
             <td style="padding-right: 20px" width="100" height="100" border="1px">
-            <div class="flag_back"><a target="_blank" href="https://www.jpcert.or.jp/english/">
-            <img border="0" src="{{site.media}}jpcertcc_logo2.png" alt="JPCERT/CC"></a>
+            <div class="flag_back"><a target="_blank" href="https://www.eria.org">
+            <img border="0" src="{{site.media}}erialogo.png" alt="ERIA"></a>
             </div>
             </td>
             <td style="padding-right: 10px" width="100" height="100" border="1px">
-            <div class="flag_back"><a target="_blank" href="https://www.csa.gov.sg">
-            <img border="0" src="{{site.media}}csa-logo.jpg" alt="CSA Singapore"></a>
-            </div>
-            </td>
-            <td style="padding-right: 10px" width="100" height="100" border="1px">
-            <div class="flag_back"><a target="_blank" href="https://www.icann.org">
-            <img border="0" src="{{site.media}}ICANN-logo.png" alt="ICANN"></a>
+            <div class="flag_back"><a target="_blank" href="https://apnic.foundation">
+            <img border="0" src="{{site.media}}apnic-foundation-logo.png" alt="APNIC Foundation"></a>
             </div>
             </td>
         </tr>
@@ -167,3 +162,5 @@ CyberGreen appreciates the support and friendship of other organizations towards
 <a target="_blank" href="http://www.internetsociety.org/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 35px" src="{{site.media}}ISOC-logo.png" alt="ISOC" /></a>
 <a target="_blank" href="https://www.oic-cert.org/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}oic-cert.jpg" alt="OIC-CERT" /></a>
 <a target="_blank" href="https://www.pch.net"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}PCH-logo.png" alt="PCH" /></a>
+<a target="_blank" href="https://www.jpcert.or.jp/english/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}jpcertcc_logo2.png" alt="JPCERT/CC" /></a>
+<a target="_blank" href="https://hwww.csa.gov.sg"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}csa-logo.png" alt="CSA Singapore" /></a>
