@@ -163,4 +163,5 @@ CyberGreen appreciates the support and friendship of other organizations towards
 <a target="_blank" href="https://www.oic-cert.org/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}oic-cert.jpg" alt="OIC-CERT" /></a>
 <a target="_blank" href="https://www.pch.net"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}PCH-logo.png" alt="PCH" /></a>
 <a target="_blank" href="https://www.jpcert.or.jp/english/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}jpcertcc_logo2.png" alt="JPCERT/CC" /></a>
-<a target="_blank" href="https://hwww.csa.gov.sg"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}csa-logo.png" alt="CSA Singapore" /></a>
+<a target="_blank" href="https://www.csa.gov.sg"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}csa-logo.png" alt="CSA Singapore" /></a>
+<a target="_blank" href="https://www.icann.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}icann-logo.png" alt="ICANN" /></a>
