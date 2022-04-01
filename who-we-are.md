@@ -165,3 +165,4 @@ CyberGreen appreciates the support and friendship of other organizations towards
 <a target="_blank" href="https://www.jpcert.or.jp/english/"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}jpcertcc_logo2.png" alt="JPCERT/CC" /></a>
 <a target="_blank" href="https://www.csa.gov.sg"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}csa-logo.jpg" alt="CSA Singapore" /></a>
 <a target="_blank" href="https://www.icann.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}ICANN-logo.png" alt="ICANN" /></a>
+<a target="_blank" href="https://www.nonprofitcyber.org"> <img style="width:150px; margin-right:20px; margin-top: 20px; margin-bottom: 20px" src="{{site.media}}nonprofitcyberlogo.png" alt="Nonprofit Cyber" /></a>
