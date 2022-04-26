@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  CyberGreen's Cyber Public Health Model Featured in Forbes Article.MD
-date:   2022-02-23
-image:  nonprofitcyberlogo.png
+title:  CyberGreen's Cyber Public Health Model Featured in Forbes Article
+date:   2021-11-29
+image:  forbeslogo.png
 published: true  
 ---
 
